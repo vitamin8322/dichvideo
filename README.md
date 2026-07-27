@@ -192,6 +192,54 @@ jobs/segment_retime_YYYYMMDD_HHMMSS/
 
 If sync looks wrong, send `output/retime_schedule.json` and `logs/segment_retimer.log`.
 
+## Batch Sync Video With SRT + Audio Segments
+
+Use tab `4 Batch Sync Parallel` when you want to create many synced videos in one run.
+
+Add one `Bo sync` per video. Each set has exactly one video, one SRT file, and one audio segment ZIP:
+
+```text
+Bo sync 1:
+  video 1
+  srt 1
+  audio_zip 1
+
+Bo sync 2:
+  video 2
+  srt 2
+  audio_zip 2
+```
+
+Each audio ZIP should contain the segment files for one video:
+
+```text
+0001.wav
+0002.wav
+0003.wav
+...
+```
+
+The ZIP may also contain those files inside a folder; the tool extracts supported audio files and ignores non-audio files.
+
+Set `So job chay song song` conservatively. `2` is a good default; higher values use more CPU/GPU/FFmpeg resources at the same time.
+
+Outputs are written under:
+
+```text
+jobs/batch_segment_retime_YYYYMMDD_HHMMSS/
+  output/batch_summary.json
+  output/batch_final_videos.zip
+  output/final_videos/
+  output/schedules/
+  output/logs/
+  logs/batch_segment_retimer.log
+  jobs/segment_retime_.../
+```
+
+Uploaded inputs are staged under `jobs/batch_upload_staging_YYYYMMDD_HHMMSS/`.
+
+If one video fails, the batch continues with the remaining videos. Send `output/batch_summary.json`, `logs/batch_segment_retimer.log`, and the failed child job log when you need bug review.
+
 ## Part 2: Colab OmniVoice TTS
 
 Use this after Part 1 has produced `output/translated.json` and an OmniVoice input zip.

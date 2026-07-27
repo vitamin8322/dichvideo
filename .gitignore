@@ -1,0 +1,43 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+jobs/
+
+# Local tool indexes/caches
+.codegraph/
+.*_cache*.json
+.translate_cache_*.json
+
+# Generated media and archives
+*.srt
+*.mp3
+*.mp4
+*.wav
+*.zip
+
+# Generated logs and run outputs
+*.log
+*schedule.json
+manifest.json
+status.json
+transcript*.json
+translated.json
+server.log
+server.err.log
+job_*/
+*_result/
+*_results/
+*_upload_job_*/
+output/
+work/
+chunks/
+segments/
+mix_segments/
+
+# Local input/output batches
+srt*/
+video/
+thumbnails/
+The Maid of the Genius/
+a/
