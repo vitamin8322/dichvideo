@@ -34,6 +34,14 @@ class SegmentRetimeUpdate:
     job_path: str | None = None
 
 
+@dataclass
+class VideoTimelinePiece:
+    start: float
+    end: float
+    ratio: float
+    duration: float
+
+
 def retime_video_to_audio_segments(
     video_path: Path,
     srt_path: Path,
@@ -93,7 +101,7 @@ def retime_video_to_audio_segments(
             logger.warning("Original audio volume was requested, but source video has no readable audio stream.")
         yield update(f"Loaded {len(segments)} SRT segment(s). Video duration: {video_duration:.3f}s")
 
-        video_piece_list = []
+        video_timeline = []
         audio_piece_list = []
         original_audio_piece_list = []
         schedule = []
@@ -103,11 +111,9 @@ def retime_video_to_audio_segments(
         for index, (segment, audio_path) in enumerate(zip(segments, copied_audio_paths), start=1):
             if config.keep_gaps and segment["start"] - previous_end >= 0.05:
                 gap_duration = segment["start"] - previous_end
-                gap_video = job_dir / "work" / "video_pieces" / f"{len(video_piece_list):05d}_gap.mp4"
                 gap_audio = job_dir / "work" / "audio_pieces" / f"{len(audio_piece_list):05d}_gap.wav"
-                _extract_video_piece(input_video, previous_end, segment["start"], gap_video, config, logger)
+                video_timeline.append(VideoTimelinePiece(previous_end, segment["start"], 1.0, gap_duration))
                 _make_silence(gap_audio, gap_duration, logger)
-                video_piece_list.append(gap_video)
                 audio_piece_list.append(gap_audio)
                 if has_original_audio:
                     original_gap_audio = job_dir / "work" / "original_audio_pieces" / f"{len(original_audio_piece_list):05d}_gap.wav"
@@ -134,18 +140,16 @@ def retime_video_to_audio_segments(
             else:
                 audio_tempo = _clamp(original_audio_duration / target_duration, config.min_audio_tempo, config.max_audio_tempo)
 
-            video_piece = job_dir / "work" / "video_pieces" / f"{len(video_piece_list):05d}_seg_{index:04d}.mp4"
             audio_piece = job_dir / "work" / "audio_pieces" / f"{len(audio_piece_list):05d}_seg_{index:04d}.wav"
-            _extract_and_retime_video_piece(input_video, segment["start"], segment["end"], video_ratio, target_duration, video_piece, config, logger)
+            video_timeline.append(VideoTimelinePiece(segment["start"], segment["end"], video_ratio, target_duration))
             _retime_audio_piece(audio_path, audio_tempo, target_duration, audio_piece, logger)
-            actual_video_piece_duration = _duration(video_piece, logger)
             actual_audio_piece_duration = _duration(audio_piece, logger)
-            if abs(actual_video_piece_duration - actual_audio_piece_duration) > 0.08:
+            if abs(target_duration - actual_audio_piece_duration) > 0.08:
                 logger.warning(
                     "Rendered segment duration mismatch index=%s target=%.3fs video_piece=%.3fs audio_piece=%.3fs",
                     index,
                     target_duration,
-                    actual_video_piece_duration,
+                    target_duration,
                     actual_audio_piece_duration,
                 )
             if has_original_audio:
@@ -161,7 +165,6 @@ def retime_video_to_audio_segments(
                 )
                 original_audio_piece_list.append(original_audio_piece)
 
-            video_piece_list.append(video_piece)
             audio_piece_list.append(audio_piece)
             schedule.append({
                 "type": "segment",
@@ -175,7 +178,7 @@ def retime_video_to_audio_segments(
                 "video_ratio": round(video_ratio, 5),
                 "target_duration": round(target_duration, 3),
                 "audio_tempo": round(audio_tempo, 5),
-                "actual_video_piece_duration": round(actual_video_piece_duration, 3),
+                "actual_video_piece_duration": round(target_duration, 3),
                 "actual_audio_piece_duration": round(actual_audio_piece_duration, 3),
                 "output_start": round(cursor, 3),
                 "output_end": round(cursor + target_duration, 3),
@@ -197,11 +200,9 @@ def retime_video_to_audio_segments(
 
         if config.keep_gaps and video_duration - previous_end >= 0.05:
             gap_duration = video_duration - previous_end
-            gap_video = job_dir / "work" / "video_pieces" / f"{len(video_piece_list):05d}_tail.mp4"
             gap_audio = job_dir / "work" / "audio_pieces" / f"{len(audio_piece_list):05d}_tail.wav"
-            _extract_video_piece(input_video, previous_end, video_duration, gap_video, config, logger)
+            video_timeline.append(VideoTimelinePiece(previous_end, video_duration, 1.0, gap_duration))
             _make_silence(gap_audio, gap_duration, logger)
-            video_piece_list.append(gap_video)
             audio_piece_list.append(gap_audio)
             if has_original_audio:
                 original_tail_audio = job_dir / "work" / "original_audio_pieces" / f"{len(original_audio_piece_list):05d}_tail.wav"
@@ -226,10 +227,10 @@ def retime_video_to_audio_segments(
             "items": schedule,
         })
 
-        yield update("Concatenating retimed video and audio...")
+        yield update("Rendering retimed video timeline and concatenating audio...")
         retimed_video = job_dir / "output" / "retimed_video.mp4"
         retimed_audio = job_dir / "output" / "retimed_audio.wav"
-        _concat_media(video_piece_list, retimed_video, "video", logger, job_dir)
+        _render_video_timeline(input_video, video_timeline, retimed_video, config, logger, job_dir)
         _concat_media(audio_piece_list, retimed_audio, "audio", logger, job_dir)
         audio_for_mux = retimed_audio
         if has_original_audio:
@@ -341,6 +342,54 @@ def _extract_and_retime_video_piece(input_video: Path, start: float, end: float,
         "-i", str(input_video),
         "-an",
         "-filter:v", video_filter,
+        "-c:v", "libx264",
+        "-preset", config.preset,
+        "-crf", str(config.crf),
+        "-pix_fmt", "yuv420p",
+        str(output_path),
+    ], logger)
+
+
+def _render_video_timeline(
+    input_video: Path,
+    pieces: list[VideoTimelinePiece],
+    output_path: Path,
+    config: SegmentRetimeConfig,
+    logger: logging.Logger,
+    job_dir: Path,
+) -> None:
+    if not pieces:
+        raise RuntimeError("No video timeline pieces to render.")
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    filter_script_path = job_dir / "work" / "video_timeline_filter.txt"
+    filter_script_path.parent.mkdir(parents=True, exist_ok=True)
+
+    lines = []
+    labels = []
+    for index, piece in enumerate(pieces):
+        duration = max(0.001, piece.duration)
+        label = f"v{index}"
+        labels.append(f"[{label}]")
+        lines.append(
+            f"[0:v]trim=start={piece.start:.6f}:end={piece.end:.6f},"
+            "setpts=PTS-STARTPTS,"
+            f"setpts={piece.ratio:.8f}*PTS,"
+            f"fps={config.output_fps},"
+            "tpad=stop_mode=clone:stop_duration=1,"
+            f"trim=duration={duration:.6f},"
+            f"setpts=PTS-STARTPTS[{label}]"
+        )
+
+    lines.append("".join(labels) + f"concat=n={len(pieces)}:v=1:a=0[vout]")
+    filter_script_path.write_text(";\n".join(lines), encoding="utf-8")
+
+    _run([
+        "ffmpeg", "-y",
+        "-i", str(input_video),
+        "-filter_complex_script", str(filter_script_path),
+        "-map", "[vout]",
+        "-an",
         "-c:v", "libx264",
         "-preset", config.preset,
         "-crf", str(config.crf),

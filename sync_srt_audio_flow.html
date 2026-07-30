@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sync SRT + Audio Segments Flow</title>
+  <style>
+    :root {
+      --bg: #111318;
+      --panel: #1b2028;
+      --panel-2: #222936;
+      --text: #eef2f7;
+      --muted: #aab4c0;
+      --line: #3a4656;
+      --cyan: #40c9d9;
+      --green: #76d06e;
+      --yellow: #f1c453;
+      --red: #ef6a75;
+      --blue: #7aa7ff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 20% 10%, rgba(64, 201, 217, 0.14), transparent 26rem),
+        radial-gradient(circle at 80% 20%, rgba(122, 167, 255, 0.12), transparent 30rem),
+        var(--bg);
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    main {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 36px 0 42px;
+    }
+
+    header {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 28px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 34px;
+      line-height: 1.1;
+      letter-spacing: 0;
+    }
+
+    p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: flex-end;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .legend span {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--cyan);
+    }
+
+    .dot.video { background: var(--blue); }
+    .dot.audio { background: var(--green); }
+    .dot.ffmpeg { background: var(--yellow); }
+
+    .board {
+      display: grid;
+      grid-template-columns: 1fr 1.12fr 1fr;
+      gap: 18px;
+      align-items: stretch;
+    }
+
+    .stage {
+      position: relative;
+      min-height: 560px;
+      padding: 18px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 8px;
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.015));
+      box-shadow: 0 18px 60px rgba(0, 0, 0, 0.28);
+      overflow: hidden;
+    }
+
+    .stage h2 {
+      margin: 0 0 14px;
+      font-size: 17px;
+      letter-spacing: 0;
+    }
+
+    .stack {
+      display: grid;
+      gap: 12px;
+    }
+
+    .card {
+      position: relative;
+      padding: 14px;
+      border-radius: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.09);
+      background: var(--panel);
+    }
+
+    .card strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 14px;
+    }
+
+    .card small {
+      color: var(--muted);
+      line-height: 1.45;
+    }
+
+    .timeline {
+      margin-top: 10px;
+      display: grid;
+      gap: 8px;
+    }
+
+    .track {
+      position: relative;
+      height: 34px;
+      border-radius: 6px;
+      overflow: hidden;
+      background: #12161d;
+      border: 1px solid rgba(255, 255, 255, 0.07);
+    }
+
+    .piece {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      border-right: 1px solid rgba(0, 0, 0, 0.35);
+      animation: breathe 2.4s ease-in-out infinite;
+    }
+
+    .piece.gap { background: rgba(170, 180, 192, 0.26); }
+    .piece.s1 { background: var(--blue); left: 9%; width: 16%; animation-delay: 0.1s; }
+    .piece.s2 { background: var(--blue); left: 32%; width: 20%; animation-delay: 0.3s; }
+    .piece.s3 { background: var(--blue); left: 59%; width: 14%; animation-delay: 0.5s; }
+    .piece.s4 { background: var(--blue); left: 79%; width: 12%; animation-delay: 0.7s; }
+    .piece.g1 { left: 0; width: 9%; }
+    .piece.g2 { left: 25%; width: 7%; }
+    .piece.g3 { left: 52%; width: 7%; }
+    .piece.g4 { left: 73%; width: 6%; }
+    .piece.g5 { left: 91%; width: 9%; }
+
+    .audio .piece.s1,
+    .audio .piece.s2,
+    .audio .piece.s3,
+    .audio .piece.s4 {
+      background: var(--green);
+    }
+
+    .arrow {
+      position: absolute;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--cyan), transparent);
+      animation: pulse-line 1.8s linear infinite;
+    }
+
+    .arrow::after {
+      content: "";
+      position: absolute;
+      right: -3px;
+      top: -4px;
+      border-left: 8px solid var(--cyan);
+      border-top: 5px solid transparent;
+      border-bottom: 5px solid transparent;
+    }
+
+    .left-to-mid {
+      left: calc(33.333% - 4px);
+      top: 300px;
+      width: 28px;
+    }
+
+    .mid-to-right {
+      left: calc(66.666% - 5px);
+      top: 300px;
+      width: 28px;
+    }
+
+    .processor {
+      min-height: 150px;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      background: radial-gradient(circle at center, rgba(241, 196, 83, 0.14), var(--panel));
+    }
+
+    .gear {
+      width: 76px;
+      height: 76px;
+      margin: 2px auto 12px;
+      border-radius: 50%;
+      border: 10px dashed var(--yellow);
+      animation: spin 7s linear infinite;
+    }
+
+    .formula {
+      display: grid;
+      gap: 8px;
+      margin-top: 12px;
+      color: var(--muted);
+      font-family: Consolas, Monaco, monospace;
+      font-size: 13px;
+    }
+
+    .formula div {
+      padding: 9px 10px;
+      border-radius: 6px;
+      background: rgba(0, 0, 0, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .render-strip {
+      position: relative;
+      height: 76px;
+      margin-top: 12px;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: #10141b;
+    }
+
+    .render-strip::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, var(--blue) 0 18%, rgba(170, 180, 192, 0.28) 18% 24%, var(--blue) 24% 48%, rgba(170, 180, 192, 0.28) 48% 55%, var(--blue) 55% 73%, rgba(170, 180, 192, 0.28) 73% 78%, var(--blue) 78% 100%);
+      opacity: 0.95;
+    }
+
+    .scan {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 52px;
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.75), transparent);
+      animation: scan 2.8s ease-in-out infinite;
+    }
+
+    .output-video {
+      height: 168px;
+      border-radius: 8px;
+      background:
+        linear-gradient(135deg, rgba(122, 167, 255, 0.25), rgba(118, 208, 110, 0.18)),
+        #0c1016;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      overflow: hidden;
+      position: relative;
+    }
+
+    .output-video::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 45px;
+      background: linear-gradient(90deg, var(--green), var(--yellow), var(--blue));
+      animation: final-wave 2.2s ease-in-out infinite;
+    }
+
+    .playhead {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: white;
+      box-shadow: 0 0 16px rgba(255, 255, 255, 0.8);
+      animation: playhead 4s linear infinite;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      margin-top: 10px;
+      padding: 7px 9px;
+      border-radius: 999px;
+      color: #081014;
+      background: var(--cyan);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .steps {
+      margin-top: 18px;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+    }
+
+    .step {
+      padding: 12px;
+      min-height: 92px;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.045);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.42;
+    }
+
+    .step b {
+      display: block;
+      color: var(--text);
+      margin-bottom: 6px;
+      font-size: 14px;
+    }
+
+    @keyframes breathe {
+      0%, 100% { filter: brightness(0.92); }
+      50% { filter: brightness(1.18); }
+    }
+
+    @keyframes pulse-line {
+      0% { opacity: 0.25; transform: scaleX(0.85); }
+      50% { opacity: 1; transform: scaleX(1); }
+      100% { opacity: 0.25; transform: scaleX(0.85); }
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes scan {
+      0% { left: -60px; }
+      55% { left: calc(100% + 8px); }
+      100% { left: calc(100% + 8px); }
+    }
+
+    @keyframes playhead {
+      from { left: 0; }
+      to { left: 100%; }
+    }
+
+    @keyframes final-wave {
+      0%, 100% { transform: translateY(14px); }
+      50% { transform: translateY(0); }
+    }
+
+    @media (max-width: 900px) {
+      header {
+        display: block;
+      }
+
+      .legend {
+        justify-content: flex-start;
+        margin-top: 14px;
+      }
+
+      .board {
+        grid-template-columns: 1fr;
+      }
+
+      .stage {
+        min-height: auto;
+      }
+
+      .arrow {
+        display: none;
+      }
+
+      .steps {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 560px) {
+      main {
+        width: min(100% - 22px, 1180px);
+        padding-top: 24px;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+
+      .steps {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>Sync SRT + Audio Segments</h1>
+        <p>Minh hoa cach tool cat theo SRT, so do dai audio, retime video/audio, render timeline va ghep thanh video cuoi.</p>
+      </div>
+      <div class="legend" aria-label="Chu thich mau">
+        <span><i class="dot video"></i>Video goc</span>
+        <span><i class="dot audio"></i>Audio segments</span>
+        <span><i class="dot ffmpeg"></i>FFmpeg render</span>
+      </div>
+    </header>
+
+    <section class="board" aria-label="Luồng xử lý">
+      <div class="stage">
+        <h2>1. Input</h2>
+        <div class="stack">
+          <article class="card">
+            <strong>Video goc</strong>
+            <small>Video 5 phut duoc doc duration, sau do tung moc SRT tro thanh mot doan can retime.</small>
+            <div class="timeline">
+              <div class="track">
+                <span class="piece gap g1"></span>
+                <span class="piece s1"></span>
+                <span class="piece gap g2"></span>
+                <span class="piece s2"></span>
+                <span class="piece gap g3"></span>
+                <span class="piece s3"></span>
+                <span class="piece gap g4"></span>
+                <span class="piece s4"></span>
+                <span class="piece gap g5"></span>
+                <span class="playhead"></span>
+              </div>
+            </div>
+          </article>
+
+          <article class="card">
+            <strong>File SRT</strong>
+            <small>Moi block co start, end, text. Neu co 200 block thi co 200 segment chinh.</small>
+            <div class="formula">
+              <div>001 | 00:00:01,200 --> 00:00:03,600</div>
+              <div>002 | 00:00:04,100 --> 00:00:06,900</div>
+              <div>003 | 00:00:07,600 --> 00:00:09,200</div>
+            </div>
+          </article>
+
+          <article class="card">
+            <strong>Audio segments</strong>
+            <small>Tool sap xep theo so trong ten file: 0001.wav, 0002.wav, 0003.wav...</small>
+            <div class="timeline audio">
+              <div class="track">
+                <span class="piece s1" style="left:0;width:20%"></span>
+                <span class="piece s2" style="left:25%;width:28%"></span>
+                <span class="piece s3" style="left:58%;width:18%"></span>
+                <span class="piece s4" style="left:82%;width:14%"></span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <div class="stage">
+        <h2>2. Tinh sync</h2>
+        <div class="stack">
+          <article class="card processor">
+            <div>
+              <div class="gear" aria-hidden="true"></div>
+              <strong>So duration tung segment</strong>
+              <small>Tool tinh video_ratio va audio_tempo de dua video piece va audio piece ve cung target_duration.</small>
+            </div>
+          </article>
+
+          <article class="card">
+            <strong>Cong thuc chinh</strong>
+            <div class="formula">
+              <div>video_duration = srt_end - srt_start</div>
+              <div>desired_ratio = audio_duration / video_duration</div>
+              <div>video_ratio = clamp(desired_ratio, min, max)</div>
+              <div>audio_tempo = audio_duration / target_duration</div>
+            </div>
+          </article>
+
+          <article class="card">
+            <strong>Ban update moi</strong>
+            <small>Video khong con encode tung file segment rieng. Tat ca video segment/gap/tail duoc gom vao mot filter_complex_script.</small>
+            <div class="render-strip">
+              <span class="scan"></span>
+            </div>
+            <span class="badge">1 lan render video timeline</span>
+          </article>
+        </div>
+      </div>
+
+      <div class="stage">
+        <h2>3. Output</h2>
+        <div class="stack">
+          <article class="card">
+            <strong>retimed_video.mp4</strong>
+            <small>Video da duoc cat, keo/cham/nhanh theo tung block SRT va concat trong FFmpeg filter.</small>
+          </article>
+
+          <article class="card">
+            <strong>retimed_audio.wav</strong>
+            <small>Audio segments duoc atempo, pad/trim, sau do concat thanh mot track audio lien mach.</small>
+          </article>
+
+          <article class="card">
+            <strong>final.mp4</strong>
+            <small>Tool mux video da render voi audio da sync. Neu bat audio goc, audio goc duoc retime va mix truoc khi mux.</small>
+            <div class="output-video">
+              <span class="playhead"></span>
+            </div>
+            <span class="badge">Video cuoi da dong bo</span>
+          </article>
+        </div>
+      </div>
+
+      <span class="arrow left-to-mid" aria-hidden="true"></span>
+      <span class="arrow mid-to-right" aria-hidden="true"></span>
+    </section>
+
+    <section class="steps" aria-label="Cac buoc tom tat">
+      <div class="step"><b>Parse SRT</b>Lay start/end cua tung block va dam bao timing khong bi chong len nhau.</div>
+      <div class="step"><b>Map audio</b>Sap xep audio theo so trong ten file roi ghep lan luot voi block SRT.</div>
+      <div class="step"><b>Retime</b>Uu tien doi toc do video, neu vuot gioi han thi dieu chinh audio tempo.</div>
+      <div class="step"><b>Render & mux</b>Render video timeline mot lan, concat audio, roi ghep thanh final.mp4.</div>
+    </section>
+  </main>
+</body>
+</html>
