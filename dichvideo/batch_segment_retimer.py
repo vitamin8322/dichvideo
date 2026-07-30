@@ -139,7 +139,7 @@ def run_batch_segment_retime(
 def run_batch_segment_retime_uploads(
     video_paths: list[Path],
     srt_paths: list[Path],
-    audio_archive_paths: list[Path],
+    audio_segment_groups: list[list[Path] | Path],
     jobs_root: Path,
     config: BatchSegmentRetimeConfig,
 ) -> Iterable[BatchSegmentRetimeUpdate]:
@@ -147,20 +147,17 @@ def run_batch_segment_retime_uploads(
         raise RuntimeError("No video files uploaded.")
     if len(video_paths) != len(srt_paths):
         raise RuntimeError(f"Video count and SRT count must match: {len(video_paths)} != {len(srt_paths)}.")
-    if len(video_paths) != len(audio_archive_paths):
-        raise RuntimeError(f"Video count and audio ZIP count must match: {len(video_paths)} != {len(audio_archive_paths)}.")
+    if len(video_paths) != len(audio_segment_groups):
+        raise RuntimeError(f"Video count and audio segment group count must match: {len(video_paths)} != {len(audio_segment_groups)}.")
 
     staging_root = _create_upload_staging_dir(jobs_root)
-    for index, (video_path, srt_path, audio_archive_path) in enumerate(zip(video_paths, srt_paths, audio_archive_paths), start=1):
+    for index, (video_path, srt_path, audio_items) in enumerate(zip(video_paths, srt_paths, audio_segment_groups), start=1):
         video_path = Path(video_path).resolve()
         srt_path = Path(srt_path).resolve()
-        audio_archive_path = Path(audio_archive_path).resolve()
         if video_path.suffix.lower() not in VIDEO_EXTENSIONS:
             raise RuntimeError(f"Unsupported video file: {video_path.name}")
         if srt_path.suffix.lower() != ".srt":
             raise RuntimeError(f"Unsupported SRT file: {srt_path.name}")
-        if audio_archive_path.suffix.lower() != ".zip":
-            raise RuntimeError(f"Audio segments must be uploaded as .zip: {audio_archive_path.name}")
 
         task_name = _safe_name(video_path.stem) or f"video_{index:03d}"
         task_folder = staging_root / f"{index:03d}_{task_name}"
@@ -168,9 +165,9 @@ def run_batch_segment_retime_uploads(
         segments_dir.mkdir(parents=True, exist_ok=True)
         shutil.copy2(video_path, task_folder / f"input{video_path.suffix.lower()}")
         shutil.copy2(srt_path, task_folder / "input.srt")
-        extracted_count = _extract_audio_archive(audio_archive_path, segments_dir)
-        if extracted_count == 0:
-            raise RuntimeError(f"No audio segment files found in ZIP: {audio_archive_path.name}")
+        copied_count = _stage_audio_uploads(audio_items, segments_dir)
+        if copied_count == 0:
+            raise RuntimeError(f"No audio segment files found for video: {video_path.name}")
 
     yield from run_batch_segment_retime(staging_root, jobs_root, config)
 
@@ -346,6 +343,36 @@ def _extract_audio_archive(archive_path: Path, output_dir: Path) -> int:
             with archive.open(item) as source, output_path.open("wb") as target:
                 shutil.copyfileobj(source, target)
             count += 1
+    return count
+
+
+def _stage_audio_uploads(audio_items: list[Path] | Path, output_dir: Path) -> int:
+    if isinstance(audio_items, (str, Path)):
+        audio_paths = [Path(audio_items).resolve()]
+    else:
+        audio_paths = [Path(item).resolve() for item in audio_items]
+
+    if len(audio_paths) == 1 and audio_paths[0].is_dir():
+        audio_paths = [
+            path for path in audio_paths[0].iterdir()
+            if path.is_file() and path.suffix.lower() in AUDIO_EXTENSIONS
+        ]
+
+    if len(audio_paths) == 1 and audio_paths[0].suffix.lower() == ".zip":
+        return _extract_audio_archive(audio_paths[0], output_dir)
+
+    count = 0
+    for audio_path in _sort_audio_paths(audio_paths):
+        if not audio_path.exists():
+            raise RuntimeError(f"Audio segment path not found: {audio_path}")
+        if audio_path.suffix.lower() not in AUDIO_EXTENSIONS:
+            raise RuntimeError(f"Unsupported audio segment file: {audio_path.name}")
+        safe_name = _safe_name(audio_path.stem) + audio_path.suffix.lower()
+        output_path = output_dir / safe_name
+        if output_path.exists():
+            output_path = output_dir / f"{count + 1:04d}_{safe_name}"
+        shutil.copy2(audio_path, output_path)
+        count += 1
     return count
 
 

@@ -346,18 +346,23 @@ def batch_retime_srt_audio_segments(batch_job_count, *values):
     active_count = max(1, min(MAX_BATCH_SYNC_JOBS, int(batch_job_count or 1)))
     video_files = []
     srt_files = []
-    audio_zip_files = []
+    audio_segment_groups = []
     for index in range(active_count):
-        video_file, srt_file, audio_zip_file = sync_values[index * 3:index * 3 + 3]
+        video_file, srt_file, audio_folder = sync_values[index * 3:index * 3 + 3]
         if not video_file:
             raise gr.Error(f"Bo sync {index + 1}: hay upload video goc.")
         if not srt_file:
             raise gr.Error(f"Bo sync {index + 1}: hay upload file SRT.")
-        if not audio_zip_file:
-            raise gr.Error(f"Bo sync {index + 1}: hay upload ZIP audio segments.")
+        if not audio_folder:
+            raise gr.Error(f"Bo sync {index + 1}: hay nhap folder audio segments.")
+        audio_folder_path = Path(str(audio_folder).strip())
+        if not audio_folder_path.exists():
+            raise gr.Error(f"Bo sync {index + 1}: folder audio segments khong ton tai.")
+        if not audio_folder_path.is_dir():
+            raise gr.Error(f"Bo sync {index + 1}: duong dan audio segments phai la folder.")
         video_files.append(video_file)
         srt_files.append(srt_file)
-        audio_zip_files.append(audio_zip_file)
+        audio_segment_groups.append(audio_folder_path)
 
     if float(min_video_ratio) > float(max_video_ratio):
         raise gr.Error("Min video ratio phai nho hon hoac bang max video ratio.")
@@ -380,8 +385,7 @@ def batch_retime_srt_audio_segments(batch_job_count, *values):
     )
     video_paths = [_as_path(item) for item in video_files]
     srt_paths = [_as_path(item) for item in srt_files]
-    audio_zip_paths = [_as_path(item) for item in audio_zip_files]
-    for update in run_batch_segment_retime_uploads(video_paths, srt_paths, audio_zip_paths, ROOT / "jobs", config):
+    for update in run_batch_segment_retime_uploads(video_paths, srt_paths, audio_segment_groups, ROOT / "jobs", config):
         yield update.status, update.log_text, update.summary_path, update.zip_path, update.batch_job_path
 
 
@@ -654,14 +658,12 @@ with gr.Blocks(title="DichVideo") as demo:
                                 file_types=[".srt"],
                                 type="filepath",
                             )
-                            batch_audio_zip_input = gr.File(
-                                label="Audio segments ZIP",
-                                file_count="single",
-                                file_types=[".zip"],
-                                type="filepath",
+                            batch_audio_input = gr.Textbox(
+                                label="Folder audio segments",
+                                placeholder=r"D:\audio_results\video_001\segments",
                             )
                         batch_sync_groups.append(batch_sync_group)
-                        batch_sync_inputs.extend([batch_video_input, batch_srt_input, batch_audio_zip_input])
+                        batch_sync_inputs.extend([batch_video_input, batch_srt_input, batch_audio_input])
                     with gr.Row():
                         add_batch_job_button = gr.Button("Them bo sync")
                         remove_batch_job_button = gr.Button("Xoa bo sync cuoi")
@@ -691,7 +693,7 @@ with gr.Blocks(title="DichVideo") as demo:
                         )
 
             gr.Markdown(
-                "Moi bo sync chi nhan 1 video, 1 SRT, va 1 ZIP audio segments. Bam them/xoa bo sync de chay nhieu video cung luc."
+                "Moi bo sync chi nhan 1 video, 1 SRT, va 1 duong dan folder audio segments. Bam them/xoa bo sync de chay nhieu video cung luc."
             )
             with gr.Row():
                 batch_summary_file = gr.File(label="Batch summary JSON")

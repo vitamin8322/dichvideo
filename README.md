@@ -196,21 +196,21 @@ If sync looks wrong, send `output/retime_schedule.json` and `logs/segment_retime
 
 Use tab `4 Batch Sync Parallel` when you want to create many synced videos in one run.
 
-Add one `Bo sync` per video. Each set has exactly one video, one SRT file, and one audio segment ZIP:
+Add one `Bo sync` per video. Each set has exactly one video, one SRT file, and one folder path containing the audio segment files:
 
 ```text
 Bo sync 1:
   video 1
   srt 1
-  audio_zip 1
+  D:\audio_results\video_001\segments
 
 Bo sync 2:
   video 2
   srt 2
-  audio_zip 2
+  D:\audio_results\video_002\segments
 ```
 
-Each audio ZIP should contain the segment files for one video:
+Each audio segment folder should contain:
 
 ```text
 0001.wav
@@ -219,7 +219,7 @@ Each audio ZIP should contain the segment files for one video:
 ...
 ```
 
-The ZIP may also contain those files inside a folder; the tool extracts supported audio files and ignores non-audio files.
+The tool reads supported audio files from that folder and sorts them by number in the filename.
 
 Set `So job chay song song` conservatively. `2` is a good default; higher values use more CPU/GPU/FFmpeg resources at the same time.
 
@@ -236,7 +236,7 @@ jobs/batch_segment_retime_YYYYMMDD_HHMMSS/
   jobs/segment_retime_.../
 ```
 
-Uploaded inputs are staged under `jobs/batch_upload_staging_YYYYMMDD_HHMMSS/`.
+Uploaded video/SRT inputs and referenced audio folder contents are staged under `jobs/batch_upload_staging_YYYYMMDD_HHMMSS/`.
 
 If one video fails, the batch continues with the remaining videos. Send `output/batch_summary.json`, `logs/batch_segment_retimer.log`, and the failed child job log when you need bug review.
 

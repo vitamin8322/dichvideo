@@ -87,6 +87,7 @@ def retime_video_to_audio_segments(
             copied_audio_paths = copied_audio_paths[:len(segments)]
 
         video_duration = _duration(input_video, logger)
+        _validate_segments(segments, video_duration)
         has_original_audio = config.original_audio_volume > 0 and _has_audio(input_video, logger)
         if config.original_audio_volume > 0 and not has_original_audio:
             logger.warning("Original audio volume was requested, but source video has no readable audio stream.")
@@ -438,6 +439,32 @@ def _sort_audio_paths(paths: list[Path]) -> list[Path]:
         numbers = re.findall(r"\d+", path.stem)
         return (int(numbers[-1]) if numbers else 10**9, path.name.lower())
     return sorted(paths, key=key)
+
+
+def _validate_segments(segments: list[dict], video_duration: float) -> None:
+    previous_end = 0.0
+    for index, segment in enumerate(segments, start=1):
+        start = float(segment["start"])
+        end = float(segment["end"])
+        if end <= start:
+            raise RuntimeError(
+                f"SRT segment {index} has invalid timing: start={_format_seconds(start)}, end={_format_seconds(end)}."
+            )
+        if start < previous_end - 0.001:
+            raise RuntimeError(
+                f"SRT segment {index} starts before the previous segment ends: "
+                f"previous_end={_format_seconds(previous_end)}, start={_format_seconds(start)}."
+            )
+        if end > video_duration + 0.25:
+            raise RuntimeError(
+                f"SRT segment {index} ends after the video duration: "
+                f"end={_format_seconds(end)}, video_duration={_format_seconds(video_duration)}."
+            )
+        previous_end = max(previous_end, end)
+
+
+def _format_seconds(value: float) -> str:
+    return f"{value:.3f}s"
 
 
 def _duration(path: Path, logger: logging.Logger) -> float:
