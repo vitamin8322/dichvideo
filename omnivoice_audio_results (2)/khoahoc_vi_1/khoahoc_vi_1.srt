@@ -1,0 +1,743 @@
+1
+00:00:00,266 --> 00:00:02,866
+Tàu hỏa nhanh nhất thế giới đã chạy được hơn 20 năm
+
+2
+00:00:02,866 --> 00:00:04,066
+Nhưng cho đến tận hôm nay
+
+3
+00:00:04,066 --> 00:00:05,100
+Vẫn chưa có bất kỳ ai
+
+4
+00:00:05,100 --> 00:00:07,333
+Xây dựng thêm tuyến đường thứ hai giống như thế
+
+5
+00:00:07,333 --> 00:00:08,733
+Không phải vì nó thất bại
+
+6
+00:00:08,733 --> 00:00:10,300
+Mà là vì nó đã quá thành công
+
+7
+00:00:10,300 --> 00:00:12,533
+Thành công đến mức không ai dám mạo hiểm làm theo
+
+8
+00:00:12,533 --> 00:00:15,333
+Tàu đệm từ Thượng Hải chạy từ Sân bay Phố Đông đến đường Long Dương
+
+9
+00:00:15,333 --> 00:00:16,600
+Toàn tuyến dài 30 km
+
+10
+00:00:16,600 --> 00:00:18,600
+Tốc độ tối đa lên tới 431 km/h
+
+11
+00:00:18,600 --> 00:00:19,933
+Thông xe vào năm 2002
+
+12
+00:00:19,933 --> 00:00:21,200
+Đây hiện là tuyến tàu đệm từ cao tốc duy nhất trên thế giới
+
+13
+00:00:21,200 --> 00:00:23,466
+vẫn đang hoạt động thương mại
+
+14
+00:00:23,466 --> 00:00:24,466
+cho đến ngày nay
+
+15
+00:00:24,500 --> 00:00:26,166
+Nguyên lý hoạt động thực ra không hề phức tạp
+
+16
+00:00:26,166 --> 00:00:28,533
+Phía dưới hai bên gầm tàu được lắp nam châm điện
+
+17
+00:00:28,533 --> 00:00:30,366
+Phía dưới dầm đường ray là các vật liệu từ tính
+
+18
+00:00:30,366 --> 00:00:31,366
+Sau khi đóng điện
+
+19
+00:00:31,366 --> 00:00:33,300
+Nam châm điện sẽ hút đoàn tàu lên trên
+
+20
+00:00:33,300 --> 00:00:35,900
+Nhưng độ cao lơ lửng chỉ vỏn vẹn 10 mm
+
+21
+00:00:35,900 --> 00:00:36,500
+Khái niệm này nghĩa là gì?
+
+22
+00:00:36,500 --> 00:00:38,366
+Một đoàn tàu nặng hơn 300 tấn
+
+23
+00:00:38,366 --> 00:00:40,566
+lao đi với tốc độ hơn 400 km/h
+
+24
+00:00:40,566 --> 00:00:42,100
+Nhưng khoảng cách giữa nó và đường ray
+
+25
+00:00:42,100 --> 00:00:43,333
+chỉ bằng độ dày của một chiếc đũa
+
+26
+00:00:43,333 --> 00:00:44,800
+Một hệ thống điều khiển điện tử
+
+27
+00:00:44,800 --> 00:00:46,666
+điều chỉnh dòng điện hàng nghìn lần mỗi giây
+
+28
+00:00:46,666 --> 00:00:48,533
+để duy trì khoảng cách này cực kỳ chính xác
+
+29
+00:00:48,533 --> 00:00:49,766
+Chỉ cần lệch thêm một milimét
+
+30
+00:00:49,766 --> 00:00:51,800
+lực hút không đủ tàu sẽ hạ xuống đường ray
+
+31
+00:00:51,800 --> 00:00:53,900
+còn nếu thiếu một milimét tàu sẽ bị hút chặt vào ray
+
+32
+00:00:53,900 --> 00:00:56,200
+Đây chính là nghịch lý cốt lõi của tàu đệm từ
+
+33
+00:00:56,200 --> 00:00:59,200
+Mọi ưu điểm của nó đều dựa trên việc không tiếp xúc
+
+34
+00:00:59,266 --> 00:01:00,600
+Không tiếp xúc thì không có ma sát
+
+35
+00:01:00,600 --> 00:01:02,600
+Không có ma sát thì giới hạn tốc độ sẽ bị phá bỏ
+
+36
+00:01:02,600 --> 00:01:04,266
+Nhưng không tiếp xúc cũng đồng nghĩa với việc
+
+37
+00:01:04,266 --> 00:01:06,400
+nó hoàn toàn biệt lập với mọi hệ thống đường sắt khác trên Trái Đất
+
+38
+00:01:06,400 --> 00:01:07,300
+hoàn toàn tách biệt
+
+39
+00:01:07,300 --> 00:01:08,666
+Nó không thể chạy trên đường ray thông thường
+
+40
+00:01:08,666 --> 00:01:09,900
+không thể đỗ ở các ga tàu truyền thống
+
+41
+00:01:09,900 --> 00:01:12,300
+và không thể kết nối vào mạng lưới đường sắt có sẵn
+
+42
+00:01:12,366 --> 00:01:13,333
+Khoảnh khắc nó bay lên
+
+43
+00:01:13,333 --> 00:01:14,200
+Nó vô cùng tự do
+
+44
+00:01:14,200 --> 00:01:16,066
+nhưng đồng thời cũng rất đơn độc
+
+45
+00:01:16,066 --> 00:01:18,333
+Và hướng đi công nghệ định sẵn sự cô độc này
+
+46
+00:01:18,333 --> 00:01:20,100
+lại do người Đức tiên phong khai phá
+
+47
+00:01:20,100 --> 00:01:22,400
+Năm 1922, kỹ sư người Đức Hermann
+
+48
+00:01:22,400 --> 00:01:24,700
+Kemper đề xuất ý tưởng về tàu đệm từ điện từ
+
+49
+00:01:24,700 --> 00:01:25,900
+Đến những năm 80
+
+50
+00:01:25,900 --> 00:01:27,733
+Siemens và ThyssenKrupp đã bắt tay hợp tác
+
+51
+00:01:27,733 --> 00:01:28,533
+xây dựng một tuyến đường thử nghiệm dài 31,8 km tại Emsland
+
+52
+00:01:28,533 --> 00:01:31,266
+và phát triển dòng tàu Transrapid
+
+53
+00:01:31,266 --> 00:01:32,966
+với tốc độ tối đa từng đạt 450 km/h
+
+54
+00:01:32,966 --> 00:01:35,566
+Công nghệ đã được chứng minh
+
+55
+00:01:35,566 --> 00:01:36,700
+tàu mẫu cũng đã hoàn thành
+
+56
+00:01:36,700 --> 00:01:37,866
+Sau đó, họ mất thêm 20 năm
+
+57
+00:01:37,866 --> 00:01:39,100
+để tìm cách thương mại hóa công nghệ này
+
+58
+00:01:39,100 --> 00:01:40,533
+Nhưng mọi phương án đều chỉ ra một thực tế phũ phàng
+
+59
+00:01:40,533 --> 00:01:43,133
+Chi phí chế tạo quá đắt đỏ
+
+60
+00:01:43,133 --> 00:01:44,733
+Chi phí xây dựng một km đường ray đệm từ
+
+61
+00:01:44,733 --> 00:01:46,800
+cao gấp 2 đến 3 lần so với đường sắt cao tốc thông thường
+
+62
+00:01:46,800 --> 00:01:48,800
+Hơn nữa, đường ray này chỉ dùng riêng cho tàu đệm từ
+
+63
+00:01:48,800 --> 00:01:51,200
+các loại tàu khác không thể sử dụng chung
+
+64
+00:01:51,200 --> 00:01:52,500
+Năm 2006, tuyến đường thử nghiệm của Đức xảy ra sự cố nghiêm trọng
+
+65
+00:01:52,500 --> 00:01:55,133
+Một đoàn tàu chở 30 người đang chạy với tốc độ 170 km/h
+
+66
+00:01:55,133 --> 00:01:58,500
+đã va chạm với một chiếc xe bảo dưỡng bị để quên trên đường ray
+
+67
+00:01:58,500 --> 00:02:00,800
+Sự việc đã cướp đi sinh mạng của 23 người
+
+68
+00:02:00,800 --> 00:02:01,933
+Sự việc đã cướp đi sinh mạng của 23 người
+
+69
+00:02:01,933 --> 00:02:03,733
+Đây là sự cố nghiêm trọng đầu tiên trong lịch sử
+
+70
+00:02:03,733 --> 00:02:05,133
+tàu đệm từ
+
+71
+00:02:05,133 --> 00:02:06,100
+Nhưng trớ trêu thay
+
+72
+00:02:06,100 --> 00:02:07,533
+nguyên nhân sự cố lại không hề liên quan
+
+73
+00:02:07,533 --> 00:02:09,366
+đến công nghệ tàu đệm từ
+
+74
+00:02:09,366 --> 00:02:09,800
+Nhưng điều đó
+
+75
+00:02:09,800 --> 00:02:12,366
+lại trở thành giọt nước tràn ly làm sụp đổ toàn bộ dự án
+
+76
+00:02:12,366 --> 00:02:13,866
+Tuyến đường dự kiến ở Munich bị hủy bỏ hoàn toàn
+
+77
+00:02:13,866 --> 00:02:15,666
+Tuyến đường thử nghiệm cũng dừng hoạt động vào năm 2011
+
+78
+00:02:15,666 --> 00:02:17,066
+và hiện đang bị tháo dỡ
+
+79
+00:02:17,066 --> 00:02:18,500
+Liên doanh Transrapid
+
+80
+00:02:18,500 --> 00:02:20,633
+cũng tuyên bố giải thể vào năm 2008
+
+81
+00:02:20,700 --> 00:02:22,933
+Người Đức dành 40 năm nghiên cứu tàu đệm từ
+
+82
+00:02:22,933 --> 00:02:25,300
+nhưng thành quả thương mại duy nhất lại được ứng dụng tại Thượng Hải
+
+83
+00:02:25,300 --> 00:02:27,200
+Trong khi đó, Nhật Bản lại lựa chọn một lối đi riêng
+
+84
+00:02:27,200 --> 00:02:28,733
+Không phải đệm từ trường thường
+
+85
+00:02:28,733 --> 00:02:30,400
+mà là đệm từ siêu dẫn
+
+86
+00:02:30,400 --> 00:02:33,700
+Nguyên lý ngược lại, dùng lực đẩy từ trường để nâng đoàn tàu lên
+
+87
+00:02:33,700 --> 00:02:35,366
+Khoảng cách lơ lửng có thể lên tới 10 cm
+
+88
+00:02:35,366 --> 00:02:37,400
+ổn định hơn rất nhiều so với giải pháp đệm từ thường của Đức
+
+89
+00:02:37,400 --> 00:02:38,666
+Nhưng nó yêu cầu một điều kiện tiên quyết
+
+90
+00:02:38,766 --> 00:02:40,066
+đó là đoàn tàu phải chạy bằng bánh cao su trước
+
+91
+00:02:40,066 --> 00:02:41,966
+đạt tốc độ khoảng 150 km/h
+
+92
+00:02:41,966 --> 00:02:43,000
+thì mới có thể cất cánh lơ lửng
+
+93
+00:02:43,000 --> 00:02:43,900
+Vào năm 2015
+
+94
+00:02:43,900 --> 00:02:46,933
+đoàn tàu thử nghiệm dòng L0 của Nhật Bản đã đạt tốc độ 603 km/h trên tuyến chạy thử Yamanashi
+
+95
+00:02:46,933 --> 00:02:48,900
+xác lập kỷ lục tốc độ giao thông mặt đất
+
+96
+00:02:48,900 --> 00:02:49,600
+mà đến nay
+
+97
+00:02:49,600 --> 00:02:51,933
+chưa ai phá vỡ
+
+98
+00:02:51,933 --> 00:02:54,266
+Sau đó, họ bắt đầu xây dựng tuyến Chuo Shinkansen
+
+99
+00:02:54,266 --> 00:02:56,666
+từ Tokyo đến Nagoya dài 286 km
+
+100
+00:02:56,666 --> 00:02:58,733
+do Công ty Đường sắt Trung Nhật Bản tự huy động vốn hoàn toàn
+
+101
+00:02:58,733 --> 00:03:00,766
+Ngân sách ban đầu là 5,5 nghìn tỷ Yên
+
+102
+00:03:00,766 --> 00:03:02,733
+tương đương khoảng 250 tỷ Nhân dân tệ
+
+103
+00:03:02,733 --> 00:03:04,466
+Dự kiến ban đầu sẽ thông xe vào năm 2027
+
+104
+00:03:04,466 --> 00:03:05,466
+Tuy nhiên, tỉnh Shizuoka
+
+105
+00:03:05,466 --> 00:03:07,766
+lo ngại việc thi công đường hầm ảnh hưởng đến nguồn nước địa phương
+
+106
+00:03:07,766 --> 00:03:09,666
+nên suốt 10 năm vẫn chưa cấp phép xây dựng
+
+107
+00:03:09,666 --> 00:03:12,300
+Các công trường khác cũng liên tục gặp phải những trở ngại lớn về địa chất
+
+108
+00:03:12,300 --> 00:03:13,866
+khiến tổng ngân sách sau 5 năm
+
+109
+00:03:13,866 --> 00:03:16,100
+vọt lên tới 11 nghìn tỷ Yên
+
+110
+00:03:16,100 --> 00:03:17,800
+tương đương hơn 500 tỷ Nhân dân tệ
+
+111
+00:03:17,800 --> 00:03:20,600
+Thời gian thông xe sớm nhất phải lùi tới năm 2035
+
+112
+00:03:20,600 --> 00:03:22,133
+Ngay cả JR Tokai cũng thừa nhận
+
+113
+00:03:22,133 --> 00:03:24,066
+mốc thời gian này không phải là lời hứa chắc chắn
+
+114
+00:03:24,066 --> 00:03:26,266
+mà chỉ là giả định để tính toán chi phí công trình
+
+115
+00:03:26,266 --> 00:03:28,000
+Còn đoạn kéo dài từ Nagoya đến Osaka
+
+116
+00:03:28,000 --> 00:03:30,300
+thành công của hướng đi này dự kiến phải đợi sau năm 2045
+
+117
+00:03:30,300 --> 00:03:32,900
+Tôi nghĩ câu chuyện của Nhật Bản là điều đáng để chúng ta suy ngẫm nhất
+
+118
+00:03:32,900 --> 00:03:34,466
+Không phải vì sự chậm trễ của công trình
+
+119
+00:03:34,466 --> 00:03:36,066
+mà là sự thay đổi của thời thế
+
+120
+00:03:36,066 --> 00:03:38,133
+Vào những năm 90 khi lập quy hoạch tàu đệm từ
+
+121
+00:03:38,133 --> 00:03:41,166
+tốc độ chạy tàu cao nhất của Shinkansen chỉ là 270 km/h
+
+122
+00:03:41,166 --> 00:03:44,233
+kém gần một nửa so với mức 500 km/h của tàu đệm từ
+
+123
+00:03:44,300 --> 00:03:45,333
+Nhưng 30 năm trôi qua
+
+124
+00:03:45,333 --> 00:03:47,066
+công nghệ đường ray truyền thống đã không ngừng bám đuổi
+
+125
+00:03:47,066 --> 00:03:48,666
+Thế hệ tàu truyền thống tiếp theo của Nhật Bản
+
+126
+00:03:48,666 --> 00:03:51,466
+đã thử nghiệm thành công với tốc độ trên 400 km/h
+
+127
+00:03:51,466 --> 00:03:52,966
+Khoảng cách về tốc độ đang dần thu hẹp
+
+128
+00:03:53,200 --> 00:03:54,933
+trong khi chi phí xây dựng tàu đệm từ lại không ngừng phình to
+
+129
+00:03:54,933 --> 00:03:57,333
+Nhìn lại tuyến tàu đệm từ Thượng Hải đã hoạt động hơn 20 năm
+
+130
+00:03:57,333 --> 00:03:59,400
+Đoàn tàu chưa từng phải trải qua đợt đại tu toàn diện nào
+
+131
+00:03:59,400 --> 00:04:00,200
+như tàu chạy trên ray thông thường
+
+132
+00:04:00,200 --> 00:04:01,766
+Chi phí bảo trì cơ khí vô cùng thấp
+
+133
+00:04:01,766 --> 00:04:03,300
+Nhưng thực tế, hầu hết các chuyến
+
+134
+00:04:03,300 --> 00:04:06,200
+chỉ chạy ở tốc độ 300 km/h
+
+135
+00:04:06,200 --> 00:04:08,533
+chỉ có rất ít chuyến chạy với tốc độ 430 km/h
+
+136
+00:04:08,533 --> 00:04:10,566
+Trong khi đó, tốc độ vận hành tiêu chuẩn của đường sắt cao tốc Trung Quốc
+
+137
+00:04:10,566 --> 00:04:12,200
+đã là 350 km/h
+
+138
+00:04:12,200 --> 00:04:14,066
+Bạn bỏ ra số tiền lớn hơn nhiều so với xây tàu cao tốc
+
+139
+00:04:14,066 --> 00:04:16,100
+để xây dựng một hệ thống hoàn toàn độc lập
+
+140
+00:04:16,100 --> 00:04:18,566
+nhưng tốc độ vận hành hàng ngày thậm chí còn chậm hơn cả tàu cao tốc
+
+141
+00:04:18,566 --> 00:04:20,366
+Nhìn bề ngoài thì điều này thật sự có phần bất cập
+
+142
+00:04:20,366 --> 00:04:21,966
+Nhưng nếu tính toán trên chu kỳ vận hành dài hạn 30 năm
+
+143
+00:04:21,966 --> 00:04:23,900
+hay 50 năm
+
+144
+00:04:23,900 --> 00:04:25,866
+bài toán kinh tế này không hề đơn giản như vậy
+
+145
+00:04:25,866 --> 00:04:28,600
+Hiện nay Trung Quốc đang phát triển tàu đệm từ tốc độ 600 km/h
+
+146
+00:04:28,600 --> 00:04:30,366
+và thử nghiệm song song cả hai hướng đi công nghệ
+
+147
+00:04:30,366 --> 00:04:33,133
+Năm 2021, CRRC Sifang đã cho ra mắt mẫu tàu đệm từ thường
+
+148
+00:04:33,133 --> 00:04:33,966
+Năm 2024
+
+149
+00:04:33,966 --> 00:04:37,066
+CRRC Changke chế tạo thành công mẫu tàu thử nghiệm đệm từ siêu dẫn
+
+150
+00:04:37,066 --> 00:04:39,466
+Như tuyến siêu đệm từ Hàng Châu - Thượng Hải đang được quy hoạch
+
+151
+00:04:39,466 --> 00:04:41,133
+với tốc độ thiết kế 600 km/h
+
+152
+00:04:41,133 --> 00:04:43,600
+chi phí xây dựng mỗi km rơi vào khoảng 300 đến 350 triệu tệ
+
+153
+00:04:43,600 --> 00:04:45,766
+toàn tuyến ước tính sẽ ngốn khoảng 100 tỷ tệ
+
+154
+00:04:45,900 --> 00:04:48,000
+Do đó, sự bất đồng quan điểm lớn nhất nằm ở đây
+
+155
+00:04:48,000 --> 00:04:52,266
+Đoàn tàu thế hệ mới thử nghiệm đã vượt mốc 450 km/h
+
+156
+00:04:52,266 --> 00:04:54,600
+Nếu tàu truyền thống chạy ray có thể vận hành ổn định
+
+157
+00:04:54,600 --> 00:04:56,366
+ở mức 400 đến 450 km/h
+
+158
+00:04:56,366 --> 00:04:58,066
+thì ưu thế tốc độ ít ỏi của tàu đệm từ
+
+159
+00:04:58,066 --> 00:04:59,866
+liệu có còn xứng đáng với mức đầu tư gấp vài lần?
+
+160
+00:04:59,866 --> 00:05:00,766
+Điều quan trọng hơn cả là
+
+161
+00:05:00,766 --> 00:05:02,700
+giá trị cốt lõi của mạng lưới đường sắt cao tốc hơn 40.000 km
+
+162
+00:05:02,700 --> 00:05:04,633
+là sự kết nối đồng bộ
+
+163
+00:05:04,733 --> 00:05:06,700
+Tàu đệm từ lại hoàn toàn không thể hòa vào mạng lưới này
+
+164
+00:05:06,700 --> 00:05:08,200
+Nếu bạn xây dựng một tuyến đệm từ riêng biệt
+
+165
+00:05:08,200 --> 00:05:10,733
+hành khách đến ga trung chuyển vẫn phải xuống tàu để đổi sang tàu cao tốc thông thường
+
+166
+00:05:10,733 --> 00:05:13,333
+Tuy nhiên, cũng có ý kiến cho rằng tàu chạy ray thông thường có giới hạn vật lý
+
+167
+00:05:13,333 --> 00:05:15,866
+và tốc độ 450 km/h đã là ngưỡng tối đa
+
+168
+00:05:15,866 --> 00:05:18,766
+Chỉ có tàu đệm từ mới có thể lấp đầy khoảng trống tốc độ 600 km/h
+
+169
+00:05:18,766 --> 00:05:20,333
+Hơn nữa, do không có ma sát cơ học
+
+170
+00:05:20,333 --> 00:05:22,666
+chi phí vận hành lâu dài của nó sẽ thấp hơn nhiều so với tàu chạy ray
+
+171
+00:05:22,666 --> 00:05:24,333
+Cả hai luồng ý kiến đều có những lập luận thuyết phục
+
+172
+00:05:24,333 --> 00:05:27,033
+Nhưng bản thân câu hỏi này có lẽ còn thú vị hơn cả câu trả lời
+
+173
+00:05:27,066 --> 00:05:29,066
+Một đoàn tàu muốn chạy nhanh hơn
+
+174
+00:05:29,066 --> 00:05:30,166
+đã lựa chọn nhấc mình rời khỏi mặt đất
+
+175
+00:05:30,166 --> 00:05:31,266
+Nhưng một khi đã rời đi
+
+176
+00:05:31,266 --> 00:05:33,466
+nó sẽ không bao giờ có thể quay lại mạng lưới đường ray thông thường được nữa
+
+177
+00:05:33,466 --> 00:05:35,200
+Nó chạy càng nhanh thì lại càng trở nên cô độc
+
+178
+00:05:35,200 --> 00:05:36,900
+Điều này
+
+179
+00:05:36,900 --> 00:05:37,366
+đã được định sẵn kể từ khi Hermann Kemper
+
+180
+00:05:37,366 --> 00:05:39,600
+phác thảo bản vẽ đầu tiên vào năm 1922
+
+181
+00:05:39,600 --> 00:05:40,466
+và được coi là khởi đầu của hướng đi này
+
+182
+00:05:40,466 --> 00:05:41,700
+Đã hơn một thế kỷ trôi qua
+
+183
+00:05:41,700 --> 00:05:44,866
+vẫn chưa có bất kỳ tiến bộ kỹ thuật nào giải quyết được mâu thuẫn này
+
+184
+00:05:44,900 --> 00:05:47,666
+Vậy theo bạn, đoàn tàu đệm từ với tốc độ 600 km/h
+
+185
+00:05:47,666 --> 00:05:50,900
+liệu có xứng đáng để đầu tư hàng trăm tỷ tệ hay không?
+
+186
+00:05:50,900 --> 00:05:51,700
+Hãy để lại ý kiến dưới phần bình luận nhé!

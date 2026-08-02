@@ -10,7 +10,6 @@ jobs/
 .translate_cache_*.json
 
 # Generated media and archives
-*.srt
 *.mp3
 *.mp4
 *.wav
@@ -36,7 +35,6 @@ segments/
 mix_segments/
 
 # Local input/output batches
-srt*/
 video/
 thumbnails/
 The Maid of the Genius/
