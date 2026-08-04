@@ -1,0 +1,399 @@
+1
+00:00:00,166 --> 00:00:02,566
+Giả sử bạn đang ở trên một con thuyền và đang đi thẳng ra khơi, vuông góc với bờ biển
+
+2
+00:00:02,566 --> 00:00:04,866
+Khi cách bờ biển 1 km thì bỗng nhiên sương mù dày đặc nổi lên
+
+3
+00:00:04,866 --> 00:00:06,300
+Bạn hoàn toàn bị mất phương hướng
+
+4
+00:00:06,566 --> 00:00:07,900
+Câu hỏi đặt ra là:
+
+5
+00:00:07,900 --> 00:00:09,666
+Làm sao để chắc chắn bạn tìm thấy bờ biển
+
+6
+00:00:09,666 --> 00:00:11,033
+với quãng đường di chuyển ngắn nhất?
+
+7
+00:00:11,200 --> 00:00:12,300
+"Ngắn nhất" ở đây
+
+8
+00:00:12,300 --> 00:00:13,866
+có nghĩa là trong trường hợp xấu nhất,
+
+9
+00:00:13,866 --> 00:00:15,466
+quãng đường di chuyển tối đa là nhỏ nhất.
+
+10
+00:00:15,700 --> 00:00:17,000
+Cách dễ nghĩ ra nhất là:
+
+11
+00:00:17,000 --> 00:00:19,200
+đi 1 km theo hướng bạn cho là bờ biển.
+
+12
+00:00:19,200 --> 00:00:20,333
+Nếu không chạm bờ,
+
+13
+00:00:20,333 --> 00:00:22,166
+hãy đi theo một đường tròn nhận vị trí ban đầu làm tâm.
+
+14
+00:00:22,166 --> 00:00:23,800
+Cuối cùng chắc chắn bạn sẽ chạm bờ.
+
+15
+00:00:24,100 --> 00:00:25,133
+Trong trường hợp xấu nhất,
+
+16
+00:00:25,133 --> 00:00:25,766
+hướng bờ biển
+
+17
+00:00:25,766 --> 00:00:27,733
+chỉ lệch một chút so với hướng bạn phán đoán.
+
+18
+00:00:27,733 --> 00:00:29,133
+Bạn vừa khéo đi sượt qua bờ biển
+
+19
+00:00:29,133 --> 00:00:31,166
+và phải đi gần như trọn một vòng tròn mới chạm bờ.
+
+20
+00:00:31,500 --> 00:00:33,533
+Do đó, tổng quãng đường sẽ là 1 km đi thẳng
+
+21
+00:00:33,533 --> 00:00:36,066
+cộng với chu vi vòng tròn, tức là 1 + 2π km.
+
+22
+00:00:36,100 --> 00:00:38,100
+Tuy nhiên, đây không phải là lời giải tối ưu.
+
+23
+00:00:38,200 --> 00:00:40,600
+Nếu đi thẳng 1.5 km trước rồi mới bắt đầu đi vòng,
+
+24
+00:00:40,600 --> 00:00:43,233
+bạn có thể thấy mình chạm bờ sớm hơn trước.
+
+25
+00:00:43,466 --> 00:00:44,700
+Dù là 1.5 km,
+
+26
+00:00:44,700 --> 00:00:46,300
+2 km hay 1.4 km,
+
+27
+00:00:46,300 --> 00:00:47,600
+mặc dù quãng đường đi thẳng dài hơn,
+
+28
+00:00:47,600 --> 00:00:48,700
+bán kính đường tròn lớn hơn,
+
+29
+00:00:48,700 --> 00:00:50,600
+nhưng cung tròn cần đi vòng lại ngắn đi.
+
+30
+00:00:50,766 --> 00:00:51,866
+Vì vậy, câu hỏi trở thành:
+
+31
+00:00:51,866 --> 00:00:53,300
+Liệu có một khoảng cách xuất phát d nào
+
+32
+00:00:53,300 --> 00:00:56,033
+khiến tổng quãng đường trong trường hợp xấu nhất nhỏ hơn 1+2π không?
+
+33
+00:00:56,266 --> 00:00:57,166
+Dựa vào hình vẽ, ta thấy:
+
+34
+00:00:57,166 --> 00:00:59,466
+Tổng quãng đường bằng d cộng với chiều dài cung tròn.
+
+35
+00:00:59,666 --> 00:01:00,766
+Góc ở tâm theta
+
+36
+00:01:00,766 --> 00:01:02,566
+chính là góc kẹp giữa hai đường nét đứt này.
+
+37
+00:01:02,566 --> 00:01:05,166
+Trong đó, một góc trong là arccos của 1/d,
+
+38
+00:01:05,366 --> 00:01:08,366
+từ đó ta có biểu thức cho tổng quãng đường xấu nhất.
+
+39
+00:01:08,600 --> 00:01:10,600
+Biểu diễn trên hệ tọa độ, ta được đường cong này.
+
+40
+00:01:10,600 --> 00:01:13,333
+Có thể thấy khi d bằng 1 hoặc 1.1830,
+
+41
+00:01:13,333 --> 00:01:15,066
+quãng đường trong trường hợp xấu nhất đều là 1+2π.
+
+42
+00:01:15,300 --> 00:01:16,900
+Chỉ cần d nằm trong khoảng giữa hai giá trị này,
+
+43
+00:01:16,900 --> 00:01:18,200
+kết quả đều sẽ tốt hơn.
+
+44
+00:01:18,366 --> 00:01:20,733
+Điểm thấp nhất của đường cong nằm ở khoảng 1.04,
+
+45
+00:01:20,733 --> 00:01:23,066
+tương ứng với quãng đường khoảng 6.995 km.
+
+46
+00:01:23,266 --> 00:01:23,900
+Nghĩa là,
+
+47
+00:01:23,900 --> 00:01:26,700
+nếu ban đầu đi thẳng 1.04 km rồi mới bắt đầu đi vòng,
+
+48
+00:01:26,700 --> 00:01:29,100
+quãng đường đi sẽ không vượt quá 6.995 km.
+
+49
+00:01:29,266 --> 00:01:33,200
+Tiết kiệm được khoảng 0.28 km so với 7.28 km ban đầu.
+
+50
+00:01:33,266 --> 00:01:35,233
+Nhưng thực ra, chúng ta vẫn có thể làm tốt hơn nữa.
+
+51
+00:01:35,333 --> 00:01:36,900
+Phương pháp này gồm bốn bước:
+
+52
+00:01:36,900 --> 00:01:37,733
+Đầu tiên, chọn ngẫu nhiên một
+
+53
+00:01:37,733 --> 00:01:39,333
+hướng mà bạn cho là có bờ biển,
+
+54
+00:01:39,333 --> 00:01:40,166
+với góc là theta,
+
+55
+00:01:40,166 --> 00:01:42,300
+trong đó theta phải nhỏ hơn 90 độ.
+
+56
+00:01:42,600 --> 00:01:44,200
+Tiếp theo, đi theo hướng đó một quãng đường
+
+57
+00:01:44,200 --> 00:01:47,166
+căn bậc hai của (1 + tan^2(theta)) km.
+
+58
+00:01:47,266 --> 00:01:48,833
+Tại sao lại là khoảng cách này?
+
+59
+00:01:48,966 --> 00:01:50,866
+Thực chất là áp dụng định lý Pythagore.
+
+60
+00:01:51,066 --> 00:01:53,466
+Sau đó, tạo một góc 90 độ trừ theta
+
+61
+00:01:53,466 --> 00:01:55,666
+để đi tiếp quãng đường tan(theta) km.
+
+62
+00:01:55,766 --> 00:01:57,566
+Sau khi nối điểm xuất phát và điểm kết thúc,
+
+63
+00:01:57,566 --> 00:01:59,166
+hai tam giác này bằng nhau.
+
+64
+00:01:59,166 --> 00:02:01,200
+Do đó, cạnh còn lại cũng là 1 km.
+
+65
+00:02:01,400 --> 00:02:03,700
+Bước thứ ba, vẽ đường tròn bán kính 1 km
+
+66
+00:02:03,700 --> 00:02:05,000
+cho đến phía bên kia của đường tròn.
+
+67
+00:02:05,166 --> 00:02:07,866
+Cuối cùng, đi thẳng theo hướng tiếp tuyến của đường tròn
+
+68
+00:02:07,866 --> 00:02:09,366
+cho đến khi chạm bờ.
+
+69
+00:02:09,533 --> 00:02:11,933
+Khi đó, tổng quãng đường sẽ là đoạn thẳng thứ nhất
+
+70
+00:02:11,933 --> 00:02:14,633
+cộng với chiều dài cung tròn là 2π - 4*theta,
+
+71
+00:02:14,866 --> 00:02:17,666
+và hai đoạn đường có chiều dài tan(theta).
+
+72
+00:02:17,900 --> 00:02:20,500
+Điểm thấp nhất xuất hiện ở khoảng 36.375 độ,
+
+73
+00:02:20,500 --> 00:02:22,600
+tương ứng với quãng đường là 6.459 km.
+
+74
+00:02:22,700 --> 00:02:24,800
+Tức là nếu góc chọn là 36.375 độ,
+
+75
+00:02:24,800 --> 00:02:26,700
+bạn chỉ cần đi tối đa 6.459 km.
+
+76
+00:02:26,700 --> 00:02:29,066
+Giảm được thêm 0.5 km so với cách trước.
+
+77
+00:02:29,300 --> 00:02:31,166
+Nhưng thực ra vẫn còn có thể tối ưu thêm.
+
+78
+00:02:31,366 --> 00:02:32,600
+Ý tưởng cốt lõi vẫn giống như vừa rồi,
+
+79
+00:02:32,600 --> 00:02:33,966
+các bước phía trước hoàn toàn giữ nguyên.
+
+80
+00:02:33,966 --> 00:02:36,366
+Khác biệt duy nhất là khi đi dọc theo cung tròn,
+
+81
+00:02:36,366 --> 00:02:37,566
+bạn chỉ cần đi đến khi mũi tàu
+
+82
+00:02:37,566 --> 00:02:39,866
+hướng lại về phía bờ biển bạn phán đoán.
+
+83
+00:02:40,100 --> 00:02:41,866
+Sau đó, lập tức đi thẳng hướng về bờ biển,
+
+84
+00:02:41,866 --> 00:02:43,833
+chứ không cần tiếp tục đi theo cung tròn nữa.
+
+85
+00:02:44,100 --> 00:02:44,800
+Tất nhiên trên thực tế,
+
+86
+00:02:44,800 --> 00:02:46,666
+bạn không biết liệu mình đã đối diện với bờ biển chưa.
+
+87
+00:02:46,666 --> 00:02:47,800
+Nhưng nếu đi hết cung tròn
+
+88
+00:02:47,800 --> 00:02:48,800
+mà vẫn chưa chạm được bờ biển,
+
+89
+00:02:48,800 --> 00:02:50,100
+điều đó chứng tỏ bạn chắc chắn đang ở
+
+90
+00:02:50,100 --> 00:02:51,666
+trong phần 1/4 cung tròn cuối cùng.
+
+91
+00:02:51,966 --> 00:02:52,966
+Và bắt đầu từ đó,
+
+92
+00:02:52,966 --> 00:02:55,766
+đi thẳng chắc chắn sẽ nhanh hơn là tiếp tục đi vòng tròn.
+
+93
+00:02:55,900 --> 00:02:57,166
+Trường hợp xấu nhất sẽ là
+
+94
+00:02:57,166 --> 00:02:59,033
+vẫn còn lại 1 km đường thẳng.
+
+95
+00:02:59,200 --> 00:03:00,133
+Sau khi tính toán,
+
+96
+00:03:00,133 --> 00:03:01,733
+góc tối ưu là 30 độ,
+
+97
+00:03:01,733 --> 00:03:04,000
+tương ứng với chiều dài cung tròn là 210 độ.
+
+98
+00:03:04,133 --> 00:03:05,366
+Cộng tất cả quãng đường lại,
+
+99
+00:03:05,366 --> 00:03:06,300
+trong trường hợp xấu nhất,
+
+100
+00:03:06,300 --> 00:03:09,266
+bạn chỉ cần đi tối đa 6.397 km.
