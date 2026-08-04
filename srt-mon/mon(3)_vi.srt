@@ -52,11 +52,11 @@ Khi đi ngang qua bãi đất trống,
 
 14
 00:00:18,533 --> 00:00:19,700
-cậu thấy Chaien đang đánh bóng chày,
+thấy Chaien đang đánh bóng chày,
 
 15
 00:00:19,700 --> 00:00:21,600
-nhưng vô ý làm quả bóng bay thẳng vào sân nhà bác Kaminari.
+vô ý làm quả bóng bay thẳng vào sân nhà bác Kaminari.
 
 16
 00:00:21,600 --> 00:00:23,033
@@ -68,11 +68,11 @@ chẳng ai dám bén mảng vào trong nhặt bóng.
 
 18
 00:00:24,266 --> 00:00:24,866
-Nobita thấy vậy liền bảo
+Nobita thấy vậy
 
 19
 00:00:24,866 --> 00:00:26,633
-bản thân có thể giúp họ lấy quả bóng ra.
+liền bảo bản thân có thể giúp họ lấy quả bóng ra.
 
 20
 00:00:26,633 --> 00:00:28,633
@@ -431,161 +431,161 @@ Shizuka liền kể lại đầu đuôi việc Nobita mang cây ký sinh
 đi khắp nơi để chiếm lòng tốt ăn chực.
 
 109
-00:03:00,300 --> 00:03:02,600
+00:02:34,300 --> 00:02:35,600
 Doraemon giận tím cả người,
 
 110
-00:03:02,600 --> 00:03:04,866
+00:02:35,600 --> 00:02:37,100
 ngay lập tức chạy tới nhà cặp vợ chồng trung niên kia,
 
 111
-00:03:04,866 --> 00:03:06,100
+00:02:37,100 --> 00:02:38,900
 nhổ phắt cây ký sinh đang cắm ở trước cổng.
 
 112
-00:03:06,100 --> 00:03:06,700
-Trong khi đó, Nobita hoàn toàn không hay biết gì,
+00:02:38,900 --> 00:02:39,533
+Trong khi đó,
 
 113
-00:03:06,700 --> 00:03:08,233
-vẫn đang say sưa ngồi xem tivi ở phòng khách.
+00:02:39,533 --> 00:02:41,500
+Nobita hoàn toàn không hay biết gì, vẫn đang say sưa ngồi xem tivi ở phòng khách.
 
 114
-00:03:08,233 --> 00:03:10,233
+00:02:41,500 --> 00:02:43,533
 Mẹ cậu mở cửa phòng bước vào, liền lớn tiếng mắng cho một trận:
 
 115
-00:03:10,233 --> 00:03:11,533
-Đi chơi đến tận giờ mới mò đầu về!
+00:02:43,533 --> 00:02:44,533
+"Đi chơi đến tận giờ mới mò đầu về!
 
 116
-00:03:11,533 --> 00:03:12,600
+00:02:44,533 --> 00:02:46,066
 Vừa vào nhà đã chỉ biết cắm mặt vào tivi!
 
 117
-00:03:12,600 --> 00:03:13,900
+00:02:46,066 --> 00:02:46,866
 Bài tập thì chưa thèm làm nữa!
 
 118
-00:03:13,900 --> 00:03:15,200
-Con định sống thế nào đây hả?
+00:02:46,866 --> 00:02:47,933
+Con định sống thế nào đây hả?"
 
 119
-00:03:15,200 --> 00:03:16,700
-Bị mắng mỏ,
+00:02:47,933 --> 00:02:48,733
+Bị mẹ trách mắng,
 
 120
-00:03:16,700 --> 00:03:18,500
+00:02:48,733 --> 00:02:49,833
 Nobita liền cãi lại:
 
 121
-00:03:18,500 --> 00:03:20,533
-Lúc nào mẹ cũng chỉ biết đem bài tập ra nói!
+00:02:49,833 --> 00:02:51,466
+"Lúc nào mẹ cũng chỉ biết đem bài tập ra nói!
 
 122
-00:03:20,533 --> 00:03:22,533
+00:02:51,466 --> 00:02:52,400
 Con không thèm ở nhà này nữa!
 
 123
-00:03:22,533 --> 00:03:23,833
-Con sẽ đi bụi và không bao giờ quay về nữa cho mẹ xem!
+00:02:52,400 --> 00:02:53,866
+Con sẽ đi bụi và không bao giờ quay về nữa cho mẹ xem!"
 
 124
-00:03:23,833 --> 00:03:24,533
-Bây giờ con còn dám cãi bôm bốp với mẹ thế cơ đấy!
+00:02:53,866 --> 00:02:55,400
+"Bây giờ con còn dám cãi bôm bốp với mẹ thế cơ đấy!
 
 125
-00:03:24,533 --> 00:03:25,700
-Có gan đi thì đi luôn đi, đừng có vác mặt về!
+00:02:55,400 --> 00:02:56,700
+Có gan đi thì đi luôn đi, đừng có vác mặt về!"
 
 126
-00:03:25,700 --> 00:03:26,700
+00:02:56,700 --> 00:02:57,633
 Doraemon vừa bước chân vào nhà,
 
 127
-00:03:26,700 --> 00:03:28,233
+00:02:57,633 --> 00:02:59,900
 thì thấy Nobita đang đùng đùng nổi giận chạy lên lầu.
 
 128
-00:03:28,233 --> 00:03:30,233
+00:02:59,900 --> 00:03:01,133
 Nobita thu dọn vội vài bộ quần áo bỏ vào ba lô,
 
-130
-00:03:30,233 --> 00:03:32,466
+129
+00:03:01,133 --> 00:03:02,466
 rồi hớt hải quay trở lại ngôi nhà của cặp vợ chồng kia.
 
-131
-00:03:32,466 --> 00:03:34,233
+130
+00:03:02,466 --> 00:03:04,233
 Vừa bước qua cửa, Nobita đã lên giọng hống hách ra lệnh:
 
-132
-00:03:34,233 --> 00:03:35,233
-Chuẩn bị nước tắm cho cháu mau lên!
+131
+00:03:04,233 --> 00:03:05,233
+"Chuẩn bị nước tắm cho cháu mau lên!
 
-133
-00:03:35,233 --> 00:03:36,533
+132
+00:03:05,233 --> 00:03:06,533
 Nước âm ấm thôi nhé, đừng có nóng quá!
 
-134
-00:03:36,533 --> 00:03:38,233
-Tắm xong nhớ dọn sẵn bánh ngọt cho cháu ăn nữa đấy!
+133
+00:03:06,533 --> 00:03:08,233
+Tắm xong nhớ dọn sẵn bánh ngọt cho cháu ăn nữa đấy!"
 
-135
-00:03:38,233 --> 00:03:39,333
+134
+00:03:08,233 --> 00:03:09,333
 Không còn ma lực của cây ký sinh tác động,
 
-136
-00:03:39,333 --> 00:03:41,200
+135
+00:03:09,333 --> 00:03:11,200
 ông chủ nhà nhìn đứa nhóc không biết ở đâu tự tiện
 
-137
-00:03:41,200 --> 00:03:42,033
+136
+00:03:11,200 --> 00:03:12,033
 xông vào nhà mình
 
-138
-00:03:42,100 --> 00:03:43,533
+137
+00:03:12,100 --> 00:03:13,533
 rồi tuôn ra một tràng yêu cầu vô lý đùng đùng,
 
-139
-00:03:43,533 --> 00:03:44,500
+138
+00:03:13,533 --> 00:03:14,500
 liền nổi cơn thịnh nộ,
 
-140
-00:03:44,500 --> 00:03:46,333
+139
+00:03:14,500 --> 00:03:16,333
 thẳng tay ném cả Nobita lẫn ba lô ra khỏi cửa lớn.
 
-141
-00:03:46,333 --> 00:03:47,866
-Bại tống cổ ra đường, Nobita ngơ ngác không hiểu chuyện gì,
+140
+00:03:16,333 --> 00:03:17,866
+Bị tống cổ ra đường, Nobita ngơ ngác không hiểu chuyện gì,
 
-142
-00:03:47,866 --> 00:03:49,433
+141
+00:03:17,866 --> 00:03:19,433
 lúc nhìn lại mới thấy cây ký sinh cắm lúc nãy
 
-143
-00:03:49,433 --> 00:03:50,433
+142
+00:03:19,433 --> 00:03:20,433
 đã biến mất không còn tăm hơi.
 
-144
-00:03:50,433 --> 00:03:51,233
+143
+00:03:20,433 --> 00:03:21,233
 Trời đã tối mịt,
 
-145
-00:03:51,233 --> 00:03:52,600
+144
+00:03:21,233 --> 00:03:22,600
 ở nhà mẹ đã chuẩn bị xong bữa tối ấm cúng.
 
-146
-00:03:52,600 --> 00:03:54,400
+145
+00:03:22,600 --> 00:03:24,400
 Lúc này, Nobita đang đứng thập thò ngoài cổng nhà mình, đi qua đi lại đầy lo lắng.
 
-147
-00:03:54,400 --> 00:03:55,500
+146
+00:03:24,400 --> 00:03:25,500
 Vì trước đó đã lỡ tuyên bố những lời hùng hồn,
 
-148
-00:03:55,500 --> 00:03:56,900
+147
+00:03:25,500 --> 00:03:26,900
 khiến Nobita giờ đây không dám mở cửa bước vào.
 
-149
-00:03:56,900 --> 00:03:58,133
+148
+00:03:26,900 --> 00:03:28,133
 Biết trước thế này thì lúc đầu đừng có làm càn rồi!
