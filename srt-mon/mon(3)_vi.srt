@@ -1,591 +1,431 @@
 1
-00:00:00,066 --> 00:00:01,266
-Bảo bối này được gọi là Cây ký sinh.
+00:00:00,033 --> 00:00:02,166
+Nobita nhét lõi linh kiện robot vào sau lưng người tuyết,
 
 2
-00:00:01,266 --> 00:00:02,833
-Chỉ cần đem trồng nó trước cửa nhà người khác,
+00:00:02,166 --> 00:00:04,433
+giây tiếp theo người tuyết mọc ra chân tay rồi nhảy tót lên.
 
 3
-00:00:02,833 --> 00:00:04,700
-thì dù bạn có tự tiện xông vào nhà người ta mà không xin phép,
+00:00:04,433 --> 00:00:05,533
+Dưới sự chỉ huy điều khiển của hai bạn nhỏ,
 
 4
-00:00:04,700 --> 00:00:06,000
-đối phương cũng không hề nổi giận chút nào.
+00:00:05,533 --> 00:00:07,333
+người tuyết rất ngoan ngoãn đi theo hai người về nhà.
 
 5
-00:00:06,000 --> 00:00:07,400
-Ngược lại, họ còn tiếp đãi bạn như khách quý,
+00:00:07,333 --> 00:00:08,133
+Dáng vẻ ngộ nghĩnh đáng yêu của người tuyết
 
 6
-00:00:07,400 --> 00:00:09,400
-chủ động lo cho chỗ ngủ miễn phí cùng những món ăn đắt tiền.
+00:00:08,133 --> 00:00:09,666
+làm những đứa trẻ đi ngang qua vô cùng ngưỡng mộ ganh tị.
 
 7
-00:00:09,400 --> 00:00:10,633
-Thậm chí, ngay cả những yêu cầu có phần quá đáng,
+00:00:09,666 --> 00:00:11,333
+But khi đi ngang qua trước cửa nhà Chaien,
 
 8
-00:00:10,633 --> 00:00:12,033
-họ cũng sẽ gật đầu đồng ý không chút đắn đo.
+00:00:11,333 --> 00:00:13,166
+người tuyết bỗng đột ngột dừng lại không rõ lý do.
 
 9
-00:00:12,033 --> 00:00:13,100
-Có được món bảo bối thần kỳ này trong tay,
+00:00:13,166 --> 00:00:15,133
+Rồi quay ngoắt người cắm đầu chạy vào sân sau nhà Chaien,
 
 10
-00:00:13,133 --> 00:00:14,900
-từ nay về sau đi tới đâu cũng không lo thiếu chỗ dừng chân.
+00:00:15,133 --> 00:00:16,766
+thậm chí còn định leo qua hàng rào sắt để trèo vào trong.
 
 11
-00:00:14,900 --> 00:00:15,233
-Nobita
+00:00:16,766 --> 00:00:18,733
+May mà Nobita nhanh tay nhanh mắt giữ chặt nó lại.
 
 12
-00:00:15,233 --> 00:00:17,100
-lập tức quyết định sẽ đi trải nghiệm cuộc sống gửi nhờ ở nhiều gia đình khác nhau.
+00:00:18,733 --> 00:00:19,666
+Sau một hồi vật lộn chật vật,
 
 13
-00:00:17,100 --> 00:00:18,533
-Khi đi ngang qua bãi đất trống,
+00:00:19,666 --> 00:00:21,033
+cuối cùng người tuyết cũng được dắt về đến nhà.
 
 14
-00:00:18,533 --> 00:00:19,700
-thấy Chaien đang đánh bóng chày,
+00:00:21,033 --> 00:00:22,866
+Đúng lúc này mẹ cầm một chiếc khăn len đi tới,
 
 15
-00:00:19,700 --> 00:00:21,600
-vô ý làm quả bóng bay thẳng vào sân nhà bác Kaminari.
+00:00:22,866 --> 00:00:24,266
+bảo Nobita quàng vào để tránh bị cảm lạnh.
 
 16
-00:00:21,600 --> 00:00:23,033
-Cả hai cậu nhóc sợ tới mức xanh mét cả mặt,
+00:00:24,266 --> 00:00:25,900
+Không ngờ người tuyết vừa nhìn thấy chiếc khăn len này
 
 17
-00:00:23,033 --> 00:00:24,266
-chẳng ai dám bén mảng vào trong nhặt bóng.
+00:00:25,900 --> 00:00:27,033
+liền kích động bật dậy ngay lập tức,
 
 18
-00:00:24,266 --> 00:00:24,866
-Nobita thấy vậy
+00:00:27,033 --> 00:00:28,766
+thậm chí còn giơ tay ra giành giật chiếc khăn với mẹ.
 
 19
-00:00:24,866 --> 00:00:26,633
-liền bảo bản thân có thể giúp họ lấy quả bóng ra.
+00:00:28,766 --> 00:00:30,366
+Cứ như thế chiếc khăn len này có một ý nghĩa
 
 20
-00:00:26,633 --> 00:00:28,633
-Nobita cắm cây ký sinh ngay trước cổng nhà bác Kaminari,
+00:00:30,366 --> 00:00:30,866
+đặc biệt nào đó đối với nó vậy.
 
 21
-00:00:28,633 --> 00:00:30,033
-rồi ung dung tự tại bước vào sân.
+00:00:30,866 --> 00:00:32,833
+Ban đầu Nobita và Doraemon cũng không để tâm nhiều,
 
 22
-00:00:30,033 --> 00:00:31,866
-Lúc này, bác Kaminari đang ôm cái đầu sưng cục u to tướng,
+00:00:32,833 --> 00:00:34,833
+cho đến khi mẹ đang ngồi đọc báo ở phòng khách,
 
 23
-00:00:31,866 --> 00:00:33,000
-nhưng dưới tác động của cây ký sinh,
+00:00:34,833 --> 00:00:36,033
+người tuyết đột nhiên đẩy cửa bước vào,
 
 24
-00:00:33,000 --> 00:00:33,866
-bác không hề nổi trận lôi đình,
+00:00:36,033 --> 00:00:37,266
+rồi lao thẳng về phía mẹ.
 
 25
-00:00:33,866 --> 00:00:35,866
-mà còn vui vẻ đưa bóng giúp Nobita rút lui an toàn.
+00:00:37,266 --> 00:00:39,300
+Tiếng động lớn làm hai đứa ở trên gác giật mình sợ hãi.
 
 26
-00:00:35,866 --> 00:00:37,433
-Cảnh tượng đó làm Chaien và Suneo bám trên bờ tường
+00:00:39,300 --> 00:00:40,700
+Hai anh em vội vàng chạy xuống nhà kiểm tra,
 
 27
-00:00:37,433 --> 00:00:38,333
-kinh ngạc đến mức mắt tròn mắt dẹt.
+00:00:40,700 --> 00:00:42,666
+thì thấy người tuyết đang nhặt quả quýt rơi dưới đất
 
 28
-00:00:38,333 --> 00:00:39,900
-Sau khi trả bóng lại cho hai bạn,
+00:00:42,666 --> 00:00:44,100
+gắn lên mặt để làm chiếc mũi.
 
 29
-00:00:39,900 --> 00:00:41,833
-Nobita bắt đầu đi chọn lựa một gia đình lý tưởng trong trấn để trú chân.
+00:00:44,100 --> 00:00:45,333
+Những hành động bất thường liên tiếp của người tuyết
 
 30
-00:00:41,833 --> 00:00:42,900
-Cậu bước chân vào một ngôi nhà đầu tiên,
+00:00:45,333 --> 00:00:47,100
+khiến Doraemon nghi ngờ linh kiện robot gặp trục trặc kỹ thuật.
 
 31
-00:00:42,900 --> 00:00:43,900
-cứ tưởng sẽ được hưởng phúc sung sướng,
+00:00:47,100 --> 00:00:48,366
+But cậu loay hoay kiểm tra kỹ lưỡng từ trong ra ngoài
 
 32
-00:00:43,900 --> 00:00:45,700
-ai ngờ trong nhà lại là một bầy trẻ con nghịch ngợm náo loạn.
+00:00:48,366 --> 00:00:49,233
+vẫn không phát hiện ra lỗi nào cả.
 
 33
-00:00:45,700 --> 00:00:47,033
-Chúng không chỉ giật mất đĩa bánh của cậu,
+00:00:49,233 --> 00:00:50,666
+Xem ra vấn đề nằm ở chính bản thân người tuyết.
 
 34
-00:00:47,033 --> 00:00:49,100
-mà còn bắt cậu đóng vai siêu nhân và đọc truyện cổ tích cho nghe,
+00:00:50,666 --> 00:00:52,166
+Dù sao, chất liệu hình thành nên vật thể
 
 35
-00:00:49,100 --> 00:00:50,900
-khiến đầu óc Nobita quay cuồng, nhức hết cả óc.
+00:00:52,166 --> 00:00:53,466
+cũng sẽ ảnh hưởng đến hoạt động chung của robot.
 
 36
-00:00:50,900 --> 00:00:52,066
-Nobita liền dứt khoát chuyển sang nhà khác.
+00:00:53,466 --> 00:00:55,133
+Thế là Doraemon lấy ra chiếc "Máy ảnh bóng nước",
 
 37
-00:00:52,066 --> 00:00:53,066
-Thật không thể ngờ,
+00:00:55,133 --> 00:00:56,333
+dùng nó có thể nhìn thấy những ký ức
 
 38
-00:00:53,066 --> 00:00:54,333
-gia đình này lại là một cặp vợ chồng đam mê thể thao.
+00:00:56,333 --> 00:00:57,266
+xưa cũ còn lưu lại trên người tuyết.
 
 39
-00:00:54,333 --> 00:00:56,333
-Họ nhiệt tình rủ rê Nobita cùng tập thể hình.
+00:00:57,266 --> 00:00:57,666
+记忆
 
 40
-00:00:56,333 --> 00:00:57,933
-Nobita tự biết sức lực của bản thân yếu ớt ra sao,
+00:00:57,666 --> 00:00:59,566
+Kế đó, Doraemon lấy một ít tuyết trên người nó
 
 41
-00:00:57,933 --> 00:00:58,900
-nên lập tức từ chối khéo rồi chuồn lẹ.
+00:00:59,566 --> 00:01:00,333
+bỏ vào trong máy ảnh,
 
 42
-00:00:58,900 --> 00:00:59,933
-Nobita lững thững đi trên đường,
+00:01:00,333 --> 00:01:02,066
+bắt đầu truy xuất hồi tưởng lại những khoảng thời gian nó trải qua.
 
 43
-00:00:59,933 --> 00:01:01,533
-vừa đi vừa rầu rĩ vì không tìm ra ngôi nhà nào phù hợp
+00:01:02,066 --> 00:01:04,033
+Họ xem từ thời cổ đại của 2000 năm trước,
 
 44
-00:01:01,533 --> 00:01:02,366
-để gửi gắm thân mình.
+00:01:04,033 --> 00:01:05,366
+tuy ở những thời đại hoàn toàn khác nhau
 
 45
-00:01:02,400 --> 00:01:04,100
-Giữa đường, cậu bắt gặp Shizuka đang chuẩn bị đi vẽ tranh phong cảnh.
+00:01:05,366 --> 00:01:07,233
+nhưng trò chơi của lũ trẻ con thì vẫn giống nhau.
 
 46
-00:01:04,100 --> 00:01:05,833
-Shizuka vốn muốn tìm một góc view đẹp để vẽ,
+00:01:07,233 --> 00:01:09,266
+Lật tìm mãi vẫn không thấy manh mối nào có ích.
 
 47
-00:01:05,833 --> 00:01:07,400
-nhưng nãy giờ vẫn chưa chọn được chỗ nào ưng ý.
+00:01:09,266 --> 00:01:10,766
+Ngay khi Doraemon chuẩn bị nản lòng bỏ cuộc,
 
 48
-00:01:07,400 --> 00:01:09,333
-Thế là Nobita quyết định đi cùng để tìm kiếm giúp cô.
+00:01:10,766 --> 00:01:12,066
+Nobita bỗng phát hiện ra một chi tiết kỳ lạ.
 
 49
-00:01:09,333 --> 00:01:10,833
-Đúng lúc này, bầu trời đổ cơn mưa lớn,
+00:01:12,066 --> 00:01:13,666
+Trong màn hình xuất hiện một người tuyết quàng khăn xanh,
 
 50
-00:01:10,833 --> 00:01:11,933
-mà cả hai lại không mang theo ô dù.
+00:01:13,666 --> 00:01:14,133
+的雪人
 
 51
-00:01:11,933 --> 00:01:12,666
-Để tránh mưa,
+00:01:14,133 --> 00:01:15,766
+trông gần như giống hệt người tuyết mà Nobita đắp.
 
 52
-00:01:12,666 --> 00:01:14,900
-Nobita dắt Shizuka tới trước cổng một ngôi biệt thự sang trọng,
+00:01:15,766 --> 00:01:17,100
+Cậu vội vàng tua ngược thời gian lại xem kỹ,
 
 53
-00:01:14,900 --> 00:01:16,233
-trồng cây ký sinh vào góc sân,
+00:01:17,100 --> 00:01:18,966
+hình ảnh hiển thị địa điểm đó hóa ra lại là nhà Chaien.
 
 54
-00:01:16,233 --> 00:01:17,733
-rồi kéo cô bạn bước thẳng vào trong nhà.
+00:01:18,966 --> 00:01:20,533
+Lúc ấy Chaien vẫn còn là một cậu nhóc tí hon.
 
 55
-00:01:17,733 --> 00:01:19,000
-Chủ nhà là một cặp vợ chồng trung niên.
+00:01:20,533 --> 00:01:21,100
+Và người tuyết này
 
 56
-00:01:19,000 --> 00:01:20,266
-Dưới tác dụng của cây ký sinh,
+00:01:21,100 --> 00:01:22,766
+chính là do tự tay cậu ta đắp nên từng chút một.
 
 57
-00:01:20,266 --> 00:01:21,400
-họ niềm nở mang trà nóng
+00:01:22,766 --> 00:01:24,133
+Cậu ta gắn quả quýt vốn để dành không nỡ ăn
 
 58
-00:01:21,400 --> 00:01:22,666
-cùng bánh ngọt cao cấp ra mời khách.
+00:01:24,133 --> 00:01:25,133
+lên mặt người tuyết để làm mũi,
 
 59
-00:01:22,666 --> 00:01:24,033
-Thế nhưng, Shizuka đối với hành vi tự tiện
+00:01:25,133 --> 00:01:26,933
+rồi cởi chiếc khăn len của mình quàng cho người tuyết ấm áp.
 
 60
-00:01:24,033 --> 00:01:25,100
-xông vào nhà người lạ
+00:01:26,933 --> 00:01:28,900
+Thảo nào trước đó người tuyết lại có những hành động kỳ lạ như thế,
 
 61
-00:01:25,100 --> 00:01:26,233
-ăn chực uống chực của Nobita
+00:01:28,900 --> 00:01:29,766
+hóa ra trong ký ức của nó
 
 62
-00:01:26,233 --> 00:01:27,633
-thì lại thấy vô cùng ái ngại và xấu hổ.
+00:01:29,766 --> 00:01:31,266
+vẫn cất giấu một đoạn ký ức ấm áp nghĩa tình như vậy.
 
 63
-00:01:27,633 --> 00:01:29,100
-Vậy mà Nobita chẳng chút ngượng ngùng,
+00:01:31,266 --> 00:01:33,100
+Dẫu qua mười năm tuyết tan tuyết rơi luân hồi,
 
 64
-00:01:29,100 --> 00:01:31,500
-còn chủ động gọi món với bà chủ: "Bữa tối cháu muốn ăn cà ri,
+00:01:33,100 --> 00:01:34,333
+trong lòng nó vẫn luôn khắc cốt ghi tâm.
 
 65
-00:01:31,500 --> 00:01:32,700
-nhưng nhớ đừng cho cà rốt vào nhé!"
+00:01:34,333 --> 00:01:36,166
+Doraemon cảm động đến mức khóc sướt mướt nghẹn ngào.
 
 66
-00:01:32,700 --> 00:01:34,033
-Bà chủ nhà vui vẻ gật đầu đồng ý.
+00:01:36,166 --> 00:01:36,466
+Đúng lúc này,
 
 67
-00:01:34,033 --> 00:01:35,200
-Ngắm nghía ngôi nhà thiết kế tinh tế,
+00:01:36,466 --> 00:01:38,266
+Nobita bỗng nảy ra một ý tưởng vô cùng tuyệt vời.
 
 68
-00:01:35,200 --> 00:01:36,333
-không gian sang trọng ấm cúng này,
+00:01:38,266 --> 00:01:39,566
+Cậu muốn tổ chức cho Chaien một cuộc
 
 69
-00:01:36,333 --> 00:01:38,000
-Nobita lập tức quyết định từ nay sẽ ở lại luôn đây.
+00:01:39,566 --> 00:01:40,466
+hội ngộ vượt qua rào cản thời gian.
 
 70
-00:01:38,000 --> 00:01:39,433
-Vì trong nhà không còn phòng trống,
+00:01:40,466 --> 00:01:42,533
+Hai đứa liền gọi thêm Suneo và Shizuka tới giúp sức,
 
 71
-00:01:39,433 --> 00:01:41,066
-ông chủ nhà đành nhường tạm phòng làm việc của mình
+00:01:42,533 --> 00:01:44,266
+còn Doraemon thì vẫn sụt sịt cảm động rơi nước mắt.
 
 72
-00:01:41,066 --> 00:01:41,533
-cho Nobita ở.
+00:01:44,266 --> 00:01:45,666
+Nobita lấy tay che mắt Chaien lại,
 
 73
-00:01:41,533 --> 00:01:43,733
-Đứng trong căn phòng tràn ngập mùi sách vở,
+00:01:45,700 --> 00:01:47,233
+khẽ khàng dẫn cậu ta tới trước mặt người tuyết.
 
 74
-00:01:43,733 --> 00:01:44,800
-Nobita cực kỳ đắc ý,
+00:01:47,233 --> 00:01:48,633
+Khi tấm bịt mắt được tháo bỏ,
 
 75
-00:01:44,800 --> 00:01:46,466
-liền nằm bò ra ghế sofa ngủ một giấc ngon lành.
+00:01:48,633 --> 00:01:50,666
+hình ảnh người tuyết lập tức đánh thức ký ức tuổi thơ
 
 76
-00:01:46,466 --> 00:01:48,266
-Trông thấy dáng vẻ tự nhiên như ruồi của Nobita,
+00:01:50,666 --> 00:01:51,733
+of Chaien. Không ai ngờ được rằng,
 
 77
-00:01:48,266 --> 00:01:49,100
-Shizuka chỉ biết cạn lời lắc đầu.
+00:01:51,733 --> 00:01:53,733
+Chaien vẫn nhớ như in người bạn thuở nhỏ này.
 
 78
-00:01:49,100 --> 00:01:49,866
-Trong lúc đó,
+00:01:53,733 --> 00:01:54,733
+Nhóm bạn đứng xung quanh chứng kiến
 
 79
-00:01:49,866 --> 00:01:51,400
-Doraemon phát hiện ra cây ký sinh đã biến mất.
+00:01:54,733 --> 00:01:55,900
+cảm động đến phát khóc đỏ hoe cả mắt.
 
 80
-00:01:51,400 --> 00:01:53,500
-Không cần đoán cũng thừa biết việc này liên quan tới Nobita,
+00:01:55,900 --> 00:01:57,333
+Nobita vỗ vai Chaien,
 
 81
-00:01:53,500 --> 00:01:54,633
-cậu liền tức tốc chạy ra ngoài tìm kiếm.
+00:01:57,333 --> 00:01:59,233
+bảo cậu ta lại gần nhìn kỹ quả quýt kia.
 
 82
-00:01:54,633 --> 00:01:55,666
-Còn Shizuka đang đợi trong nhà,
+00:01:59,233 --> 00:02:00,266
+Chiếc khăn len màu xanh dương đó
 
 83
-00:01:55,666 --> 00:01:56,833
-chờ thêm một lúc thì
+00:02:00,266 --> 00:02:02,000
+quả thực vẫn là hình dáng của năm xưa.
 
 84
-00:01:56,833 --> 00:01:57,833
-cơn mưa cuối cùng cũng tạnh.
+00:02:18,533 --> 00:02:19,766
+Thế mà cậu lại dám đánh...
 
 85
-00:01:57,833 --> 00:02:00,300
-Cô lịch sự chào tạm biệt hai bác chủ nhà rồi ra về trước.
+00:02:22,500 --> 00:02:22,866
+Cứ ngỡ
 
 86
-00:02:00,300 --> 00:02:01,666
-Đúng lúc này Nobita cũng tỉnh giấc,
+00:02:22,866 --> 00:02:24,766
+đây sẽ là một kết thúc viên mãn vô cùng ấm áp,
 
 87
-00:02:01,666 --> 00:02:03,233
-bác gái chủ nhà đã dọn sẵn bữa tối ngon lành
+00:02:24,766 --> 00:02:26,366
+ngờ đâu người tuyết bỗng nhảy bật lên cao,
 
 88
-00:02:03,233 --> 00:02:04,600
-và mời Nobita vào bàn ăn cùng.
+00:02:26,366 --> 00:02:27,566
+xoay hai vòng rưỡi trên không trung,
 
 89
-00:02:04,600 --> 00:02:06,233
-Nobita định gọi cả Shizuka cùng ăn,
+00:02:27,566 --> 00:02:29,533
+tung thẳng một cú phi thân đá vào giữa mặt Chaien.
 
 90
-00:02:06,233 --> 00:02:08,000
-nhưng nghe bảo cô ấy đã về từ trước.
+00:02:29,533 --> 00:02:30,633
+Cú lật kèo bất ngờ này
 
 91
-00:02:08,000 --> 00:02:09,266
-Kế đó, bác gái bưng lên một đĩa
+00:02:30,633 --> 00:02:32,033
+làm tất cả những người có mặt đều đứng hình ngơ ngác.
 
 92
-00:02:09,266 --> 00:02:10,466
-cà ri đặc biệt không có cà rốt.
+00:02:32,033 --> 00:02:33,300
+"Không lẽ kịch bản bị cầm nhầm rồi sao?"
 
 93
-00:02:10,466 --> 00:02:12,066
-Nobita hớn hở xúc từng thìa ăn ngon lành,
+00:02:33,300 --> 00:02:35,466
+Doraemon vội vàng dùng máy ảnh truy xuất tiếp ký ức phía sau,
 
 94
-00:02:12,066 --> 00:02:13,433
-nhưng ăn được vài miếng cậu bỗng nhận ra:
+00:02:35,466 --> 00:02:37,066
+không ngờ ẩn sau vẻ ngoài ấm áp
 
 95
-00:02:13,433 --> 00:02:14,633
-dù đĩa cà ri này vị rất ngon,
+00:02:37,066 --> 00:02:38,266
+lại là một sự thật hoàn toàn trái ngược.
 
 96
-00:02:14,633 --> 00:02:16,300
-nhưng vẫn không ngon bằng món cà ri mẹ nấu ở nhà.
+00:02:38,266 --> 00:02:40,133
+Chỉ thấy hình ảnh Chaien năm xưa đột nhiên túm lấy chiếc khăn len,
 
 97
-00:02:16,300 --> 00:02:18,033
-Sau cùng, cậu vẫn ráng ăn cho hết đĩa cơm.
+00:02:40,133 --> 00:02:41,666
+quật mạnh người tuyết xuống đất một cú cực hiểm,
 
 98
-00:02:18,033 --> 00:02:19,500
-Dùng bữa xong, Nobita muốn xem tivi,
+00:02:41,666 --> 00:02:43,666
+lực mạnh đến nỗi làm người tuyết gãy đôi ra làm hai nửa.
 
 99
-00:02:19,500 --> 00:02:21,300
-nhưng vì hai bác chủ nhà vốn không thích xem truyền hình,
+00:02:43,666 --> 00:02:45,500
+Kế đó còn thô bạo giật phắt quả quýt trên mặt nó
 
 100
-00:02:21,300 --> 00:02:22,500
-nên trong nhà hoàn toàn không sắm tivi.
+00:02:45,500 --> 00:02:46,266
+nhét tọt vào miệng ăn ngấu nghiến:
 
 101
-00:02:22,500 --> 00:02:24,500
-Đối với một Nobita ngày nào cũng phải cày phim hoạt hình,
+00:02:46,266 --> 00:02:48,300
+"Quýt ướp lạnh ăn ngọt và mát lạnh đã quá!"
 
 102
-00:02:24,500 --> 00:02:25,700
-thì đây quả thực là một cực hình lớn.
+00:02:48,300 --> 00:02:49,066
+Chưa dừng lại ở đó,
 
 103
-00:02:25,700 --> 00:02:26,900
-Thế là cậu quyết định chạy về nhà mình trước,
+00:02:49,066 --> 00:02:51,133
+cậu ta còn dùng chân đạp đập phá người tuyết để trút giận.
 
 104
-00:02:26,900 --> 00:02:28,133
-để xem cho xong tập phim hoạt hình hôm nay,
+00:02:51,133 --> 00:02:52,500
+Mối thù khắc sâu vào tận xương tủy này,
 
 105
-00:02:28,133 --> 00:02:29,233
-rồi mới quay lại đây ngủ.
+00:02:52,500 --> 00:02:54,100
+dẫu có qua mười năm cũng không thể nào phai nhạt.
 
 106
-00:02:29,233 --> 00:02:31,600
-Lúc này, Doraemon đã tìm tới nhà Shizuka.
+00:02:54,100 --> 00:02:56,133
+Thảo nào người tuyết vừa nhìn thấy Chaien là nổi khùng lên như thế.
 
 107
-00:02:31,600 --> 00:02:32,866
-Shizuka liền kể lại đầu đuôi việc Nobita mang cây ký sinh
+00:02:56,133 --> 00:02:57,466
+Buổi hội ngộ đầy cảm động hứa hẹn
 
 108
-00:02:32,866 --> 00:02:34,300
-đi khắp nơi để chiếm lòng tốt ăn chực.
-
-109
-00:02:34,300 --> 00:02:35,600
-Doraemon giận tím cả người,
-
-110
-00:02:35,600 --> 00:02:37,100
-ngay lập tức chạy tới nhà cặp vợ chồng trung niên kia,
-
-111
-00:02:37,100 --> 00:02:38,900
-nhổ phắt cây ký sinh đang cắm ở trước cổng.
-
-112
-00:02:38,900 --> 00:02:39,533
-Trong khi đó,
-
-113
-00:02:39,533 --> 00:02:41,500
-Nobita hoàn toàn không hay biết gì, vẫn đang say sưa ngồi xem tivi ở phòng khách.
-
-114
-00:02:41,500 --> 00:02:43,533
-Mẹ cậu mở cửa phòng bước vào, liền lớn tiếng mắng cho một trận:
-
-115
-00:02:43,533 --> 00:02:44,533
-"Đi chơi đến tận giờ mới mò đầu về!
-
-116
-00:02:44,533 --> 00:02:46,066
-Vừa vào nhà đã chỉ biết cắm mặt vào tivi!
-
-117
-00:02:46,066 --> 00:02:46,866
-Bài tập thì chưa thèm làm nữa!
-
-118
-00:02:46,866 --> 00:02:47,933
-Con định sống thế nào đây hả?"
-
-119
-00:02:47,933 --> 00:02:48,733
-Bị mẹ trách mắng,
-
-120
-00:02:48,733 --> 00:02:49,833
-Nobita liền cãi lại:
-
-121
-00:02:49,833 --> 00:02:51,466
-"Lúc nào mẹ cũng chỉ biết đem bài tập ra nói!
-
-122
-00:02:51,466 --> 00:02:52,400
-Con không thèm ở nhà này nữa!
-
-123
-00:02:52,400 --> 00:02:53,866
-Con sẽ đi bụi và không bao giờ quay về nữa cho mẹ xem!"
-
-124
-00:02:53,866 --> 00:02:55,400
-"Bây giờ con còn dám cãi bôm bốp với mẹ thế cơ đấy!
-
-125
-00:02:55,400 --> 00:02:56,700
-Có gan đi thì đi luôn đi, đừng có vác mặt về!"
-
-126
-00:02:56,700 --> 00:02:57,633
-Doraemon vừa bước chân vào nhà,
-
-127
-00:02:57,633 --> 00:02:59,900
-thì thấy Nobita đang đùng đùng nổi giận chạy lên lầu.
-
-128
-00:02:59,900 --> 00:03:01,133
-Nobita thu dọn vội vài bộ quần áo bỏ vào ba lô,
-
-129
-00:03:01,133 --> 00:03:02,466
-rồi hớt hải quay trở lại ngôi nhà của cặp vợ chồng kia.
-
-130
-00:03:02,466 --> 00:03:04,233
-Vừa bước qua cửa, Nobita đã lên giọng hống hách ra lệnh:
-
-131
-00:03:04,233 --> 00:03:05,233
-"Chuẩn bị nước tắm cho cháu mau lên!
-
-132
-00:03:05,233 --> 00:03:06,533
-Nước âm ấm thôi nhé, đừng có nóng quá!
-
-133
-00:03:06,533 --> 00:03:08,233
-Tắm xong nhớ dọn sẵn bánh ngọt cho cháu ăn nữa đấy!"
-
-134
-00:03:08,233 --> 00:03:09,333
-Không còn ma lực của cây ký sinh tác động,
-
-135
-00:03:09,333 --> 00:03:11,200
-ông chủ nhà nhìn đứa nhóc không biết ở đâu tự tiện
-
-136
-00:03:11,200 --> 00:03:12,033
-xông vào nhà mình
-
-137
-00:03:12,100 --> 00:03:13,533
-rồi tuôn ra một tràng yêu cầu vô lý đùng đùng,
-
-138
-00:03:13,533 --> 00:03:14,500
-liền nổi cơn thịnh nộ,
-
-139
-00:03:14,500 --> 00:03:16,333
-thẳng tay ném cả Nobita lẫn ba lô ra khỏi cửa lớn.
-
-140
-00:03:16,333 --> 00:03:17,866
-Bị tống cổ ra đường, Nobita ngơ ngác không hiểu chuyện gì,
-
-141
-00:03:17,866 --> 00:03:19,433
-lúc nhìn lại mới thấy cây ký sinh cắm lúc nãy
-
-142
-00:03:19,433 --> 00:03:20,433
-đã biến mất không còn tăm hơi.
-
-143
-00:03:20,433 --> 00:03:21,233
-Trời đã tối mịt,
-
-144
-00:03:21,233 --> 00:03:22,600
-ở nhà mẹ đã chuẩn bị xong bữa tối ấm cúng.
-
-145
-00:03:22,600 --> 00:03:24,400
-Lúc này, Nobita đang đứng thập thò ngoài cổng nhà mình, đi qua đi lại đầy lo lắng.
-
-146
-00:03:24,400 --> 00:03:25,500
-Vì trước đó đã lỡ tuyên bố những lời hùng hồn,
-
-147
-00:03:25,500 --> 00:03:26,900
-khiến Nobita giờ đây không dám mở cửa bước vào.
-
-148
-00:03:26,900 --> 00:03:28,133
-Biết trước thế này thì lúc đầu đừng có làm càn rồi!
+00:02:57,466 --> 00:02:58,766
+bỗng chốc tan thành mây khói như vậy đó.

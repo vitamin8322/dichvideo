@@ -1,831 +1,527 @@
 1
-00:00:00,133 --> 00:00:00,733
-Nếu vào nửa đêm,
+00:00:00,066 --> 00:00:02,000
+Doraemon đặt một khối nam châm màu bạc xuống đất,
 
 2
-00:00:00,733 --> 00:00:02,266
-có một thứ quái dị như thế này chạy về phía bạn,
+00:00:02,000 --> 00:00:03,466
+tay cầm khối nam châm màu vàng còn lại,
 
 3
-00:00:02,266 --> 00:00:02,900
-thì bạn sẽ làm gì?
+00:00:03,466 --> 00:00:04,400
+ngón tay nhấn nút công tắc.
 
 4
-00:00:02,900 --> 00:00:05,300
-Nghe nói gần đây ở Beika đang rộ lên trò chơi Cừu Đỏ,
+00:00:04,400 --> 00:00:05,266
+Doraemon vụt một cái
 
 5
-00:00:05,300 --> 00:00:07,133
-dùng để thử thách lòng thành và dũng khí của bạn trai.
+00:00:05,266 --> 00:00:06,600
+đã biến mất rồi xuất hiện ngay cạnh khối nam châm màu bạc.
 
 6
-00:00:07,133 --> 00:00:09,166
-Ai ngờ có kẻ lại lợi dụng trò Cừu Đỏ để ra tay,
+00:00:06,600 --> 00:00:08,166
+Nobita đứng hình kinh ngạc đến mức tròn xoe mắt:
 
 7
-00:00:09,166 --> 00:00:10,766
-sau khi tiễn một người bay màu đã nẫng đi số tiền lớn.
+00:00:08,166 --> 00:00:09,400
+"Cậu vừa chơi trò dịch chuyển tức thời đấy à?"
 
 8
-00:00:10,766 --> 00:00:11,800
-Lần này, Conan phải đối mặt
+00:00:09,400 --> 00:00:11,133
+Thực chất, đó chính là điểm vi diệu của "Nam châm khứ hồi".
 
 9
-00:00:11,800 --> 00:00:13,400
-với những lớp ngụy trang và phản bội đan xen.
+00:00:11,133 --> 00:00:13,166
+Chỉ cần bấm nút, cả người bạn sẽ lập tức quay trở lại vị trí cũ.
 
 10
-00:00:13,400 --> 00:00:15,066
-Hôm đó, thám tử Mori nhận được lời khẩn cầu từ Ryota,
+00:00:13,166 --> 00:00:14,133
+"Mau đưa đây cho tớ xem thử nào!"
 
 11
-00:00:15,066 --> 00:00:17,100
-nói rằng bạn gái Ami của anh đã bị Cừu Đỏ bắt đi.
+00:00:14,133 --> 00:00:16,000
+Doraemon bằng lòng cho Nobita mượn bảo bối,
 
 12
-00:00:17,100 --> 00:00:18,533
-Đối phương yêu cầu anh đúng 12 giờ đêm
+00:00:16,000 --> 00:00:17,766
+với mục đích để cậu oai một trận trong trận thi đấu bóng chày.
 
 13
-00:00:18,533 --> 00:00:19,700
-phải một mình đến công viên Beika.
+00:00:17,766 --> 00:00:19,000
+"Alo alo, đội Chaien phải không?
 
 14
-00:00:19,700 --> 00:00:21,533
-Nhưng khi thám tử Mori phục sẵn ở đó,
+00:00:19,000 --> 00:00:20,700
+Cậu có thể tập hợp mọi người làm một trận bóng chày không?"
 
 15
-00:00:21,533 --> 00:00:22,800
-thì phát hiện Ami vẫn bình an vô sự.
+00:00:20,700 --> 00:00:21,366
+"Đồ ngốc này!
 
 16
-00:00:22,800 --> 00:00:23,366
-Cô ấy giải thích rằng
+00:00:21,366 --> 00:00:22,733
+Ai cho cậu sự tự tin để nói câu đó thế?
 
 17
-00:00:23,366 --> 00:00:25,266
-đây chỉ là một trò chơi mang tên Cừu Đỏ,
+00:00:22,733 --> 00:00:24,133
+Lần nào đội thua mà chẳng phải tại cậu hả?
 
 18
-00:00:25,266 --> 00:00:26,400
-để thử thách tình yêu chân thành của bạn trai.
+00:00:24,133 --> 00:00:25,866
+Biến đi cho khuất mắt!" "Nhưng thôi hay là thôi đi Nobita.
 
 19
-00:00:26,400 --> 00:00:28,100
-Trước đó khi nghe kể về Cừu Đỏ,
+00:00:25,866 --> 00:00:26,966
+Không phải tớ không muốn cho cậu mượn bảo bối,
 
 20
-00:00:28,100 --> 00:00:29,266
-Conan đã cảm thấy quen tai,
+00:00:26,966 --> 00:00:28,666
+mà là trình độ đánh bóng của cậu tệ hại quá sức tưởng tượng,
 
 21
-00:00:29,266 --> 00:00:30,900
-nên bám theo thám tử Mori để tìm hiểu thực hư.
+00:00:28,666 --> 00:00:29,900
+làm gì có ai thèm chơi cùng cậu chứ."
 
 22
-00:00:30,900 --> 00:00:33,300
-Ai ngờ trước mắt lại xuất hiện một chú Cừu Đỏ thật,
+00:00:29,900 --> 00:00:31,133
+"Tớ khuyên cậu nên tập luyện chăm chỉ,
 
 23
-00:00:33,300 --> 00:00:34,800
-tay ôm đồ đạc vội vã tháo chạy.
+00:00:31,133 --> 00:00:32,166
+vận dụng bảo bối để chứng tỏ bản thân."
 
 24
-00:00:34,800 --> 00:00:36,700
-Ngay sau đó, Conan nhìn thấy dưới gầm cầu
+00:00:32,166 --> 00:00:33,066
+Lúc này mẹ Nobita bước vào phòng kiểm tra:
 
 25
-00:00:36,700 --> 00:00:38,066
-đang nằm một "đặc sản Beika" bất động.
+00:00:33,066 --> 00:00:34,366
+"Nobita, con đã làm xong bài tập về nhà chưa đấy?"
 
 26
-00:00:38,066 --> 00:00:39,200
-Trên ngực còn cắm một con dao bếp.
+00:00:34,366 --> 00:00:35,566
+"Chuyện bài tập tính sau đi ạ,
 
 27
-00:00:39,200 --> 00:00:39,800
-Khỏi phải nói,
+00:00:35,566 --> 00:00:36,700
+trước hết phải thử nghiệm với mẹ cái đã!"
 
 28
-00:00:39,800 --> 00:00:41,766
-chắc chắn là do chú Cừu Đỏ tháo chạy lúc nãy làm rồi.
+00:00:36,700 --> 00:00:38,500
+Nobita hứa hẹn: "Con đảm bảo sẽ bắt tay vào làm bài ngay!"
 
 29
-00:00:41,766 --> 00:00:42,966
-Cảnh sát nhanh chóng có mặt,
+00:00:38,500 --> 00:00:39,466
+Mẹ làm sao tin nổi:
 
 30
-00:00:42,966 --> 00:00:44,066
-người xấu số tên là Wakabayashi,
+00:00:39,466 --> 00:00:41,300
+Nobita dứt khoát bảo mẹ cứ việc vào kiểm tra bất cứ lúc nào,
 
 31
-00:00:44,066 --> 00:00:45,900
-chủ kiêm bếp trưởng của nhà hàng La Mucho.
+00:00:41,300 --> 00:00:43,366
+nếu con không làm được thì tháng này con sẽ nhịn tiền tiêu vặt.
 
 32
-00:00:45,900 --> 00:00:46,933
-Thám tử Mori liền nhớ ra,
+00:00:43,366 --> 00:00:45,300
+Mẹ cứ cảm thấy hôm nay thằng bé này có gì đó bất thường.
 
 33
-00:00:46,933 --> 00:00:48,266
-Ryota, người vừa nhờ ông trợ giúp trước đó,
+00:00:45,300 --> 00:00:46,533
+Nobita vội vàng khép cửa phòng lại.
 
 34
-00:00:48,266 --> 00:00:49,366
-cũng đang làm thuê tại nhà hàng này.
+00:00:46,533 --> 00:00:48,533
+Cậu phải thử xem chiếc "Nam châm khứ hồi" này nhạy đến cỡ nào.
 
 35
-00:00:49,366 --> 00:00:51,333
-Mọi người nhanh chóng đến nhà hàng La Mucho.
+00:00:48,533 --> 00:00:50,100
+Đầu tiên cậu đặt một đầu nam châm lên ghế ngồi,
 
 36
-00:00:51,333 --> 00:00:53,366
-Vũ khí gây án lại chính là con dao bếp mà Wakabayashi sử dụng.
+00:00:50,100 --> 00:00:51,533
+còn bản thân thì nằm bò ra sàn đọc truyện tranh.
 
 37
-00:00:53,366 --> 00:00:55,266
-Cảnh sát tiến hành hỏi han nhân viên nhà hàng.
+00:00:51,533 --> 00:00:53,333
+Doraemon vội nhắc nhở cậu nằm như thế sẽ bị mắng đấy.
 
 38
-00:00:55,266 --> 00:00:56,600
-Đầu tiên là cổ đông chung Hirasawa,
+00:00:53,333 --> 00:00:55,566
+"Cứ chờ xem nhé!" Vừa lúc mẹ đột ngột đẩy cửa vào phòng kiểm tra,
 
 39
-00:00:56,600 --> 00:00:56,800
-ông ta cho biết
+00:00:55,566 --> 00:00:56,733
+Nobita liền bấm công tắc một cái,
 
 40
-00:00:56,800 --> 00:00:59,133
-khoảng 12 giờ đêm qua đang ở văn phòng làm việc,
+00:00:56,733 --> 00:00:58,166
+cả người vèo một phát đã quay trở lại ngồi ngay ngắn trên ghế.
 
 41
-00:00:59,133 --> 00:01:00,066
-nên không có chứng cứ ngoại phạm.
+00:00:58,166 --> 00:01:00,066
+Mẹ vừa mới bước chân ra ngoài, cậu đã lại nằm xuống sàn.
 
 42
-00:01:00,066 --> 00:01:01,966
-Hai nhân viên khác hôm qua được nghỉ ở nhà,
+00:01:00,066 --> 00:01:02,000
+Liên tiếp hai lần như thế mẹ đều không phát hiện ra sơ hở nào.
 
 43
-00:01:01,966 --> 00:01:03,300
-cũng không thể đưa ra minh chứng xác thực.
+00:01:02,000 --> 00:01:03,066
+Đến cả Doraemon cũng phải khâm phục,
 
 44
-00:01:03,300 --> 00:01:04,666
-Khi nhắc tới Cừu Đỏ,
+00:01:03,066 --> 00:01:04,533
+khen ngợi phản xạ của cậu đúng là đỉnh cao.
 
 45
-00:01:04,666 --> 00:01:05,933
-phụ bếp Kamio có vẻ khá lúng túng.
+00:01:04,533 --> 00:01:06,166
+Nobita hỏi chiếc nam châm này có tác dụng trong phạm vi bao xa.
 
 46
-00:01:05,933 --> 00:01:08,100
-Hóa ra anh ta từng xem trên mạng cách đây vài tuần,
+00:01:06,166 --> 00:01:08,133
+Doraemon bảo trong bán kính 100 mét đều có hiệu lực.
 
 47
-00:01:08,100 --> 00:01:09,900
-có người đăng video mặc đồ Cừu Đỏ
+00:01:08,133 --> 00:01:09,933
+Cậu liền quyết định ra ngoài để thực nghiệm trực tiếp.
 
 48
-00:01:09,900 --> 00:01:10,866
-để đi hù dọa các cặp đôi.
+00:01:09,933 --> 00:01:11,733
+Cậu tiến tới chỗ Chaien đá một phát rồi bấm nút chạy mất.
 
 49
-00:01:10,866 --> 00:01:12,400
-Chú Cừu Đỏ mà Conan trông thấy tại hiện trường
+00:01:11,733 --> 00:01:13,066
+Chaien tức tối vung nắm đấm quay lại,
 
 50
-00:01:12,400 --> 00:01:13,500
-rất giống với trong video,
+00:01:13,066 --> 00:01:14,666
+nhưng phía sau chẳng có một bóng người.
 
 51
-00:01:13,500 --> 00:01:14,700
-nhưng lại có cảm giác gì đó sai sai.
+00:01:14,666 --> 00:01:16,500
+Nobita lúc này đã thò đầu ra từ cửa sổ tầng hai vẫy tay chào.
 
 52
-00:01:14,700 --> 00:01:15,566
-Ngay lúc này,
+00:01:16,500 --> 00:01:18,266
+Chaien ngơ ngác cứ ngỡ đầu óc mình vừa gặp ảo giác.
 
 53
-00:01:15,566 --> 00:01:16,166
-Conan phát hiện
+00:01:18,266 --> 00:01:20,133
+Trêu chọc thành công khiến Nobita vô cùng ngứa ngáy chân tay,
 
 54
-00:01:16,166 --> 00:01:17,733
-trên nền nhà bếp có vật phát sáng và
+00:01:20,133 --> 00:01:21,266
+muốn tìm một cách sử dụng độc đáo hơn nữa.
 
 55
-00:01:17,733 --> 00:01:18,300
-hai vết kéo lê.
+00:01:21,266 --> 00:01:22,500
+Không ngờ đi được một đoạn lại đụng đầu thầy giáo chủ nhiệm,
 
 56
-00:01:18,300 --> 00:01:20,300
-Còn Mori thì gọi cặp đôi đã trêu đùa mình lúc trước,
+00:01:22,500 --> 00:01:24,266
+thầy liền giữ lại hỏi xem đã làm xong bài tập chưa.
 
 57
-00:01:20,300 --> 00:01:21,066
-Ryota và Ami.
+00:01:24,266 --> 00:01:25,700
+Nobita chột dạ thú nhận là mình chưa đụng bút.
 
 58
-00:01:21,066 --> 00:01:22,600
-Cả hai chỉ là nhân viên thời vụ ở sảnh,
+00:01:25,700 --> 00:01:27,900
+Ngày nào cũng lơ là việc học nên cậu lại bị thầy giáo mắng cho một trận.
 
 59
-00:01:22,600 --> 00:01:24,866
-lúc xảy ra sự việc đêm qua, thám tử Mori đang ở cùng họ.
+00:01:27,900 --> 00:01:29,733
+Nobita định bụng dùng nam châm để trốn ngay về phòng,
 
 60
-00:01:24,866 --> 00:01:26,800
-Còn bếp trưởng Wakabayashi rất ít khi ra khỏi bếp,
+00:01:29,733 --> 00:01:31,700
+nhưng sờ túi mới tá hỏa khi thấy cả hai đầu nam châm đều mang theo người.
+
+61
+00:01:31,700 --> 00:01:32,933
+May sao thầy giáo đang có việc bận phải đi gấp,
 
 62
-00:01:26,800 --> 00:01:27,900
-nên hoàn toàn không quen biết hai người này.
+00:01:32,933 --> 00:01:34,800
+chỉ kịp buông lại một câu: "Ngày mai đi học cấm có đi muộn đấy!"
 
 63
-00:01:27,900 --> 00:01:30,066
-Ami khẳng định mình chỉ chơi theo trào lưu,
+00:01:34,800 --> 00:01:36,533
+Lời nói đó của thầy bỗng gợi lên cho cậu một ý tưởng.
 
 64
-00:01:30,066 --> 00:01:31,133
-chứ không hề có ý đồ xấu.
+00:01:36,533 --> 00:01:38,066
+Nobita đặt một đầu nam châm ở chỗ ngồi trong lớp.
 
 65
-00:01:31,133 --> 00:01:31,533
-Phía cảnh sát
+00:01:38,066 --> 00:01:39,066
+Sáng hôm sau cậu ngủ nướng dậy muộn,
 
 66
-00:01:31,533 --> 00:01:33,333
-nhanh chóng tìm thấy trên máy tính của Wakabayashi một bức
+00:01:39,066 --> 00:01:40,733
+nhưng vẫn thong thả đi bộ đến trường không chút vội vã.
 
 67
-00:01:33,333 --> 00:01:34,000
-thư tống tiền.
+00:01:40,733 --> 00:01:42,966
+Trong khi đó Shizuka hớt hải chạy vội qua người cậu,
 
 68
-00:01:34,000 --> 00:01:35,266
-Người gửi chính là Cừu Đỏ,
+00:01:42,966 --> 00:01:44,400
+hét lớn: "Còn không mau chạy đi kẻo muộn học mất!"
 
 69
-00:01:35,266 --> 00:01:37,166
-yêu cầu mang 50 triệu Yên tiền chuộc vào lúc 12 giờ đêm
+00:01:44,400 --> 00:01:45,666
+Nobita chẳng hề bận tâm,
 
 70
-00:01:37,166 --> 00:01:38,166
-đến đường hầm cầu Beika
+00:01:45,666 --> 00:01:46,933
+đắc ý bảo mình đã chuẩn bị sẵn đường lui rồi.
 
 71
-00:01:38,166 --> 00:01:39,366
-để chuộc lại cô bạn gái tên Anri.
+00:01:46,933 --> 00:01:48,533
+Shizuka vừa chạy vừa kịp giờ bước vào lớp,
 
 72
-00:01:39,366 --> 00:01:40,300
-Nhân viên Kamio cho biết
+00:01:48,533 --> 00:01:50,133
+lo lắng Nobita sẽ đi muộn và bị thầy phạt đứng phạt hành lang.
 
 73
-00:01:40,300 --> 00:01:41,733
-bản thân từng giới thiệu cho Wakabayashi
+00:01:50,133 --> 00:01:52,266
+Cô nhìn xuống thấy khối nam châm màu vàng trên bàn Nobita.
 
 74
-00:01:41,733 --> 00:01:42,666
-sử dụng một ứng dụng hẹn hò,
+00:01:52,266 --> 00:01:52,900
+Đúng lúc này Nobita đang chuẩn bị
 
 75
-00:01:42,666 --> 00:01:43,700
-tài khoản đăng ký tên là Anri,
+00:01:52,900 --> 00:01:54,566
+nhấn nút công tắc để dịch chuyển bản thân tới lớp.
 
 76
-00:01:43,700 --> 00:01:45,466
-từ đó ông quen biết cô Anri này.
+00:01:54,566 --> 00:01:56,466
+But cậu nhìn lại mới phát hiện mình đang cầm khối màu bạc.
 
 77
-00:01:45,466 --> 00:01:46,900
-Nhưng những người khác chưa từng thấy cô ấy.
+00:01:56,466 --> 00:01:57,400
+Hóa ra cậu đã cầm nhầm đầu nam châm.
 
 78
-00:01:46,900 --> 00:01:48,900
-Cảnh sát nghi ngờ kẻ thủ ác lợi dụng việc này để ra tay.
+00:01:57,400 --> 00:01:58,133
+Đúng là ngốc nghếch hết chỗ nói!
 
 79
-00:01:48,900 --> 00:01:49,766
-Chiếc túi màu đen đó
+00:01:58,133 --> 00:02:00,266
+Trong khi đó đầu nam châm màu vàng lại bị Shizuka tò mò bấm nút mất rồi.
 
 80
-00:01:49,766 --> 00:01:51,333
-nhiều khả năng chứa 50 triệu Yên tiền chuộc.
+00:02:00,266 --> 00:02:00,700
+Giây tiếp theo,
+
+81
+00:02:00,700 --> 00:02:02,566
+cả người Shizuka lập tức bị kéo văng tới cạnh Nobita.
 
 82
-00:01:51,333 --> 00:01:52,533
-Về danh xưng "Chef",
+00:02:02,566 --> 00:02:04,466
+Shizuka đứng hình kinh ngạc: "Thôi tiêu đời rồi!
 
 83
-00:01:52,533 --> 00:01:53,866
-cổ đông chung Hirasawa không hề thích,
+00:02:04,466 --> 00:02:06,000
+Tự dưng lại bị lôi kéo đi học muộn cùng cậu rồi!"
 
 84
-00:01:53,866 --> 00:01:55,933
-quy định nhân viên phải gọi là Bếp trưởng chứ không được dùng từ "Chef".
+00:02:06,000 --> 00:02:06,566
+Sau giờ học,
 
 85
-00:01:55,933 --> 00:01:57,666
-Conan bảo Ran xem lại đoạn video một lần nữa.
+00:02:06,566 --> 00:02:08,700
+Nobita năn nỉ Chaien cho mình vào sân chơi bóng chày một trận.
 
 86
-00:01:57,666 --> 00:01:58,666
-Ran bỗng sực nhớ ra,
+00:02:08,700 --> 00:02:10,000
+"Tớ bảo này, tốt nhất cậu đừng có mơ mộng viển vông nữa!
 
 87
-00:01:58,666 --> 00:02:00,100
-hồi nhỏ hình như cô đã từng thấy thứ này,
+00:02:10,000 --> 00:02:11,133
+Cho cậu vào sân là đội mình chắc chắn thua cuộc!"
 
 88
-00:02:00,100 --> 00:02:01,300
-lúc đó còn sợ đến phát khóc.
+00:02:11,133 --> 00:02:13,000
+Nobita quả quyết hứa hẹn với hai cậu bạn:
 
 89
-00:02:01,300 --> 00:02:02,266
-Conan lập tức ra ngoài,
+00:02:13,000 --> 00:02:14,566
+"Hôm nay tớ đã hoàn toàn khác xưa rồi!
 
 90
-00:02:02,266 --> 00:02:03,966
-chạy tới một kho cho thuê đồ hóa trang.
+00:02:14,566 --> 00:02:16,400
+Nếu thua cuộc, các cậu muốn xử lý tớ thế nào cũng được!"
 
 91
-00:02:03,966 --> 00:02:05,366
-Ổ khóa cửa kho chỉ để làm cảnh,
+00:02:16,400 --> 00:02:17,733
+Hai cậu bạn nghe vậy thấy cũng thú vị,
 
 92
-00:02:05,366 --> 00:02:07,366
-Conan chỉ cần gạt nhẹ là đã vào được bên trong.
+00:02:17,733 --> 00:02:19,066
+liền nhanh chóng sắp xếp tổ chức một trận đấu.
 
 93
-00:02:07,366 --> 00:02:09,266
-Quả nhiên trong đó có một bộ đồ Cừu Đỏ.
+00:02:19,066 --> 00:02:20,666
+"Nobita, lần này tới lượt cậu thể hiện bản lĩnh thực sự rồi đấy!"
 
 94
-00:02:09,266 --> 00:02:10,266
-Cậu trèo lên kiểm tra,
+00:02:20,666 --> 00:02:21,666
+"Hiểu rồi, cứ giao cho tớ!"
 
 95
-00:02:10,266 --> 00:02:11,533
-trên sừng cừu quả thực dính ít bột vôi trắng,
+00:02:21,666 --> 00:02:23,666
+Nào ngờ vừa vào trận đội Chaien đã gặp bất lợi. Haruo
 
 96
-00:02:11,533 --> 00:02:12,866
-là do hung thủ lúc trước đội trên đầu
+00:02:23,666 --> 00:02:24,400
+để thua lượt đấu đầu tiên.
 
 97
-00:02:12,866 --> 00:02:14,100
-đã quệt trần dưới gầm cầu.
+00:02:24,400 --> 00:02:25,700
+Chaien không nổi giận với Haruo,
 
 98
-00:02:14,100 --> 00:02:15,800
-Ai dè người quản lý kho đột ngột xuất hiện,
+00:02:25,700 --> 00:02:27,200
+mà quay sang hét lớn dọa Nobita: "Nếu lượt này mà thua
 
 99
-00:02:15,800 --> 00:02:17,366
-tóm cổ Conan vì tưởng cậu là trộm.
+00:02:27,200 --> 00:02:27,733
+thì liệu thần hồn với tớ!"
 
 100
-00:02:17,366 --> 00:02:19,000
-Lúc này Ran cũng dựa theo ký ức tuổi thơ
+00:02:27,733 --> 00:02:29,566
+Kết quả là bóng ném trúng đầu Nobita làm cậu ngã sấp mặt.
 
 101
-00:02:19,000 --> 00:02:20,100
-đưa bố tìm đến địa điểm này.
+00:02:29,566 --> 00:02:30,766
+Cả đám xung quanh đứng hình kinh ngạc.
 
 102
-00:02:20,100 --> 00:02:21,766
-Sau khi xướng danh thám tử lừng danh Mori Kogoro,
+00:02:30,766 --> 00:02:32,366
+Ngay sau đó Nobita bật dậy chạy như bay.
 
 103
-00:02:21,766 --> 00:02:22,800
-hiểu lầm mới được hóa giải.
+00:02:32,366 --> 00:02:32,933
+Hóa ra,
 
 104
-00:02:22,800 --> 00:02:24,900
-Thì ra bộ trang phục này gần đây hay bị lấy trộm vào ban đêm,
+00:02:32,933 --> 00:02:34,700
+năng lực thực sự của cậu không phải ở cú đánh mà là chạy base.
 
 105
-00:02:24,900 --> 00:02:26,266
-rồi hôm sau lại được trả về chỗ cũ.
+00:02:34,700 --> 00:02:35,500
+Bởi vì cậu liên tục dùng dịch chuyển tức thời,
 
 106
-00:02:26,266 --> 00:02:28,466
-Tra cứu lịch sử cho thuê thì thấy người thuê nó 3 tuần trước
+00:02:35,500 --> 00:02:36,900
+ngay cả Flash đến cũng không chạy nhanh bằng cậu.
 
 107
-00:02:28,466 --> 00:02:29,700
-bộ đồ Cừu Đỏ này
+00:02:36,900 --> 00:02:38,200
+Lượt đánh bóng tiếp theo tới lượt Chaien đứng lên.
 
 108
-00:02:29,700 --> 00:02:31,133
-chính là cổ đông Hirasawa.
+00:02:38,200 --> 00:02:39,600
+Nobita muốn tăng thêm độ khó cho game,
 
 109
-00:02:31,133 --> 00:02:32,066
-Hirasawa giải thích rằng
+00:02:39,600 --> 00:02:40,900
+liền quay người đi bộ về hướng ngược lại.
 
 110
-00:02:32,066 --> 00:02:34,300
-ông ta muốn dùng nó trong lễ kỷ niệm 5 năm thành lập nhà hàng,
+00:02:40,900 --> 00:02:41,766
+Chaien nhìn thấy nổi đóa:
 
 111
-00:02:34,300 --> 00:02:36,666
-nhưng Wakabayashi chê quá ghê rợn và phản đối, nên đành bỏ cuộc.
+00:02:41,766 --> 00:02:43,066
+"Tên nhóc này lại dở chứng điên khùng gì nữa đây?"
 
 112
-00:02:36,666 --> 00:02:37,500
-Tuy nhiên, Conan chợt nhớ tới
+00:02:43,066 --> 00:02:44,966
+Cầu thủ ném bóng thấy vậy liền ném bóng ra sau.
 
 113
-00:02:37,500 --> 00:02:40,100
-phản ứng bất thường của Hirasawa khi nghe đến 50 triệu Yên tiền chuộc.
+00:02:44,966 --> 00:02:46,933
+Nobita bấm nút một cái lập tức dịch chuyển về ngay chốt gôn nhà.
 
 114
-00:02:40,100 --> 00:02:41,533
-Bởi lẽ bếp trưởng Wakabayashi nhận được thư tống tiền
+00:02:46,933 --> 00:02:48,466
+Đối thủ hoàn toàn bó tay bất lực với cậu,
 
 115
-00:02:41,533 --> 00:02:42,566
-vào lúc 10 giờ tối,
+00:02:48,466 --> 00:02:49,166
+không thể nào loại cậu ra được.
 
 116
-00:02:42,566 --> 00:02:44,333
-khi đó ngân hàng đã đóng cửa nên không thể đi rút,
+00:02:49,166 --> 00:02:50,966
+Cứ như thế cậu chạy loăng quăng giữa hai vạch base.
 
 117
-00:02:44,333 --> 00:02:46,733
-ngoại trừ việc kẻ đứng sau vốn biết Wakabayashi có sẵn 50 triệu Yên.
+00:02:50,966 --> 00:02:52,166
+Loại thì không bị loại,
 
 118
-00:02:46,733 --> 00:02:47,100
-Quả đúng như vậy,
+00:02:52,166 --> 00:02:53,100
+nhưng một điểm cậu cũng không ghi được.
 
 119
-00:02:47,100 --> 00:02:49,466
-theo vết kéo lê mà Conan trông thấy trong bếp,
+00:02:53,100 --> 00:02:54,333
+Nhờ Doraemon đứng bên ngoài nhắc nhở,
 
 120
-00:02:49,466 --> 00:02:50,766
-phía sau chiếc kệ có giấu một két sắt.
+00:02:54,333 --> 00:02:56,166
+cậu quyết định lần này sẽ dùng hết sức để chạy vọt về.
 
 121
-00:02:50,766 --> 00:02:51,966
-Bên trong là cuốn sổ thu chi mờ ám,
+00:02:56,166 --> 00:02:57,933
+Không ngờ cú đánh tiếp theo của Chaien rất đẹp mắt.
 
 122
-00:02:51,966 --> 00:02:53,866
-nhà hàng đã giấu toàn bộ doanh thu trốn thuế ở đây.
+00:02:57,933 --> 00:02:59,966
+Nobita vắt chân lên cổ bắt đầu chạy base.
 
 123
-00:02:53,866 --> 00:02:55,600
-Wakabayashi khi đó đã mang số tiền này
+00:02:59,966 --> 00:03:01,266
+Chaien nhanh chóng đuổi sát phía sau,
 
 124
-00:02:55,600 --> 00:02:56,500
-đến đường hầm cầu Beika
+00:03:01,266 --> 00:03:02,300
+giục cậu phải nhanh chân lên.
 
 125
-00:02:56,500 --> 00:02:58,566
-để chuộc bạn gái. Nếu Hirasawa muốn cuỗm riêng khoản này,
+00:03:02,300 --> 00:03:03,700
+Đây chính là cơ hội lội ngược dòng tốt nhất.
 
 126
-00:02:58,566 --> 00:02:59,866
-thì cũng được coi là có động cơ.
+00:03:03,700 --> 00:03:05,300
+Chỉ cần chạy về đến gôn nhà là thắng trận này.
 
 127
-00:02:59,866 --> 00:03:00,766
-Thế nhưng Conan cho rằng,
+00:03:05,300 --> 00:03:07,400
+Nobita luống cuống chân trái tự giẫm chân phải,
 
 128
-00:03:00,766 --> 00:03:02,733
-một khi Hirasawa dám dùng tên thật để thuê đồ
+00:03:07,400 --> 00:03:08,666
+cú ngã sấp mặt vô tình đè trúng công tắc nam châm.
 
 129
-00:03:02,733 --> 00:03:03,733
-thì ông ta không thể là thủ phạm.
+00:03:08,666 --> 00:03:10,800
+Lôi tuột cả Chaien bay ngược trở lại chỗ khối nam châm màu bạc.
 
 130
-00:03:03,733 --> 00:03:04,600
-Hirasawa cũng nhớ ra,
+00:03:10,800 --> 00:03:12,300
+Thế là cơ hội lật ngược thế cờ trôi qua mất sạch.
 
 131
-00:03:04,600 --> 00:03:06,100
-khi đó ông đã nhờ Ryota và Ami
+00:03:12,300 --> 00:03:13,966
+Chaien và Suneo theo đúng như lời hẹn ước trước đó,
 
 132
-00:03:06,100 --> 00:03:06,700
-trông coi chiếc hộp giấy
-
-133
-00:03:06,700 --> 00:03:07,166
-đựng bộ đồ hóa trang,
-
-134
-00:03:07,166 --> 00:03:09,000
-trên đó dán sẵn địa chỉ kho chuyển phát.
-
-135
-00:03:09,000 --> 00:03:10,166
-Biết không thể giấu giếm được nữa,
-
-136
-00:03:10,166 --> 00:03:11,900
-hai người đành nhận đã lén lấy bộ đồ đó
-
-137
-00:03:11,900 --> 00:03:13,533
-để dọa các cặp đôi và quay video câu view,
-
-138
-00:03:13,533 --> 00:03:15,200
-nhưng chỉ dừng lại ở đó chứ không hề hại người.
-
-139
-00:03:15,200 --> 00:03:16,666
-Nhưng thám tử Mori không muốn bỏ qua cho họ,
-
-140
-00:03:16,666 --> 00:03:17,800
-vẫn lớn tiếng gặng hỏi.
-
-141
-00:03:17,800 --> 00:03:18,800
-Conan thấy vậy không đành lòng,
-
-142
-00:03:18,800 --> 00:03:19,866
-bắn ngay một phát kim gây mê quen thuộc,
-
-143
-00:03:19,933 --> 00:03:21,466
-Thám tử ngủ gật Mori Kogoro chính thức lên sàn.
-
-144
-00:03:21,466 --> 00:03:22,366
-Buổi suy luận bắt đầu.
-
-145
-00:03:22,366 --> 00:03:24,100
-Người làm quen với nạn nhân trên ứng dụng hẹn hò
-
-146
-00:03:24,100 --> 00:03:24,800
-không phải là Anri nào cả,
-
-147
-00:03:24,800 --> 00:03:26,533
-mà chính là cô Ami bị bắt trong video.
-
-148
-00:03:26,533 --> 00:03:28,600
-Vì Wakabayashi thường ngày hiếm khi rời khỏi bếp,
-
-149
-00:03:28,600 --> 00:03:30,366
-nên không nhận ra Ami làm bán thời gian là điều dễ hiểu.
-
-150
-00:03:30,366 --> 00:03:31,500
-Cổ đông chung Hirasawa quy định
-
-151
-00:03:31,500 --> 00:03:33,200
-nhân viên phải gọi Wakabayashi là Bếp trưởng
-
-152
-00:03:33,200 --> 00:03:33,866
-chứ không được gọi là "Chef".
-
-153
-00:03:33,866 --> 00:03:35,133
-Thế nhưng trước đó Ami và Kamio
-
-154
-00:03:35,133 --> 00:03:36,300
-lại luôn gọi ông ấy là "Chef".
-
-155
-00:03:36,300 --> 00:03:38,566
-Hơn nữa, chú Cừu Đỏ Conan gặp lúc ấy có vóc dáng rất cao,
-
-156
-00:03:38,566 --> 00:03:40,133
-sừng cừu quệt vào cả mặt dưới gầm cầu.
-
-157
-00:03:40,133 --> 00:03:41,900
-Trong khi Cừu Đỏ ở video lại khá lùn,
-
-158
-00:03:41,900 --> 00:03:42,900
-vừa vặn trùng khớp với chiều cao
-
-159
-00:03:42,900 --> 00:03:43,700
-của anh đó, anh Kamio.
-
-160
-00:03:43,700 --> 00:03:45,100
-Mái tóc của anh vốn chải dựng ngược,
-
-161
-00:03:45,100 --> 00:03:46,533
-nhưng do đội đầu trang phục hóa trang nên bị xẹp xuống.
-
-162
-00:03:46,533 --> 00:03:48,466
-Vì thế ngày hôm qua anh cứ liên tục vuốt tóc vuốt tai.
-
-163
-00:03:48,466 --> 00:03:49,066
-Chưa kể trên dây đeo đồng hồ của anh
-
-164
-00:03:49,066 --> 00:03:50,966
-còn vương lại những sợi tơ đỏ của bộ đồ Cừu Đỏ.
-
-165
-00:03:50,966 --> 00:03:52,300
-Khi Conan đội thử đầu cừu cho anh,
-
-166
-00:03:52,300 --> 00:03:53,933
-tay anh hoàn toàn không chạm vào bộ trang phục,
-
-167
-00:03:53,933 --> 00:03:55,366
-nên các sợi vải chỉ có thể dính từ trước đó.
-
-168
-00:03:55,366 --> 00:03:56,333
-Trước bằng chứng đanh thép,
-
-169
-00:03:56,333 --> 00:03:57,800
-Kamio đã thừa nhận kế hoạch chung với Ami.
-
-170
-00:03:57,800 --> 00:03:59,366
-Họ đã đặt thiết bị nghe lén trong nhà bếp
-
-171
-00:03:59,366 --> 00:04:00,500
-nên mới biết về khoản tiền 50 triệu Yên,
-
-172
-00:04:00,500 --> 00:04:02,766
-từ đó dựng video đe dọa để lừa tiền từ Wakabayashi,
-
-173
-00:04:02,766 --> 00:04:05,000
-và Kamio sẽ đóng giả Cừu Đỏ đi nhận tiền.
-
-174
-00:04:05,000 --> 00:04:06,166
-Đáng tiếc là mưu đồ bất thành,
-
-175
-00:04:06,166 --> 00:04:07,166
-và hai người cũng không hề ra tay hại người.
-
-176
-00:04:07,166 --> 00:04:08,566
-Tối qua, anh ta vừa tới công viên Beika
-
-177
-00:04:08,566 --> 00:04:10,100
-thì bị ai đó đánh lén từ phía sau ngất đi.
-
-178
-00:04:10,100 --> 00:04:11,400
-Đến khi tỉnh lại thì bộ đồ hóa trang đã biến mất.
-
-179
-00:04:11,400 --> 00:04:12,933
-Lúc này, Conan cũng cảm thấy vô cùng bối rối.
-
-180
-00:04:12,933 --> 00:04:14,200
-Chẳng lẽ có kẻ "bọ ngựa bắt ve, chim sẻ chực sẵn" sao?
-
-181
-00:04:14,200 --> 00:04:16,500
-Ở một góc khác, một bóng đen lén lút mở cửa kho,
-
-182
-00:04:16,500 --> 00:04:17,900
-tiến gần đến dãy trang phục hóa trang đang treo
-
-183
-00:04:17,900 --> 00:04:18,933
-như thể đang tìm kiếm vật gì đó.
-
-184
-00:04:18,933 --> 00:04:20,133
-Thế nhưng đèn phòng bỗng bật sáng,
-
-185
-00:04:20,133 --> 00:04:21,766
-phía sau bất ngờ xuất hiện một chú Cừu Đỏ.
-
-186
-00:04:21,766 --> 00:04:23,000
-Kẻ đột nhập hoảng hồn ngã nhào,
-
-187
-00:04:23,000 --> 00:04:25,066
-làm rơi số tiền giấu bên trong bộ đồ chim cánh cụt.
-
-188
-00:04:25,066 --> 00:04:26,200
-Nhìn thấy kẻ gian bị bắt quả tang,
-
-189
-00:04:26,200 --> 00:04:27,266
-thám tử Mori từ trong lốt cừu lộ diện.
-
-190
-00:04:27,266 --> 00:04:29,200
-Và bóng đen kia chính là người quản lý kho lúc trước.
-
-191
-00:04:29,200 --> 00:04:30,566
-Lần đầu Conan tới đây,
-
-192
-00:04:30,566 --> 00:04:32,233
-đã vô tình va vào con chim cánh cụt giấu tiền đó,
-
-193
-00:04:32,266 --> 00:04:33,666
-về sau mới nhận ra điểm bất thường.
-
-194
-00:04:33,666 --> 00:04:34,733
-Giờ đây tang chứng vật chứng đầy đủ,
-
-195
-00:04:34,733 --> 00:04:35,800
-người quản lý chỉ biết cúi đầu nhận tội.
-
-196
-00:04:35,800 --> 00:04:37,866
-Hóa ra trong lúc điều tra kẻ trộm đồ hóa trang,
-
-197
-00:04:37,866 --> 00:04:39,700
-ông ta đã vô tình nghe thấy kế hoạch tống tiền của Ami và Kamio.
-
-198
-00:04:39,700 --> 00:04:41,300
-Nghĩ đến khoản tiền khổng lồ 50 triệu Yên,
-
-199
-00:04:41,300 --> 00:04:42,166
-gã đã nảy sinh lòng tham lam.
-
-200
-00:04:42,166 --> 00:04:43,966
-Đầu tiên gã bám đuôi Kamio rồi đánh ngất anh ta,
-
-201
-00:04:43,966 --> 00:04:44,966
-sau đó mặc bộ đồ hóa trang vào
-
-202
-00:04:44,966 --> 00:04:46,466
-để thay thế đi nhận tiền dưới chân cầu.
-
-203
-00:04:46,466 --> 00:04:47,400
-Mọi việc vốn diễn ra trôi chảy,
-
-204
-00:04:47,400 --> 00:04:49,666
-ai ngờ khi mở túi kiểm tra thì thấy có con dao bếp,
-
-205
-00:04:49,666 --> 00:04:51,700
-trong lúc gã cúi xuống lấy dao thì mặt nạ vô tình rơi ra,
-
-206
-00:04:51,700 --> 00:04:53,600
-khiến Wakabayashi nhìn thấy rõ mồn một khuôn mặt gã.
-
-207
-00:04:53,600 --> 00:04:54,966
-Thế là gã làm liều luôn,
-
-208
-00:04:54,966 --> 00:04:57,200
-vung dao tiễn Wakabayashi bay màu lạnh lùng.
-
-209
-00:04:57,200 --> 00:04:59,000
-Vụ án Cừu Đỏ đầy sóng gió này
-
-210
-00:04:59,000 --> 00:04:59,933
-cuối cùng đã được đưa ra ánh sáng.
+00:03:13,966 --> 00:03:15,233
+đã dành cho Nobita một trận đòn ra trò.

@@ -1,591 +1,731 @@
 1
-00:00:00,133 --> 00:00:01,366
-Có bao giờ bạn thắc mắc một câu hỏi,
+00:00:00,066 --> 00:00:01,700
+Nobita hôm nay đụng phải một chuyện vô cùng kỳ lạ.
 
 2
-00:00:01,366 --> 00:00:02,700
-rằng Mary Sera đã bị thu nhỏ bằng cách nào?
+00:00:01,700 --> 00:00:02,766
+Cậu chạy đi tìm nhóm bạn để đi chơi,
 
 3
-00:00:02,700 --> 00:00:03,533
-Và làm thế nào bà biết được
+00:00:02,766 --> 00:00:04,033
+nhưng đến nhà ai cũng đều trống trơn không có người.
 
 4
-00:00:03,533 --> 00:00:04,933
-Kudo Shinichi cũng bị thu nhỏ giống như mình,
+00:00:04,033 --> 00:00:04,733
+Cậu liền nhanh trí đoán ngay ra
 
 5
-00:00:04,933 --> 00:00:05,966
-hiện tại lấy danh tính là Conan,
+00:00:04,733 --> 00:00:05,233
+chắc chắn đám bạn này đã lẻn ra chốt cũ trên ngọn núi phía sau.
 
 6
-00:00:05,966 --> 00:00:07,300
-và đang đi theo thám tử Mori Kogoro?
+00:00:05,233 --> 00:00:07,166
+Thế là cậu vội vàng vắt chân lên cổ chạy lên núi.
 
 7
-00:00:07,300 --> 00:00:08,800
-Thậm chí Mary còn đặc biệt quay trở lại Nhật Bản,
+00:00:07,166 --> 00:00:08,533
+Đến nơi thì thấy mấy đứa quả nhiên đang ngồi túm tụm ở đó.
 
 8
-00:00:08,800 --> 00:00:10,600
-để con gái Sera chuyển trường vào lớp của Ran,
+00:00:08,533 --> 00:00:10,566
+Hóa ra là vì thi cử bị điểm kém,
 
 9
-00:00:10,600 --> 00:00:12,066
-mục đích là để tiếp cận Conan đang bị thu nhỏ.
+00:00:10,566 --> 00:00:12,166
+sợ về nhà bị bố mẹ mắng nên mới trốn lên núi.
 
 10
-00:00:12,066 --> 00:00:13,066
-Đặc biệt là sau khi biết Conan
+00:00:12,166 --> 00:00:13,966
+"Ai mà thèm như cậu chứ,"
 
 11
-00:00:13,066 --> 00:00:14,933
-đang nắm giữ thuốc giải APTX 4869
+00:00:13,966 --> 00:00:14,500
+"điểm số của Nobita đã chạm đáy xã hội rồi,"
 
 12
-00:00:14,933 --> 00:00:15,900
-có thể giúp cơ thể khôi phục lại vóc dáng cũ,
+00:00:14,500 --> 00:00:16,333
+"mẹ cậu chắc cũng chán chẳng buồn mắng cậu nữa rồi."
 
 13
-00:00:15,900 --> 00:00:17,400
-bà đã nhiều lần cử Sera đi trộm thuốc giải.
+00:00:16,333 --> 00:00:17,833
+"Các cậu đang khen tớ đấy à?"
 
 14
-00:00:17,400 --> 00:00:18,666
-Chúng ta hãy cùng theo chân dòng hồi ức của Mary,
+00:00:17,833 --> 00:00:18,966
+"sao tớ nghe mà cứ thấy nhột nhột thế nào ấy."
 
 15
-00:00:18,666 --> 00:00:20,200
-để đến cây cầu Vauxhall ở London, nước Anh.
+00:00:18,966 --> 00:00:20,233
+"Thôi đi, đừng có mà được nước lấn tới."
 
 16
-00:00:20,200 --> 00:00:20,866
-Trên cây cầu Vauxhall,
+00:00:20,233 --> 00:00:21,566
+"Mau biến cho khuất mắt tớ đi."
 
 17
-00:00:20,866 --> 00:00:22,933
-sau hơn 10 năm lạc mất người chồng Akai Tsutomu,
+00:00:21,566 --> 00:00:22,866
+Nobita lững thững đi bộ về nhà rồi nằm ườn ra sàn,
 
 18
-00:00:22,933 --> 00:00:24,300
-cuối cùng bà đã có cơ hội gặp lại ông.
+00:00:22,866 --> 00:00:24,300
+miệng lầm bầm: "Tình bạn anh em thế là chấm hết rồi,"
 
 19
-00:00:24,300 --> 00:00:25,533
-Tsutomu vốn luôn điều tra kẻ thủ ác
+00:00:24,300 --> 00:00:25,700
+"bây giờ làm gì bọn họ cũng không thèm rủ tớ nữa."
 
 20
-00:00:25,533 --> 00:00:26,866
-tiễn Haneda Koji bay màu.
+00:00:25,700 --> 00:00:26,933
+Doraemon liền lấy ra một bộ "Huy hiệu định vị",
 
 21
-00:00:26,866 --> 00:00:28,733
-Hiện tại chỉ biết đó là một tổ chức vô cùng thế lực.
+00:00:26,933 --> 00:00:28,633
+bảo Nobita đem chia cho mỗi người một chiếc.
 
 22
-00:00:28,733 --> 00:00:30,700
-Nhưng sau đó ông đã bị Tổ chức Áo đen truy lùng,
+00:00:28,633 --> 00:00:30,333
+Đám Chaien vừa nhìn thấy chiếc huy hiệu tinh xảo như vậy
 
 23
-00:00:30,700 --> 00:00:32,366
-với vết thương ở đầu dẫn đến mất trí nhớ,
+00:00:30,333 --> 00:00:31,966
+thì mừng rỡ cười tít mắt,
 
 24
-00:00:32,466 --> 00:00:33,600
-và phải lang thang đầu đường xó chợ.
+00:00:31,966 --> 00:00:33,266
+lập tức mỗi người đút túi một chiếc.
 
 25
-00:00:33,600 --> 00:00:35,466
-Mãi đến khi tình cờ gặp lại người vợ Mary trên phố,
+00:00:33,266 --> 00:00:34,300
+But bọn họ đâu có biết rằng,
 
 26
-00:00:35,466 --> 00:00:36,566
-ông mới nhớ lại mọi chuyện,
+00:00:34,300 --> 00:00:35,233
+món đồ chơi này có tính năng định vị vị trí.
 
 27
-00:00:36,566 --> 00:00:38,266
-để rồi một năm sau có thể quay trở lại MI6.
+00:00:35,233 --> 00:00:36,900
+Nó sẽ liên tục phát tín hiệu ra ngoài,
 
 28
-00:00:38,266 --> 00:00:39,600
-Gặp mặt rồi, Tsutomu hỏi Mary
+00:00:36,900 --> 00:00:38,266
+rồi hiển thị vị trí trên một bản đồ điện tử.
 
 29
-00:00:39,600 --> 00:00:41,133
-lần này có dẫn các con trai theo cùng hay không.
+00:00:38,266 --> 00:00:39,933
+Chỉ cần nhìn biểu tượng huy hiệu của từng người
 
 30
-00:00:41,133 --> 00:00:42,200
-Mary trả lời là không,
+00:00:39,933 --> 00:00:41,633
+là có thể nắm rõ bọn họ đang ở đâu bất cứ lúc nào.
 
 31
-00:00:42,200 --> 00:00:43,200
-bà chỉ dẫn theo con gái thôi.
+00:00:41,633 --> 00:00:43,466
+Huy hiệu của nhóm Chaien
 
 32
-00:00:43,200 --> 00:00:44,366
-Tsutomu nghe xong tỏ vẻ ngơ ngác,
+00:00:43,466 --> 00:00:44,300
+là bốn chất bài Poker khác nhau.
 
 33
-00:00:44,366 --> 00:00:45,666
-ông có con gái từ bao giờ chứ?
+00:00:44,300 --> 00:00:45,700
+But chỉ một lúc sau,
 
 34
-00:00:45,666 --> 00:00:47,566
-Mary tưởng rằng chồng mình chưa hoàn toàn hồi phục trí nhớ,
+00:00:45,700 --> 00:00:46,300
+bọn họ đã bắt đầu di chuyển chạy hỗn loạn trên bản đồ.
 
 35
-00:00:47,566 --> 00:00:49,266
-đến mức con gái từng bế trên tay thuở bé cũng không nhớ.
+00:00:46,300 --> 00:00:47,766
+Doraemon bảo chắc chắn là rạn nứt nội bộ rồi,
 
 36
-00:00:49,266 --> 00:00:50,866
-Tsutomu vội sửa lưng rằng tất nhiên ông nhớ,
+00:00:47,766 --> 00:00:49,066
+Chaien đang đuổi theo định tẩn ba người kia.
 
 37
-00:00:50,866 --> 00:00:52,166
-con gái bây giờ chắc cũng đã khôn lớn rồi.
+00:00:49,066 --> 00:00:50,300
+Ba đứa sợ hãi cắm đầu chạy theo ba hướng khác nhau.
 
 38
-00:00:52,166 --> 00:00:53,000
-Câu nói vừa dứt,
+00:00:50,300 --> 00:00:52,333
+Chaien bám đuổi quyết liệt theo hướng chạy của một người.
 
 39
-00:00:53,000 --> 00:00:55,133
-hai hàng nước mắt bỗng lăn dài trên má Mary.
+00:00:52,333 --> 00:00:54,533
+Hai biểu tượng huy hiệu trên bản đồ xích lại gần nhau,
 
 40
-00:00:55,133 --> 00:00:56,366
-Bà lập tức rút súng lục ra,
+00:00:54,533 --> 00:00:56,300
+rồi đâm sầm trực tiếp vào nhau.
 
 41
-00:00:56,366 --> 00:00:57,533
-gí thẳng vào trán của Tsutomu.
+00:00:56,300 --> 00:00:57,433
+Nghĩ bằng đầu ngón chân cũng biết
 
 42
-00:00:57,533 --> 00:00:59,066
-Hóa ra Mary đã sớm nhận thấy điểm bất thường.
+00:00:57,433 --> 00:00:58,533
+Chaien lại chuẩn bị vung nắm đấm tới nơi rồi.
 
 43
-00:00:59,066 --> 00:01:00,400
-Vào thời điểm bà và chồng ly tán,
+00:00:58,533 --> 00:00:59,966
+Cái tên Chaien này quả thực vẫn chứng nào tật nấy, hống hách vô cùng.
 
 44
-00:01:00,400 --> 00:01:01,566
-con gái Sera vẫn còn nằm trong bụng mẹ,
+00:00:59,966 --> 00:01:01,933
+Cậu bạn bị ăn đòn vội vàng chạy thục mạng về nhà,
 
 45
-00:01:01,566 --> 00:01:02,933
-Tsutomu làm sao biết được cô bé trông thế nào?
+00:01:01,933 --> 00:01:03,833
+lúc này mới coi như giữ được mạng nhỏ.
 
 46
-00:01:02,933 --> 00:01:04,000
-Kẻ giả mạo biết mình đã lộ đuôi
+00:01:03,833 --> 00:01:05,100
+Bị tẩn cho tơi tả thế kia,
 
 47
-00:01:04,000 --> 00:01:04,900
-nên cũng chẳng thèm diễn nữa,
+00:01:05,100 --> 00:01:06,133
+tớ phải gọi điện hỏi thăm vờ vịt một chút mới được.
 
 48
-00:01:04,900 --> 00:01:06,066
-liền gọi ngay đồng bọn của mình ra.
+00:01:06,133 --> 00:01:08,233
+"Cảm giác bị ăn đòn có sướng không hả cậu?"
 
 49
-00:01:06,066 --> 00:01:07,733
-Và kẻ đóng giả Tsutomu trước mặt
+00:01:08,233 --> 00:01:09,533
+Cậu bạn ngơ ngác không hiểu nổi,
 
 50
-00:01:07,733 --> 00:01:09,500
-chính là thiên tài cải trang của Tổ chức - Vermouth.
+00:01:09,533 --> 00:01:10,466
+sao Nobita cứ như thể tận mắt chứng kiến vậy.
 
 51
-00:01:09,500 --> 00:01:11,400
-Mục tiêu của ả là xử lý người vợ
+00:01:10,466 --> 00:01:11,933
+Cậu lại ngó xem những người khác đang bận rộn việc gì.
 
 52
-00:01:11,400 --> 00:01:13,200
-có thể bóc trần thân phận giả mạo của mình bất cứ lúc nào,
+00:01:11,933 --> 00:01:13,633
+Biểu tượng huy hiệu của Dekisugi từ đầu đến cuối đứng im thin thít.
 
 53
-00:01:13,200 --> 00:01:14,800
-để ả tiếp tục trà trộn vào MI6.
+00:01:13,633 --> 00:01:15,566
+Hóa ra
 
 54
-00:01:14,800 --> 00:01:16,100
-Đáng tiếc Mary lại cao tay hơn,
+00:01:15,566 --> 00:01:16,100
+cậu bạn này vẫn luôn đóng cửa tự kỷ học bài ở nhà.
 
 55
-00:01:16,100 --> 00:01:17,666
-trước khi đi đã dặn dò con gái Sera:
+00:01:16,100 --> 00:01:17,633
+Biểu tượng huy hiệu của Chaien thì chạy loăng quăng khắp màn hình.
 
 56
-00:01:17,666 --> 00:01:18,666
-nếu bà không trở về,
+00:01:17,633 --> 00:01:19,366
+Nobita nhìn thấy liền cười khoái chí:
 
 57
-00:01:18,666 --> 00:01:19,700
-thì hãy báo cho MI6 biết
+00:01:19,366 --> 00:01:20,433
+"Chắc chắn là đang bị mẹ cầm chổi đuổi đánh rồi."
 
 58
-00:01:19,700 --> 00:01:21,166
-kẻ mang danh Akai Tsutomu kia chỉ là đồ giả.
+00:01:20,433 --> 00:01:21,966
+Một lúc sau,
 
 59
-00:01:21,166 --> 00:01:22,466
-Vermouth không hề nao núng,
+00:01:21,966 --> 00:01:22,366
+huy hiệu của Chaien đứng im tại bãi đất trống.
 
 60
-00:01:22,466 --> 00:01:24,000
-vì ả hoàn toàn có thể hóa trang thành Mary
+00:01:22,366 --> 00:01:24,100
+Đúng lúc này Nobita phát hiện
 
 61
-00:01:24,000 --> 00:01:24,933
-để đi gặp cô con gái.
+00:01:24,100 --> 00:01:24,933
+huy hiệu của Shizuka cũng đang từ từ tiến lại gần đó.
 
 62
-00:01:24,933 --> 00:01:26,133
-Mary chỉ lạnh lùng cười nhạt:
+00:01:24,933 --> 00:01:27,066
+Tiếp theo đó,
 
 63
-00:01:26,133 --> 00:01:27,266
-Ngươi còn chẳng biết con gái ta đang ở đâu,
+00:01:27,066 --> 00:01:27,500
+hình ảnh trên màn hình làm Nobita ngẩn người đứng hình:
 
 64
-00:01:27,266 --> 00:01:28,300
-thì làm sao mà gặp được chứ?
+00:01:27,500 --> 00:01:29,633
+Biểu tượng của Shizuka và Chaien
 
 65
-00:01:28,300 --> 00:01:29,500
-Biết không thể đe dọa được Mary,
+00:01:29,633 --> 00:01:31,066
+bỗng trùng khớp hoàn toàn tại cùng một địa điểm.
 
 66
-00:01:29,500 --> 00:01:32,000
-Vermouth liền rút ra một viên APTX 4869
+00:01:31,066 --> 00:01:32,833
+Nobita dán mắt vào màn hình,
 
 67
-00:01:32,000 --> 00:01:32,933
-ngậm vào môi mình,
+00:01:32,833 --> 00:01:33,733
+mặt bỗng đỏ bừng bừng vì ghen tuông tức tối:
 
 68
-00:01:32,933 --> 00:01:34,400
-rồi đưa tay bóp chặt cằm Mary,
+00:01:33,733 --> 00:01:35,233
+"Giữa thanh thiên bạch nhật thế này hai người họ gặp nhau làm gì cơ chứ?"
 
 69
-00:01:34,400 --> 00:01:35,933
-truyền thẳng viên thuốc qua môi bà.
+00:01:35,233 --> 00:01:37,233
+"Nhất định phải chạy qua bắt quả tang ngay tại trận mới được!"
 
 70
-00:01:35,933 --> 00:01:37,300
-Gặp phải loại người đáng tởm như vậy,
+00:01:37,233 --> 00:01:38,833
+Nobita đùng đùng nổi giận chạy tới,
 
 71
-00:01:37,300 --> 00:01:38,400
-Mary ra sức đẩy ả ra.
+00:01:38,833 --> 00:01:39,766
+nhưng đến nơi thì chỉ thấy mỗi mình Shizuka đứng đó.
 
 72
-00:01:38,400 --> 00:01:39,700
-Thế nhưng dược tính đã bắt đầu phát tác,
+00:01:39,766 --> 00:01:41,533
+Cậu dáo dác nhìn quanh mấy vòng
 
 73
-00:01:39,700 --> 00:01:41,000
-chỉ thấy Mary toàn thân bốc khói,
+00:01:41,533 --> 00:01:42,566
+cũng không thấy bóng dáng Chaien đâu cả.
 
 74
-00:01:41,000 --> 00:01:41,800
-gương mặt biến dạng đau đớn.
+00:01:42,566 --> 00:01:44,133
+Nobita lấy bản đồ ra đối chiếu lại một lần nữa,
 
 75
-00:01:41,800 --> 00:01:43,133
-Vermouth khoái chí mỉa mai:
+00:01:44,133 --> 00:01:45,633
+rõ ràng hai biểu tượng kia vẫn đang chồng khít lên nhau.
 
 76
-00:01:43,133 --> 00:01:44,866
-Cảm giác bị loại thuốc do chính em gái mình chế tạo tiễn bay màu
+00:01:45,633 --> 00:01:47,766
+Đầu óc Nobita như muốn nổ tung,
 
 77
-00:01:44,866 --> 00:01:45,900
-thì sẽ thế nào nhỉ?
+00:01:47,766 --> 00:01:48,966
+gặng hỏi Shizuka rốt cuộc đã giấu Chaien đi đâu rồi.
 
 78
-00:01:45,900 --> 00:01:47,133
-Lúc này Mary cực kỳ khổ sở,
+00:01:48,966 --> 00:01:50,866
+Dứt lời, Chaien mặt đen xì như than
 
 79
-00:01:47,133 --> 00:01:49,266
-cảm thấy mọi tế bào và xương cốt trong cơ thể đang teo nhỏ lại.
+00:01:50,866 --> 00:01:52,433
+chui đầu ra khỏi ống cống xi măng ở bãi đất trống.
 
 80
-00:01:49,266 --> 00:01:50,100
-Bà loạng choạng đứng không vững,
+00:01:52,433 --> 00:01:53,733
+Nobita thấy mình hiểu lầm tai hại,
 
 81
-00:01:50,100 --> 00:01:51,733
-rồi ngã nhào qua lan can cầu xuống sông.
+00:01:53,733 --> 00:01:55,133
+sợ hãi vội vàng co giò chạy trốn.
 
 82
-00:01:51,733 --> 00:01:52,766
-Và cảnh rơi xuống nước ấy
+00:01:55,133 --> 00:01:55,966
+Trên đường chạy về nhà thì đụng phải mẹ của Yasuo,
 
 83
-00:01:52,766 --> 00:01:54,366
-vô tình bị người đi đường nhìn thấy.
+00:01:55,966 --> 00:01:57,933
+đang sốt ruột chạy đôn chạy đáo tìm con trai.
 
 84
-00:01:54,366 --> 00:01:55,600
-Để tránh bị chú ý,
+00:01:57,933 --> 00:01:59,833
+Nobita lập tức bảo: "Cháu biết cậu ấy đang trốn ở đâu đấy ạ."
 
 85
-00:01:55,600 --> 00:01:56,866
-Vermouth ra lệnh cho đồng bọn rút lui,
+00:01:59,833 --> 00:02:01,533
+Kế đó Nobita khai ra vanh vách
 
 86
-00:01:56,866 --> 00:01:58,600
-tin chắc rằng Mary đã không còn đường sống.
+00:02:01,533 --> 00:02:03,566
+vị trí ẩn nấp của Yasuo cho mẹ cậu ấy biết.
 
 87
-00:01:58,600 --> 00:01:59,500
-Trong khi đó, Sera ở bên này
+00:02:03,566 --> 00:02:04,433
+Cậu còn tự phụ buông lời: "Trong cái trấn này,
 
 88
-00:01:59,500 --> 00:02:00,900
-vẫn đang sốt ruột chờ mẹ quay về.
+00:02:04,433 --> 00:02:05,766
+dù ai có trốn ở góc xó xỉnh nào
 
 89
-00:02:00,900 --> 00:02:02,333
-Khó khăn lắm mới nghe thấy tiếng gõ cửa,
+00:02:05,766 --> 00:02:06,833
+cháu cũng đều nắm rõ như lòng bàn tay."
 
 90
-00:02:02,333 --> 00:02:04,300
-nhưng khi mở ra lại chỉ thấy một bé gái.
+00:02:06,833 --> 00:02:07,566
+Không lâu sau đó,
 
 91
-00:02:04,300 --> 00:02:05,333
-Cô bé ấy nói với Sera rằng
+00:02:07,566 --> 00:02:08,300
+mẹ của Chaien hùng hổ tìm đến tận cửa nhà Nobita.
 
 92
-00:02:05,333 --> 00:02:06,166
-bản thân chính là mẹ của cô -
+00:02:08,300 --> 00:02:10,233
+Bà muốn hỏi xem Chaien rốt cuộc đang trốn ở góc nào.
 
 93
-00:02:06,166 --> 00:02:06,566
-Mary,
+00:02:10,233 --> 00:02:12,233
+Nobita liền mách ngay:
 
 94
-00:02:06,566 --> 00:02:08,300
-bị kẻ xấu cho uống thuốc lạ nên mới thành ra thế này.
+00:02:12,233 --> 00:02:12,966
+"Chaien đang rúc ở trong ống cống xi măng ngoài bãi đất trống đấy ạ."
 
 95
-00:02:08,300 --> 00:02:09,500
-Sau khi có được lòng tin từ con gái,
+00:02:12,966 --> 00:02:15,133
+Quả nhiên, mẹ Chaien lao ra bãi đất trống,
 
 96
-00:02:09,500 --> 00:02:10,800
-Mary trong hình hài nhỏ bé bước vào nhà.
+00:02:15,133 --> 00:02:16,433
+xách tai túm cổ lôi Chaien ra ngoài.
 
 97
-00:02:10,800 --> 00:02:12,733
-Lúc này tivi đang phát giải quần vợt Wimbledon,
+00:02:16,433 --> 00:02:17,700
+Các bà mẹ khác nghe thấy tin này
 
 98
-00:02:12,733 --> 00:02:14,366
-hình ảnh một cậu bé đột ngột xuất hiện trên màn hình
+00:02:17,700 --> 00:02:19,500
+cũng đồng loạt rồng rắn kéo nhau đến tìm Nobita,
 
 99
-00:02:14,366 --> 00:02:15,500
-đã thu hút sự chú ý của hai mẹ con.
+00:02:19,500 --> 00:02:20,833
+từng người một gặng hỏi
 
 100
-00:02:15,500 --> 00:02:17,133
-Cậu bé tự xưng là đệ tử của Sherlock Holmes.
+00:02:20,833 --> 00:02:21,433
+vị trí trốn của con trai mình từ miệng Nobita.
 
 101
-00:02:17,133 --> 00:02:18,200
-Sera lập tức nhớ lại,
+00:02:21,433 --> 00:02:23,533
+Chỉ trong nháy mắt,
 
 102
-00:02:18,200 --> 00:02:19,533
-đây chẳng phải là "phù thủy" năm xưa ở bãi biển
+00:02:23,533 --> 00:02:24,300
+mẹ Suneo đã tóm gọn
 
 103
-00:02:19,533 --> 00:02:20,933
-đã chọc cười được anh Shu hay sao?
+00:02:24,300 --> 00:02:25,633
+Suneo đang co rúm một góc trong công viên.
 
 104
-00:02:20,933 --> 00:02:22,366
-Mary cũng nhớ ra đứa trẻ đó
+00:02:25,633 --> 00:02:26,966
+Yasuo và Haruo
 
 105
-00:02:22,366 --> 00:02:23,366
-tên là Kudo Shinichi,
+00:02:26,966 --> 00:02:27,833
+cũng bị mẹ của mình đuổi chạy té khói khắp phố.
 
 106
-00:02:23,366 --> 00:02:25,366
-lúc ấy cũng từng nhận mình là đệ tử của Sherlock Holmes.
+00:02:27,833 --> 00:02:29,533
+Cuối cùng mấy đứa chạy trốn chui vào bụi cỏ ven sông,
 
 107
-00:02:25,366 --> 00:02:27,533
-Mary vội nhờ đồng nghiệp ở MI6 điều tra giúp.
+00:02:29,533 --> 00:02:31,633
+ngồi đó vò đầu bứt tai suy nghĩ
 
 108
-00:02:27,533 --> 00:02:29,400
-Quả nhiên trong danh sách hành khách bay tới London
+00:02:31,633 --> 00:02:32,633
+tại sao hôm nay hành tung lại bị bại lộ dễ dàng như thế.
 
 109
-00:02:29,400 --> 00:02:30,900
-có tên của Kudo Shinichi.
+00:02:32,633 --> 00:02:34,233
+Suneo khẳng định chắc nịch
 
 110
-00:02:30,900 --> 00:02:32,700
-Nhưng hai người đi cùng lại không phải người thân của cậu.
+00:02:34,233 --> 00:02:34,866
+chắc chắn là do Nobita đi mách lẻo với phụ huynh.
 
 111
-00:02:32,700 --> 00:02:33,366
-Thêm một điểm nữa,
+00:02:34,866 --> 00:02:36,066
+But làm cách nào mà cậu ta
 
 112
-00:02:33,366 --> 00:02:35,366
-Kudo Shinichi vốn là thám tử học đường lừng danh,
+00:02:36,066 --> 00:02:36,933
+biết rõ từng bước đi của chúng ta như vậy chứ?
 
 113
-00:02:35,366 --> 00:02:36,666
-từng phá được nhiều vụ án hóc búa,
+00:02:36,933 --> 00:02:38,433
+Lời chưa nói hết câu,
 
 114
-00:02:36,666 --> 00:02:38,700
-nhưng nửa năm trở lại đây lại đột ngột biến mất.
+00:02:38,433 --> 00:02:39,300
+Nobita đã dẫn đầu hội phụ huynh chặn ngay trước mặt.
 
 115
-00:02:38,700 --> 00:02:39,733
-Thế nhưng cùng lúc đó,
+00:02:39,300 --> 00:02:41,266
+Mấy đứa sợ hãi mất mật, co giò bỏ chạy thục mạng.
 
 116
-00:02:39,733 --> 00:02:41,666
-tại các hiện trường vụ án lại thường thấy một cậu bé,
+00:02:41,266 --> 00:02:43,133
+But trên người vẫn đeo chiếc huy hiệu định vị,
 
 117
-00:02:41,666 --> 00:02:42,966
-nghe nói cậu bé kia có ngoại hình
+00:02:43,133 --> 00:02:44,500
+có trốn đằng trời cũng không thoát.
 
 118
-00:02:42,966 --> 00:02:44,333
-giống hệt Kudo Shinichi lúc nhỏ.
+00:02:44,500 --> 00:02:45,700
+Rất nhanh sau đó Nobita đã lật tẩy Yasuo và Haruo
 
 119
-00:02:44,333 --> 00:02:45,366
-Mary liền nhận ra ngay,
+00:02:45,700 --> 00:02:47,633
+đang trốn trong thùng các-tông,
 
 120
-00:02:45,366 --> 00:02:45,966
-cậu bé này
+00:02:47,633 --> 00:02:48,266
+lại lôi cổ Suneo đang vắt vẻo trên cành cây xuống.
 
 121
-00:02:45,966 --> 00:02:47,800
-nhiều khả năng chính là Kudo Shinichi bị thu nhỏ.
+00:02:48,266 --> 00:02:50,266
+Đến cuối cùng ngay cả Chaien đang chui lủi trong chuồng chó
 
 122
-00:02:47,800 --> 00:02:49,400
-Cậu ta cũng bị ép uống loại thuốc khiến cơ thể
+00:02:50,266 --> 00:02:52,100
+cũng không qua nổi mắt Nobita.
 
 123
-00:02:49,400 --> 00:02:49,900
-bị teo nhỏ giống như bà.
+00:02:52,100 --> 00:02:53,366
+Nobita dán mắt vào định vị của Chaien,
 
 124
-00:02:49,900 --> 00:02:52,066
-Hiện tại cậu ta chắc chắn có cách để khôi phục cơ thể cũ,
+00:02:53,366 --> 00:02:54,666
+bất luận Chaien có trốn vào cái xó xỉnh hang cùng ngõ hẻm nào,
 
 125
-00:02:52,066 --> 00:02:53,933
-thì mới có thể đi máy bay ra nước ngoài như vậy.
+00:02:54,666 --> 00:02:56,500
+Nobita cũng đều dễ dàng lôi cậu ta ra ngoài.
 
 126
-00:02:53,933 --> 00:02:55,866
-Vì thế Mary quyết định đưa con gái trở về Nhật Bản
+00:02:56,500 --> 00:02:57,966
+Chaien hoàn toàn tuyệt vọng và bất lực.
 
 127
-00:02:55,866 --> 00:02:56,866
-để tiếp cận Kudo Shinichi,
+00:02:57,966 --> 00:02:59,333
+Cậu ta vắt óc suy nghĩ không hiểu nổi
 
 128
-00:02:56,866 --> 00:02:58,666
-nhằm lấy được thứ thuốc giúp cơ thể trở lại bình thường.
+00:02:59,333 --> 00:03:00,433
+Nobita đã dùng cách gì
 
 129
-00:02:58,666 --> 00:02:59,666
-Hồi ức đến đây là kết thúc.
+00:03:00,433 --> 00:03:01,300
+để nắm thóp mình rõ như lòng bàn tay.
 
 130
-00:02:59,666 --> 00:03:00,200
-Bởi vì lúc này,
+00:03:01,300 --> 00:03:02,433
+Chaien nóng quá liền cởi phăng chiếc áo đang mặc ra vứt đi.
 
 131
-00:03:00,200 --> 00:03:01,800
-Sera đã nhắm đến thuốc giải của Conan.
+00:03:02,433 --> 00:03:03,900
+Một lát sau,
 
 132
-00:03:01,800 --> 00:03:02,866
-Thế nhưng khi cô cùng nhóm của Ran
+00:03:03,900 --> 00:03:04,466
+Nobita nhìn theo định vị tín hiệu đi tới chỗ đó.
 
 133
-00:03:02,866 --> 00:03:04,666
-tham gia buổi tiệc sinh nhật của bạn học,
+00:03:04,466 --> 00:03:05,933
+Chaien thính tai nghe thấy tiếng động,
 
 134
-00:03:04,666 --> 00:03:06,500
-lại tình cờ thấy Conan uống thuốc vì bị nhiệt miệng.
+00:03:05,933 --> 00:03:07,166
+lập tức lại tìm chỗ trốn khác.
 
 135
-00:03:06,500 --> 00:03:07,666
-Trên tay cậu có một viên thuốc màu xanh,
+00:03:07,166 --> 00:03:08,133
+But Nobita tới nơi nhìn quanh một lượt
 
 136
-00:03:07,666 --> 00:03:09,766
-đó chính là thuốc giải APTX 4869.
+00:03:08,133 --> 00:03:09,466
+lại chẳng thấy bóng dáng ai cả.
 
 137
-00:03:09,766 --> 00:03:11,500
-Cô liền gọi điện báo ngay cho mẹ Mary
+00:03:09,466 --> 00:03:10,533
+Trong lòng Nobita dấy lên nỗi nghi ngờ thắc mắc.
 
 138
-00:03:11,500 --> 00:03:13,000
-và hứa lần này chắc chắn sẽ lấy được thuốc.
+00:03:10,533 --> 00:03:11,966
+Chaien trốn ở gần đó cũng thấy vô cùng kỳ lạ,
 
 139
-00:03:13,000 --> 00:03:15,200
-Sau đó, trong buổi tiệc đã xảy ra một vụ hạ độc.
+00:03:11,966 --> 00:03:13,433
+không hiểu sao lần này lại không bị Nobita bắt thóp.
 
 140
-00:03:15,200 --> 00:03:17,066
-Khi bị phát giác, hung thủ định làm liều tới cùng.
+00:03:13,433 --> 00:03:14,833
+Cậu ta vừa định với tay lấy lại chiếc áo định mặc,
 
 141
-00:03:17,066 --> 00:03:18,533
-Sera lấy cớ bảo vệ Conan
+00:03:14,833 --> 00:03:16,033
+thì chiếc huy hiệu định vị từ túi áo bỗng rơi xuống đất.
 
 142
-00:03:18,533 --> 00:03:19,966
-để ôm chặt lấy cậu và nẫng đi hộp thuốc.
+00:03:16,033 --> 00:03:17,766
+Chaien nhặt huy hiệu lên nhìn ngắm suy ngẫm,
 
 143
-00:03:19,966 --> 00:03:21,700
-Nhưng lúc mở chiếc hộp ra thì cô mới ngã ngửa,
+00:03:17,766 --> 00:03:19,066
+tức thì hiểu ra toàn bộ ngọn ngành câu chuyện,
 
 144
-00:03:21,700 --> 00:03:23,700
-bởi Conan đã sớm đi trước một bước, đọc vị được mưu tính của Sera
+00:03:19,066 --> 00:03:20,166
+khóe miệng khẽ nở một nụ cười đểu cáng đầy nguy hiểm.
 
 145
-00:03:23,700 --> 00:03:24,766
-và rút viên thuốc ra từ trước.
+00:03:20,166 --> 00:03:21,566
+Nobita hăm hở dẫn mẹ Chaien và mẹ Suneo
 
 146
-00:03:24,766 --> 00:03:25,133
-Liệu rằng
+00:03:21,566 --> 00:03:22,966
+đi thẳng tới chỗ nhà kho chứa đồ,
 
 147
-00:03:25,133 --> 00:03:27,066
-trong đời này Sera có thể lấy trộm thành công thuốc giải không?
+00:03:22,966 --> 00:03:24,066
+khẳng định hai đứa chắc chắn đang trốn ở trong đó.
 
 148
-00:03:27,066 --> 00:03:27,866
-Hãy cùng chờ xem nhé.
+00:03:24,066 --> 00:03:25,333
+Mẹ Chaien không nói hai lời, giật mạnh cửa nhà kho ra,
+
+149
+00:03:25,333 --> 00:03:26,766
+một con chó dữ hung tợn đột nhiên lao xổ ra sủa nhặng xị.
+
+150
+00:03:26,766 --> 00:03:28,500
+Ba người sợ hãi vắt chân lên cổ bỏ chạy trối chết.
+
+151
+00:03:28,500 --> 00:03:30,233
+Đây thực chất chính là cái bẫy do Chaien và Suneo dàn dựng sẵn,
+
+152
+00:03:30,233 --> 00:03:32,266
+bọn họ đã sớm bóc chiếc huy hiệu định vị dán lên vòng cổ con chó dữ.
+
+153
+00:03:32,266 --> 00:03:34,166
+Nobita ngơ ngác ngốc nghếch
+
+154
+00:03:34,166 --> 00:03:35,133
+cứ ngỡ là bảo bối định vị bị lỗi hỏng hóc gì rồi.
+
+155
+00:03:35,133 --> 00:03:36,566
+Khổ nỗi Doraemon lại không có nhà,
+
+156
+00:03:36,566 --> 00:03:37,900
+cậu đành lầm lũi tự mình loay hoay tìm cách sửa chữa.
+
+157
+00:03:37,900 --> 00:03:39,633
+Đang loay hoay loay hoay,
+
+158
+00:03:39,666 --> 00:03:40,300
+bỗng thấy biểu tượng huy hiệu của Chaien
+
+159
+00:03:40,300 --> 00:03:41,733
+đang bị ba biểu tượng kia đuổi theo
+
+160
+00:03:41,733 --> 00:03:43,066
+tẩn cho một trận tơi bời hoa lá.
+
+161
+00:03:43,066 --> 00:03:43,700
+Nobita tròn xoe mắt nhìn chằm chằm,
+
+162
+00:03:43,700 --> 00:03:44,666
+không thể tin nổi vào mắt mình trước những gì đang xảy ra.
+
+163
+00:03:44,666 --> 00:03:46,233
+Một lát sau,
+
+164
+00:03:46,233 --> 00:03:46,700
+những biểu tượng kia
+
+165
+00:03:46,700 --> 00:03:47,266
+lại xoay vòng quanh chiếc huy hiệu của Chaien liên tục.
+
+166
+00:03:47,266 --> 00:03:49,266
+Xem ra, tám phần mười là bọn họ
+
+167
+00:03:49,266 --> 00:03:50,366
+đang nhảy múa tưng bừng ở đầu bên kia.
+
+168
+00:03:50,366 --> 00:03:51,266
+Cuối cùng, tất cả các biểu tượng
+
+169
+00:03:51,266 --> 00:03:52,433
+đồng loạt nhảy tõm xuống dưới hồ nước sâu.
+
+170
+00:03:52,433 --> 00:03:54,266
+Nobita hoàn toàn đứng hình câm nín,
+
+171
+00:03:54,266 --> 00:03:55,433
+quyết định
+
+172
+00:03:55,433 --> 00:03:55,966
+phải đích thân chạy ra bờ hồ để kiểm chứng cho rõ ngọn ngành.
+
+173
+00:03:55,966 --> 00:03:57,700
+But khi chạy ra đến bờ hồ thì cậu hoàn toàn đơ người ra:
+
+174
+00:03:57,700 --> 00:03:59,100
+Hóa ra
+
+175
+00:03:59,100 --> 00:03:59,666
+đây hoàn toàn là cái bẫy do nhóm Chaien cố tình giăng ra để chơi khăm cậu.
+
+176
+00:03:59,666 --> 00:04:00,666
+Nobita mở miệng định giải thích vài câu,
+
+177
+00:04:00,666 --> 00:04:01,866
+but nhóm Chaien đâu có thèm nghe,
+
+178
+00:04:01,866 --> 00:04:03,433
+đồng loạt hét lớn lao xổ vào cậu,
+
+179
+00:04:03,433 --> 00:04:04,733
+tẩn cho Nobita một trận đòn tơi bời khói lửa.
+
+180
+00:04:04,733 --> 00:04:05,866
+Hôm nay Nobita bị ăn đòn thực sự chẳng oan chút nào,
+
+181
+00:04:05,866 --> 00:04:07,233
+hoàn toàn là tự mình chuốc họa vào thân mà thôi.
+
+182
+00:04:07,233 --> 00:04:09,133
+大熊今天这顿打挨的半点都不冤
+
+183
+00:04:09,133 --> 00:04:10,033
+纯属自找的
