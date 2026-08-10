@@ -1,655 +1,539 @@
 1
-00:00:00,033 --> 00:00:01,033
-Đèn chuyển đổi chất liệu này
+00:00:00,066 --> 00:00:01,500
+Nobita lật mở cuốn truyện tranh đính kèm tạp chí,
 
 2
-00:00:01,033 --> 00:00:03,133
-có thể biến bất kỳ đồ vật nào được chiếu sáng thành chất liệu mong muốn.
+00:00:01,500 --> 00:00:03,500
+ngay giây sau cuốn truyện bỗng phóng to gấp 10 lần,
 
 3
-00:00:03,133 --> 00:00:03,800
-Cánh cửa gỗ cứng cáp
+00:00:03,500 --> 00:00:04,733
+nội dung bên trong cũng bắt đầu chuyển động sống động.
 
 4
-00:00:03,800 --> 00:00:05,300
-trong nháy mắt đã biến thành lớp vải mềm mại.
+00:00:04,733 --> 00:00:06,533
+Giống như một bộ phim hoạt hình đang chiếu trên tivi,
 
 5
-00:00:05,300 --> 00:00:06,833
-Chiếu thử lên tờ báo trên tay mẹ một phát,
+00:00:06,533 --> 00:00:08,366
+kể cho Nobita nghe câu chuyện trong cuốn truyện tranh.
 
 6
-00:00:06,833 --> 00:00:08,433
-tờ báo lập tức biến thành chất liệu thủy tinh,
+00:00:08,366 --> 00:00:09,966
+Hơn nữa mỗi một trang lại có một nội dung thú vị khác nhau.
 
 7
-00:00:08,433 --> 00:00:10,100
-ném lên bàn một cái liền vỡ vụn thành từng mảnh nhỏ.
+00:00:09,966 --> 00:00:11,333
+Ngoài bộ truyện ăn khách "Doraemon"
 
 8
-00:00:10,100 --> 00:00:11,066
-Nobita vô cùng thích thú.
+00:00:11,333 --> 00:00:12,900
+còn có bộ truyện mới "Bà mẹ siêu năng lực".
 
 9
-00:00:11,066 --> 00:00:12,133
-Hóa ra hai tiếng rưỡi trước,
+00:00:12,900 --> 00:00:14,133
+Chỉ cần bấm vào chiếc huy hiệu hình chú gà con,
 
 10
-00:00:12,133 --> 00:00:13,800
-nhóm Nobita đang chơi bóng chày ở bãi đất trống,
+00:00:14,133 --> 00:00:16,166
+người mẹ sẽ dùng siêu năng lực để dịch chuyển bản thân và con gái
 
 11
-00:00:13,800 --> 00:00:15,066
-kết quả cú sút bóng của Chaien
+00:00:16,166 --> 00:00:17,000
+đến ngay trường học trong chớp mắt.
 
 12
-00:00:15,066 --> 00:00:16,233
-đã làm vỡ kính nhà bác Kaminari.
+00:00:17,000 --> 00:00:18,466
+Sau khi đọc xong và khép cuốn truyện lại,
 
 13
-00:00:16,233 --> 00:00:17,100
-Và Nobita đen đủi
+00:00:18,466 --> 00:00:20,400
+cuốn truyện lập tức co nhỏ trở lại hình dạng ban đầu.
 
 14
-00:00:17,100 --> 00:00:19,033
-bị Chaien và Suneo bắt đi nhặt bóng.
+00:00:20,400 --> 00:00:22,733
+Lúc này Nobita cầm phụ bản ông thầy dạy Toán ra,
 
 15
-00:00:19,033 --> 00:00:21,233
-Cuối cùng đương nhiên không tránh khỏi một trận mắng mỏ của bác Kaminari.
+00:00:22,733 --> 00:00:24,466
+muốn nhờ thầy làm hộ bài tập về nhà cho mình.
 
 16
-00:00:21,233 --> 00:00:22,300
-Giờ đây đã có món bảo bối này rồi,
+00:00:24,466 --> 00:00:26,533
+Nào ngờ ông thầy Toán bước ra từ phụ bản
 
 17
-00:00:22,300 --> 00:00:23,866
-trực tiếp biến cửa kính nhà bác ấy thành chất liệu sắt,
+00:00:26,533 --> 00:00:27,466
+lại nghiêm khắc yêu cầu Nobita
 
 18
-00:00:23,866 --> 00:00:25,033
-như vậy chẳng phải sẽ không bao giờ sợ bị vỡ nữa sao?
+00:00:27,466 --> 00:00:29,000
+phải bắt đầu học từ những bài toán cơ bản nhất.
 
 19
-00:00:25,033 --> 00:00:27,100
-Kế đó, hai đứa liền gọi Chaien và Suneo tới.
+00:00:29,000 --> 00:00:30,966
+Khiến Nobita hoảng sợ ném phăng cuốn phụ bản đi chỗ khác.
 
 20
-00:00:27,100 --> 00:00:29,066
-Doraemon ôm một tảng đá lớn để làm mẫu thử nghiệm,
+00:00:30,966 --> 00:00:32,766
+Đúng lúc này Doraemon đang đọc cuốn phụ bản "Đại bách khoa trò chơi trí tuệ"
 
 21
-00:00:29,066 --> 00:00:30,733
-Chaien và Suneo sợ đến mức mặt cắt không còn giọt máu.
+00:00:32,766 --> 00:00:34,100
+và cười nghiêng ngả bò lăn bò càng.
 
 22
-00:00:30,733 --> 00:00:32,300
-Nobita tuy biết công dụng của bảo bối,
+00:00:34,100 --> 00:00:36,000
+But khi nghe nói câu đố đó là một bài toán tính nhẩm,
 
 23
-00:00:32,300 --> 00:00:33,466
-nhưng trong lòng vẫn thấy lo lắng chột dạ.
+00:00:36,000 --> 00:00:37,466
+Nobita lập tức mất sạch hứng thú.
 
 24
-00:00:33,466 --> 00:00:34,900
-Doraemon bảo cậu cứ yên tâm đi,
+00:00:37,466 --> 00:00:39,566
+Thế là Doraemon rủ Nobita chơi phụ bản xếp giấy thủ công.
 
 25
-00:00:34,900 --> 00:00:36,266
-nói rồi liền ném mạnh tảng đá qua tường,
+00:00:39,566 --> 00:00:40,400
+折纸的复刊
 
 26
-00:00:36,266 --> 00:00:37,266
-đập thẳng vào cửa kính nhà bác Kaminari.
+00:00:40,466 --> 00:00:42,300
+Biết rằng những sản phẩm sau khi gấp xong sẽ biến thành đồ thật,
 
 27
-00:00:37,266 --> 00:00:39,400
-Bác Kaminari nghe tiếng động liền đẩy cửa ra quát mắng om sòm,
+00:00:42,300 --> 00:00:44,100
+Nobita lập tức lựa chọn gấp chiếc máy bay phản lực.
 
 28
-00:00:39,400 --> 00:00:41,600
-nhưng khi quay đầu nhìn lại thì thấy cửa kính vẫn lành lặn nguyên vẹn.
+00:00:44,100 --> 00:00:45,866
+Tiếc là cậu vụng về làm hỏng mất chiếc máy bay.
 
 29
-00:00:41,600 --> 00:00:42,733
-Bác ấy ngơ ngác đứng đơ người tại chỗ.
+00:00:45,866 --> 00:00:47,600
+May sao hai phụ bản khác lại vô cùng đơn giản,
 
 30
-00:00:42,733 --> 00:00:44,633
-Thế là từ giờ cả đám có thể yên tâm chơi bóng chày rồi.
+00:00:47,600 --> 00:00:49,866
+chỉ cần xé hai tờ giấy xếp theo đường nếp gấp sẵn
 
 31
-00:00:44,633 --> 00:00:45,733
-Ngờ đâu Chaien vừa vụt mạnh một phát,
+00:00:49,866 --> 00:00:51,566
+rồi ráp chúng lại với nhau là thành chiếc dù lượn.
 
 32
-00:00:45,733 --> 00:00:48,066
-gậy đánh bóng lập tức gãy làm đôi kêu răng rắc.
+00:00:51,566 --> 00:00:53,866
+Đút nó vào túi áo rồi nhảy từ trên cao xuống là dù sẽ tự động mở ra.
 
 33
-00:00:48,066 --> 00:00:49,200
-Suneo tiếc của dậm chân bành bạch:
+00:00:53,866 --> 00:00:55,766
+But vì chiếc máy bay phản lực của Nobita đã bị hỏng,
 
 34
-00:00:49,200 --> 00:00:50,666
-"Đó là chiếc gậy phiên bản giới hạn của tớ mà!"
+00:00:55,766 --> 00:00:57,800
+nên Doraemon đành cho cậu mượn chiếc trực thăng giấy của mình.
 
 35
-00:00:50,666 --> 00:00:51,400
-Nobita trông thấy vậy,
+00:00:57,800 --> 00:00:58,100
+直升机
 
 36
-00:00:51,400 --> 00:00:53,633
-liền vội vàng nhặt một tờ báo cũ cuộn tròn lại,
+00:00:58,100 --> 00:01:00,300
+Chỉ thấy chiếc trực thăng giấy lập tức đưa Nobita bay lên không trung,
 
 37
-00:00:53,633 --> 00:00:55,166
-rồi dùng đèn chuyển đổi chất liệu chiếu lên.
+00:01:00,300 --> 00:01:01,600
+rồi bay thẳng ra ngoài cửa sổ,
 
 38
-00:00:55,233 --> 00:00:56,633
-Trong nháy mắt, tờ báo cuộn tròn biến thành chất liệu kim loại cứng cáp.
+00:01:01,600 --> 00:01:03,066
+tự do bay lượn trên bầu trời bao la.
 
 39
-00:00:56,633 --> 00:00:58,200
-Chaien ban đầu còn hơi ái ngại nghi ngờ,
+00:01:03,066 --> 00:01:05,333
+Đúng lúc đó Chaien và Suneo đang chơi máy bay điều khiển từ xa ở bãi đất trống,
 
 40
-00:00:58,200 --> 00:00:59,266
-but sau khi cầm lên đánh thử mới nhận ra
+00:01:05,333 --> 00:01:07,500
+bỗng thấy Nobita cưỡi máy bay trực thăng giấy bay qua.
 
 41
-00:00:59,266 --> 00:01:00,066
-dùng món đồ tự chế này
+00:01:07,533 --> 00:01:09,100
+Khiến Chaien và Suneo tức tối vô cùng.
 
 42
-00:01:00,066 --> 00:01:01,600
-còn vừa tay và sướng hơn cả cây gậy xịn của Suneo.
+00:01:09,100 --> 00:01:10,766
+But vì mải mê đắc ý không chú ý nhìn đường,
 
 43
-00:01:01,600 --> 00:01:02,633
-Đến lượt Nobita lên sân,
+00:01:10,766 --> 00:01:12,666
+Nobita đã đâm sầm vào cành cây rồi rơi bịch xuống đất.
 
 44
-00:01:02,633 --> 00:01:04,633
-but gậy có xịn đến mấy cũng không cứu nổi trình độ tệ hại của cậu.
+00:01:12,666 --> 00:01:14,066
+Sau đó Nobita lết cái thân đầy thương tích về nhà,
 
 45
-00:01:04,633 --> 00:01:05,633
-Bóng bay tới quá nhanh,
+00:01:14,066 --> 00:01:15,333
+phát hiện ra một cuốn phụ bản vô cùng thú vị.
 
 46
-00:01:05,633 --> 00:01:06,533
-cậu hoàn toàn không thể theo kịp.
+00:01:15,333 --> 00:01:17,000
+But Doraemon đã vội ngăn cậu lại:
 
 47
-00:01:06,533 --> 00:01:07,800
-Chỉ cần trượt thêm một quả nữa là thua trận.
+00:01:17,000 --> 00:01:18,100
+Hóa ra phụ bản này
 
 48
-00:01:07,800 --> 00:01:09,833
-Nobita mếu máo bảo bóng bay nhanh quá cậu chẳng nhìn thấy gì cả.
+00:01:18,100 --> 00:01:19,366
+không được phép mở ra ở trong nhà.
 
 49
-00:01:09,833 --> 00:01:10,900
-Doraemon bảo cậu đừng cuống,
+00:01:19,366 --> 00:01:20,366
+Thế là hai đứa đi ra ngoài sân,
 
 50
-00:01:10,900 --> 00:01:11,700
-"Để tớ giúp cậu một tay!"
+00:01:20,366 --> 00:01:22,133
+ba tờ giấy xếp khổng lồ lập tức xuất hiện.
 
 51
-00:01:11,700 --> 00:01:12,900
-Ngay khi quả bóng tiếp theo được ném ra,
+00:01:22,133 --> 00:01:24,333
+Nobita dỡ chúng ra rồi ráp chúng lại với nhau.
 
 52
-00:01:12,900 --> 00:01:14,200
-Doraemon dùng đèn chiếu thẳng vào quả bóng,
+00:01:24,333 --> 00:01:25,933
+Tuy nội dung là một trò chơi đồ hàng dành cho con gái,
 
 53
-00:01:14,200 --> 00:01:15,800
-quả bóng lập tức biến thành chất liệu bong bóng xà phòng mềm mại,
+00:01:25,933 --> 00:01:27,933
+nhưng Doraemon vẫn cùng Nobita hợp lực ráp xong,
 
 54
-00:01:15,800 --> 00:01:17,400
-từ từ bay lơ lửng trước mặt Nobita.
+00:01:27,933 --> 00:01:29,766
+dựng thành công một ngôi nhà chơi đồ hàng xinh xắn.
 
 55
-00:01:17,400 --> 00:01:19,433
-Nobita dễ dàng vụt gậy đánh quả bóng bay đi.
+00:01:29,766 --> 00:01:31,133
+Kế đó Doraemon lắc cuốn phụ bản,
 
 56
-00:01:19,433 --> 00:01:21,400
-Doraemon liền biến quả bóng bay trên không trở lại nguyên trạng.
+00:01:31,133 --> 00:01:32,700
+rơi ra một bộ đồ chơi đồ hàng đầy đủ
 
 57
-00:01:21,400 --> 00:01:22,900
-"Không ngờ tớ cũng có thể đánh được một cú Home Run!"
+00:01:32,700 --> 00:01:34,400
+cùng một cô bé búp bê vô cùng xinh đẹp.
 
 58
-00:01:22,900 --> 00:01:24,333
-Nobita mừng rỡ nhảy cẫng lên vui sướng,
+00:01:34,400 --> 00:01:36,466
+Danh tính cô bé là một nữ diễn viên trẻ tuổi rất được yêu thích ở tương lai,
 
 59
-00:01:24,333 --> 00:01:25,400
-nước mắt mếu máo rơi lã chã.
+00:01:36,466 --> 00:01:37,100
+tên là cô bé Ruri.
 
 60
-00:01:25,400 --> 00:01:26,400
-But vì mải mê ăn mừng sung sướng,
+00:01:37,100 --> 00:01:38,166
+Chỉ cần cô bé chớp mắt một cái,
 
 61
-00:01:26,400 --> 00:01:27,433
-cậu quên mất việc phải chạy base.
+00:01:38,166 --> 00:01:39,566
+đã lập tức hớp hồn Nobita đờ đẫn.
 
 62
-00:01:27,433 --> 00:01:28,200
-Đến khi sực nhớ ra và
+00:01:39,566 --> 00:01:41,066
+Lúc này Suneo đi ngang qua nhà Nobita,
 
 63
-00:01:28,200 --> 00:01:30,233
-cắm đầu chạy về phía base thì bóng đã bị đối phương bắt gọn.
+00:01:41,066 --> 00:01:42,666
+nghe thấy tiếng cười nói vui vẻ vọng ra từ trong tường.
 
 64
-00:01:30,233 --> 00:01:31,400
-Bỏ lỡ cơ hội ngon ăn dẫn đến thua trận,
+00:01:42,666 --> 00:01:44,066
+Suneo liền trèo lên tường để dòm vào xem sao,
 
 65
-00:01:31,400 --> 00:01:33,266
-Chaien và Suneo tức giận lôi đình.
+00:01:44,066 --> 00:01:46,400
+thấy Nobita không chỉ đang chơi đùa cùng một cô bé xinh xắn,
 
 66
-00:01:33,266 --> 00:01:34,666
-Nobita sợ hãi vắt chân lên cổ bỏ chạy,
+00:01:46,400 --> 00:01:47,533
+mà còn đang giúp cô bé thay quần áo.
 
 67
-00:01:34,666 --> 00:01:36,000
-Chaien và Suneo hầm hầm đuổi sát phía sau,
+00:01:47,533 --> 00:01:49,266
+Suneo đỏ bừng mặt vì ngượng không chịu nổi,
 
 68
-00:01:36,000 --> 00:01:37,400
-dồn Nobita chạy vào bụi cây rậm rạp.
+00:01:49,266 --> 00:01:51,066
+vội chạy ngay ra bãi đất trống mách lẻo với Shizuka
 
 69
-00:01:37,400 --> 00:01:38,466
-Thấy bạn sắp bị bắt tới nơi,
+00:01:51,066 --> 00:01:53,000
+và Chaien: "Nobita đang lột đồ của một cô bé đấy!"
 
 70
-00:01:38,466 --> 00:01:39,466
-Doraemon nảy ra sáng kiến,
+00:01:53,000 --> 00:01:54,300
+Thế là Chaien ghen tị đỏ mắt,
 
 71
-00:01:39,466 --> 00:01:41,300
-dùng đèn chuyển đổi chất liệu quét qua bụi cây xung quanh.
+00:01:54,300 --> 00:01:56,466
+cùng Suneo kéo Shizuka hùng hổ chạy tới nhà Nobita.
 
 72
-00:01:41,300 --> 00:01:43,066
-Nhánh cây mềm mại lập tức hóa thành sắt thép cứng nhắc,
+00:01:56,466 --> 00:01:58,066
+Nào ngờ cô bé búp bê lúc này đã biến hình thành một con khủng long,
 
 73
-00:01:43,066 --> 00:01:44,233
-chặn đứng đường đuổi theo của đối thủ.
+00:01:58,066 --> 00:02:00,400
+dọa ba đứa sợ mất mật chạy té khói rúc vào một góc.
 
 74
-00:01:44,233 --> 00:01:45,933
-Thoát khỏi một kiếp nạn, hai đứa thở hổn hển mệt lử.
+00:02:00,400 --> 00:02:02,566
+Suneo và hai bạn thấy kỳ lạ liền quay lại xem thử,
 
 75
-00:01:45,933 --> 00:01:47,100
-"Chỉ là thua một trận bóng thôi mà,
+00:02:02,566 --> 00:02:04,400
+thì thấy khủng long lại biến thành một chiếc tàu vũ trụ,
 
 76
-00:01:47,100 --> 00:01:47,933
-sao phải làm căng đến mức này cơ chứ."
+00:02:04,400 --> 00:02:06,200
+rồi con tàu bỗng chốc biến mất tăm.
 
 77
-00:01:47,933 --> 00:01:49,633
-Đúng lúc này bỗng nghe thấy tiếng gọi của Shizuka,
+00:02:06,200 --> 00:02:07,566
+Hóa ra Nobita liên tục thay đổi
 
 78
-00:01:49,633 --> 00:01:51,233
-Nobita nghĩ thầm ngày lành của mình tới rồi.
+00:02:07,566 --> 00:02:09,566
+các phụ bản khác để biến ra một con dực thủ long khổng lồ bay lên.
 
 79
-00:01:51,233 --> 00:01:53,333
-Hóa ra Shizuka tự may một bộ đồ thủy thủ bằng giấy bìa,
+00:02:09,566 --> 00:02:11,366
+Khiến Shizuka và hai bạn kinh ngạc đứng hình.
 
 80
-00:01:53,333 --> 00:01:54,500
-but trang phục cứng nhắc không có độ rủ mềm mại.
+00:02:11,366 --> 00:02:12,766
+Thấy các bạn đều đã đến đông đủ,
 
 81
-00:01:54,500 --> 00:01:54,900
-Doraemon
+00:02:12,766 --> 00:02:14,766
+Doraemon liền lấy ra một tấm bản đồ nước Nhật,
 
 82
-00:01:54,900 --> 00:01:56,600
-trực tiếp giúp cô bạn biến giấy bìa thành chất liệu vải mềm.
+00:02:14,766 --> 00:02:16,600
+lối chơi trò này rất giống với cờ tỷ phú.
 
 83
-00:01:56,600 --> 00:01:58,100
-Bộ trang phục lập tức trông mềm mại và đẹp hơn hẳn.
+00:02:16,600 --> 00:02:18,466
+Oẳn tù tì để quyết định thứ tự xuất phát.
 
 84
-00:01:58,100 --> 00:01:59,666
-Shizuka vui sướng cười tít mắt.
+00:02:18,466 --> 00:02:20,066
+Sau đó, dựa vào số điểm tung được của xúc xắc,
 
 85
-00:01:59,666 --> 00:02:01,700
-Khi hai đứa đang chuẩn bị đi về qua ngân hàng,
+00:02:20,066 --> 00:02:21,666
+Nobita lập tức biến mất tại chỗ
 
 86
-00:02:01,700 --> 00:02:02,866
-tiếng còi cảnh sát bỗng vang lên inh ỏi.
+00:02:21,666 --> 00:02:22,900
+và được dịch chuyển tới vùng Kyoto của Nhật Bản.
 
 87
-00:02:02,866 --> 00:02:04,266
-Hai kẻ mặc đồ đen từ trong ngân hàng lao ra,
+00:02:22,900 --> 00:02:24,200
+Nobita nhặt quân xúc xắc lên,
 
 88
-00:02:04,266 --> 00:02:05,633
-nhìn qua là biết ngay băng cướp ngân hàng vừa tẩu thoát.
+00:02:24,200 --> 00:02:25,966
+thông qua xúc xắc có thể trò chuyện với mọi người ở nhà.
 
 89
-00:02:05,633 --> 00:02:07,033
-Nobita và Doraemon giật mình sợ hãi,
+00:02:25,966 --> 00:02:26,466
+Thế là Nobita
 
 90
-00:02:07,033 --> 00:02:08,866
-nhưng vẫn nhanh tay dùng đèn chiếu vào chiếc túi đựng tiền của chúng.
+00:02:26,466 --> 00:02:28,333
+tiếp tục tung xúc xắc để tiến lên phía trước.
 
 91
-00:02:08,866 --> 00:02:10,066
-Tên cướp vừa chạy vừa kéo giật chiếc túi,
+00:02:28,333 --> 00:02:30,500
+Nếu gặp phải nguy hiểm có thể lập tức quay trở lại sân nhà bất cứ lúc nào.
 
 92
-00:02:10,066 --> 00:02:11,333
-không ngờ chiếc túi cứ thế giãn dài ra mãi.
+00:02:30,500 --> 00:02:32,100
+Lúc này Shizuka tung được xúc xắc 6 điểm,
 
 93
-00:02:11,333 --> 00:02:12,733
-Kéo giãn đến giới hạn, chiếc túi đàn hồi cực mạnh co lại
+00:02:32,133 --> 00:02:33,366
+lập tức được dịch chuyển từ quận Nerima ở Tokyo
 
 94
-00:02:12,733 --> 00:02:14,333
-lôi tuột cả người hắn ngã nhào về vị trí cũ.
+00:02:33,366 --> 00:02:34,566
+vèo một cái tới vùng Hokkaido lạnh giá.
 
 95
-00:02:14,333 --> 00:02:15,433
-Tên đồng bọn quát hỏi hắn đang làm cái trò gì thế,
+00:02:34,566 --> 00:02:36,100
+Thấy các bạn lần lượt xuất phát,
 
 96
-00:02:15,433 --> 00:02:17,233
-hắn bảo chiếc túi của mình dường như đã biến thành chất liệu cao su.
+00:02:36,100 --> 00:02:37,733
+Chaien cũng tung được xúc xắc dịch chuyển tới vùng Osaka,
 
 97
-00:02:17,233 --> 00:02:18,000
-Tên đồng bọn mắng hắn ngốc,
+00:02:37,733 --> 00:02:38,800
+nhận được phần thưởng điểm số
 
 98
-00:02:18,000 --> 00:02:19,266
-sao không ôm chặt lấy chiếc túi mà chạy.
+00:02:38,800 --> 00:02:40,333
+là một đĩa bánh khọt bạch tuộc Takoyaki thơm ngon ăn nóng hổi.
 
 99
-00:02:19,266 --> 00:02:21,100
-Tên đàn em liền nịnh hót: "Đại ca quả là thông minh!"
+00:02:40,333 --> 00:02:42,333
+Suneo thì được dịch chuyển tới cổng Yomeimon của đền Nikko Toshogu,
 
 100
-00:02:21,100 --> 00:02:22,500
-Kết quả là hắn vừa ôm chiếc túi chạy đi,
+00:02:42,333 --> 00:02:44,533
+nhưng chờ đón cậu ta lại là một đàn khỉ hoang tấn công.
 
 101
-00:02:22,500 --> 00:02:24,233
-Doraemon đã lao ra túm chặt lấy chiếc túi từ phía bên kia,
+00:02:44,533 --> 00:02:45,966
+Hóa ra Suneo đã giẫm phải ô bẫy
 
 102
-00:02:24,233 --> 00:02:25,233
-nhất quyết không chịu buông tay cho chúng mang đi.
+00:02:45,966 --> 00:02:46,700
+bị tạm dừng một lượt chơi.
 
 103
-00:02:25,233 --> 00:02:27,100
-Trong lúc tranh chấp, tên cướp đột nhiên buông tay,
+00:02:46,700 --> 00:02:48,933
+Lúc này Nobita thông qua xúc xắc biết được tình hình của mọi người,
 
 104
-00:02:27,100 --> 00:02:29,066
-người dân xung quanh nhận ra hai kẻ này là cướp ngân hàng.
+00:02:48,933 --> 00:02:50,166
+liền dứt khoát tung xúc xắc của mình.
 
 105
-00:02:29,066 --> 00:02:30,100
-Băng cướp thấy hành vi bị bại lộ,
+00:02:50,166 --> 00:02:52,200
+Theo số điểm 3 tung được, cậu dịch chuyển tới tỉnh Gifu.
 
 106
-00:02:30,100 --> 00:02:31,233
-liền bất chấp tất cả đâm lao phải theo lao,
+00:02:52,200 --> 00:02:53,933
+Nào ngờ một con heo rừng hung tợn đột nhiên xuất hiện,
 
 107
-00:02:31,233 --> 00:02:32,633
-lao tới bắt Nobita làm con tin.
+00:02:53,933 --> 00:02:55,600
+rượt đuổi Nobita chạy trối chết chui vào một túp lều cỏ.
 
 108
-00:02:32,633 --> 00:02:33,666
-Nobita vùng vẫy chống cự kịch liệt,
+00:02:55,600 --> 00:02:57,200
+But ngay khi con heo rừng húc đầu lao vào lều,
 
 109
-00:02:33,666 --> 00:02:35,133
-but vẫn bị chúng lôi xồng xộc nhét vào trong xe ô tô tẩu thoát.
+00:02:57,200 --> 00:02:59,333
+từ trong quân xúc xắc vang lên tiếng Doraemon giục cậu mau tung xúc xắc.
 
 110
-00:02:35,133 --> 00:02:36,033
-Doraemon hoảng hốt cuống cuồng,
+00:02:59,333 --> 00:03:01,133
+Thế là ngay khoảnh khắc con heo rừng lao tới húc,
 
 111
-00:02:36,033 --> 00:02:37,633
-vội vàng gắn chong chóng tre lên đầu đuổi theo.
+00:03:01,133 --> 00:03:02,500
+Nobita đã kịp thời dịch chuyển tới địa điểm mới.
 
 112
-00:02:37,633 --> 00:02:38,666
-Cậu bay vọt lên phía trước đầu xe ô tô,
+00:03:02,500 --> 00:03:03,933
+Thấy cảnh sắc phía trước vô cùng xinh đẹp,
 
 113
-00:02:38,666 --> 00:02:39,600
-dùng đèn chuyển đổi chất liệu chiếu thẳng vào chiếc xe.
+00:03:03,933 --> 00:03:05,366
+Nobita liền bò ra ngoài ngắm nghía.
 
 114
-00:02:39,600 --> 00:02:41,266
-Chiếc xe ô tô cứng cáp lập tức biến thành chất liệu giấy.
+00:03:05,366 --> 00:03:06,666
+Nào ngờ sẩy chân trượt ngã nhào xuống dưới.
 
 115
-00:02:41,266 --> 00:02:41,866
-Chiếc xe bằng giấy bồi
+00:03:06,666 --> 00:03:07,966
+May mắn là phần mái hiên đã kịp thời giữ cậu lại.
 
 116
-00:02:41,866 --> 00:02:42,666
-càng chạy càng xìu và không có lực,
+00:03:07,966 --> 00:03:09,800
+But chiếc quần đùi của Nobita bỗng nhiên bị rách toạc,
 
 117
-00:02:42,666 --> 00:02:43,833
-một cơn gió lớn thổi qua
+00:03:09,800 --> 00:03:11,066
+khiến cậu rơi tự do xuống mặt đất phía dưới.
 
 118
-00:02:43,833 --> 00:02:45,300
-cuốn phăng cả xe lẫn người bay thẳng lên trời.
+00:03:11,066 --> 00:03:12,566
+May sao chiếc dù lượn xếp giấy trong túi áo bung ra nâng cậu lên,
 
 119
-00:02:45,300 --> 00:02:46,833
-Cuối cùng chiếc xe rơi xuống một đống lốp xe phế thải bên đường,
+00:03:12,566 --> 00:03:14,066
+giúp Nobita tiếp đất một cách an toàn.
 
 120
-00:02:46,833 --> 00:02:47,933
-lăn lông lốc mấy vòng mới dừng lại.
+00:03:14,066 --> 00:03:16,266
+Lúc này Shizuka đang ở núi Phú Sĩ tung xúc xắc,
 
 121
-00:02:47,933 --> 00:02:49,333
-Hai tên cướp ngã xây xẩm mặt mày đầu óc quay cuồng,
+00:03:16,266 --> 00:03:17,366
+không may giẫm trúng ô bẫy,
 
 122
-00:02:49,333 --> 00:02:51,400
-chúng lồm cồm bò dậy túm lấy Nobita chạy vào tòa nhà bên cạnh.
+00:03:17,366 --> 00:03:19,066
+bị dịch chuyển ngược trở lại sân xuất phát ban đầu.
 
 123
-00:02:51,400 --> 00:02:52,600
-Đến khi Doraemon đuổi tới nơi,
+00:03:19,066 --> 00:03:20,766
+Còn Suneo vì muốn lấy lại đống phụ bản của mình
 
 124
-00:02:52,600 --> 00:02:54,300
-bọn cướp đã lôi Nobita lên tới sân thượng,
+00:03:20,766 --> 00:03:22,766
+đã chạy tới sân nhà Nobita để thu hồi toàn bộ phụ bản tạp chí.
 
 125
-00:02:54,300 --> 00:02:54,800
-và một chiếc trực thăng tiếp ứng
+00:03:22,766 --> 00:03:23,666
+Hóa ra Doraemon
 
 126
-00:02:54,800 --> 00:02:56,300
-đã nổ máy chờ sẵn ở đó.
+00:03:23,666 --> 00:03:25,133
+đã tự ý lấy đống phụ bản của Suneo về chơi.
 
 127
-00:02:56,300 --> 00:02:58,100
-Thấy Nobita sắp bị chúng lôi lên máy bay,
+00:03:25,133 --> 00:03:26,366
+Shizuka trông thấy vậy định lên tiếng ngăn cản Suneo,
 
 128
-00:02:58,100 --> 00:02:59,200
-Doraemon kịp thời đáp xuống,
+00:03:26,366 --> 00:03:28,166
+nhưng Suneo đã nhanh chân nhảy tót vào ngăn kéo bàn học để về tương lai,
 
 129
-00:02:59,200 --> 00:03:00,733
-chiếu đèn thẳng vào cánh quạt của trực thăng.
+00:03:28,166 --> 00:03:30,333
+làm Shizuka không kịp giải thích ngọn ngành câu chuyện cho cậu ta biết.
 
 130
-00:03:00,733 --> 00:03:01,533
-Cánh quạt bằng kim loại cứng
+00:03:30,333 --> 00:03:32,666
+Lúc này nhóm Doraemon 4 người kinh ngạc dáo dác nhìn quanh.
 
 131
-00:03:01,533 --> 00:03:03,233
-lập tức biến thành chất liệu đất sét mềm nhũn.
+00:03:32,666 --> 00:03:34,333
+Họ đang bị kẹt lại tại các địa điểm khác nhau trên khắp nước Nhật,
 
 132
-00:03:03,233 --> 00:03:04,800
-Cánh quạt quay nhanh làm phần đất sét bị kéo dài ra,
+00:03:34,333 --> 00:03:35,566
+và không có quân xúc xắc thì không cách nào tìm được đường quay về nhà.
 
 133
-00:03:04,800 --> 00:03:06,533
-quất vèo một phát hất văng hai tên cướp rơi khỏi sân thượng.
+00:03:35,566 --> 00:03:37,266
+Đúng lúc này mẹ lên gác gọi Nobita xuống ăn cơm,
 
 134
-00:03:06,533 --> 00:03:08,200
-Nobita vừa thở phào nhẹ nhõm ôm chầm lấy Doraemon,
+00:03:37,266 --> 00:03:39,166
+Shizuka đành ái ngại bảo mẹ lùi giờ ăn cơm lại một chút,
 
 135
-00:03:08,200 --> 00:03:09,600
-thì một cánh quạt mềm khác lại quét qua,
-
-136
-00:03:09,600 --> 00:03:11,100
-đánh bay cả hai bạn nhỏ ra ngoài.
-
-137
-00:03:11,100 --> 00:03:12,400
-Bốn người cùng rơi từ trên cao xuống đất,
-
-138
-00:03:12,400 --> 00:03:13,633
-Nobita sợ hãi khóc lóc thảm thiết,
-
-139
-00:03:13,633 --> 00:03:15,133
-giục Doraemon nghĩ cách cứu mạng.
-
-140
-00:03:15,133 --> 00:03:16,333
-Ngay trước khi chuẩn bị chạm đất,
-
-141
-00:03:16,333 --> 00:03:17,866
-Doraemon nhanh trí chiếu đèn xuống mặt đất.
-
-142
-00:03:17,866 --> 00:03:19,233
-Mấy người rơi bịch bịch xuống
-
-143
-00:03:19,233 --> 00:03:20,533
-nhưng đều lọt thỏm vào trong lòng đất,
-
-144
-00:03:20,533 --> 00:03:21,633
-cảm giác êm ái mềm mại không hề đau đớn chút nào.
-
-145
-00:03:21,633 --> 00:03:23,666
-Hóa ra Doraemon đã biến mặt đất thành chất liệu bông gòn êm ái.
-
-146
-00:03:23,666 --> 00:03:25,700
-Cuối cùng, hai tên cướp đã bị cảnh sát bắt gọn.
-
-147
-00:03:25,700 --> 00:03:27,933
-Ngờ đâu trên đường đi về, Chaien đột nhiên lao ra
-
-148
-00:03:27,933 --> 00:03:29,400
-giật phắt chiếc đèn chuyển đổi chất liệu trên tay Doraemon.
-
-149
-00:03:29,400 --> 00:03:31,300
-Hành động cướp bóc này chẳng khác gì băng cướp lúc nãy.
-
-150
-00:03:31,300 --> 00:03:32,700
-Chaien cầm bảo bối bấm nút lung tung loạn xạ,
-
-151
-00:03:32,700 --> 00:03:33,900
-chẳng cần suy nghĩ đến hậu quả,
-
-152
-00:03:33,900 --> 00:03:34,633
-cứ dùng sướng tay cái đã.
-
-153
-00:03:34,633 --> 00:03:36,500
-Đến khi Nobita và Doraemon chạy tới nhà Chaien xem thử thì
-
-154
-00:03:36,500 --> 00:03:38,100
-rụng rời tay chân: ngôi nhà đổ sụp xếp chồng lên nhau,
-
-155
-00:03:38,100 --> 00:03:39,333
-mềm oặt và rủ xuống trông như chiếc kẹo bông gòn.
-
-156
-00:03:39,333 --> 00:03:40,400
-Cảm giác chỉ cần chạm nhẹ một cái là sập hoàn toàn,
-
-157
-00:03:40,400 --> 00:03:41,633
-hơn nữa ngôi nhà vẫn đang tiếp tục lún xuống thấp dần.
-
-158
-00:03:41,633 --> 00:03:42,666
-Chaien hoàn toàn hoảng sợ mất mật:
-
-159
-00:03:42,666 --> 00:03:44,133
-"Mẹ mà biết chuyện này chắc chắn sẽ phạt tớ ra bã mất!"
-
-160
-00:03:44,133 --> 00:03:44,900
-Tệ hơn nữa là,
-
-161
-00:03:44,900 --> 00:03:46,733
-chiếc đèn chuyển đổi chất liệu đã bị cậu ta bấm loạn xạ làm hỏng hóc.
-
-162
-00:03:46,733 --> 00:03:48,800
-Giờ đây chỉ biết dùng dây thừng tạm thời buộc níu giữ ngôi nhà lại,
-
-163
-00:03:48,800 --> 00:03:49,866
-chờ Doraemon từ từ sửa chữa.
-
-164
-00:03:49,866 --> 00:03:51,766
-Đây quả thật là minh chứng điển hình cho việc tự làm tự chịu!
+00:03:39,166 --> 00:03:41,466
+có lẽ phải đợi Nobita đi bộ từ tỉnh khác về đến Tokyo mới ăn được.

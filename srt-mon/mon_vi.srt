@@ -1,527 +1,567 @@
 1
-00:00:00,066 --> 00:00:02,000
-Doraemon đặt một khối nam châm màu bạc xuống đất,
+00:00:00,066 --> 00:00:01,766
+Một con mèo ú màu vàng tròn trùng trục bay vào phòng,
 
 2
-00:00:02,000 --> 00:00:03,466
-tay cầm khối nam châm màu vàng còn lại,
+00:00:01,766 --> 00:00:03,100
+khiến Nobita sợ hãi đơ người tại chỗ.
 
 3
-00:00:03,466 --> 00:00:04,400
-ngón tay nhấn nút công tắc.
+00:00:03,100 --> 00:00:04,566
+"Thằng nhóc ngốc nghếch này, ngay cả tớ mà cậu cũng không nhận ra sao?"
 
 4
-00:00:04,400 --> 00:00:05,266
-Doraemon vụt một cái
+00:00:04,566 --> 00:00:06,300
+"Cậu... chẳng lẽ cậu là Doraemon bị đột biến gen đấy chứ?"
 
 5
-00:00:05,266 --> 00:00:06,600
-đã biến mất rồi xuất hiện ngay cạnh khối nam châm màu bạc.
+00:00:06,300 --> 00:00:07,000
+"Chờ tớ một chút."
 
 6
-00:00:06,600 --> 00:00:08,166
-Nobita đứng hình kinh ngạc đến mức tròn xoe mắt:
+00:00:07,000 --> 00:00:08,600
+Con mèo ú màu vàng ngay lập tức biến trở lại thành Doraemon xanh lè.
 
 7
-00:00:08,166 --> 00:00:09,400
-"Cậu vừa chơi trò dịch chuyển tức thời đấy à?"
+00:00:08,600 --> 00:00:09,533
+Nobita trong lòng vô cùng tò mò thèm thuồng,
 
 8
-00:00:09,400 --> 00:00:11,133
-Thực chất, đó chính là điểm vi diệu của "Nam châm khứ hồi".
+00:00:09,533 --> 00:00:10,666
+gặng hỏi cậu ấy làm cách nào mà có bản lĩnh đó.
 
 9
-00:00:11,133 --> 00:00:13,166
-Chỉ cần bấm nút, cả người bạn sẽ lập tức quay trở lại vị trí cũ.
+00:00:10,666 --> 00:00:11,666
+"Cho cậu xem món bảo bối này."
 
 10
-00:00:13,166 --> 00:00:14,133
-"Mau đưa đây cho tớ xem thử nào!"
+00:00:11,666 --> 00:00:13,000
+"Đây là lọ 'Bình xịt biến hình vạn năng'."
 
 11
-00:00:14,133 --> 00:00:16,000
-Doraemon bằng lòng cho Nobita mượn bảo bối,
+00:00:13,000 --> 00:00:14,000
+"Chỉ cần xịt nó lên người,"
 
 12
-00:00:16,000 --> 00:00:17,766
-với mục đích để cậu oai một trận trong trận thi đấu bóng chày.
+00:00:14,000 --> 00:00:15,566
+"bạn sẽ lập tức biến thành vật thể đầu tiên mà mũi bạn chạm vào."
 
 13
-00:00:17,766 --> 00:00:19,000
-"Alo alo, đội Chaien phải không?
+00:00:15,566 --> 00:00:17,100
+Nobita cảm thấy món bảo bối này quá đỗi thú vị,
 
 14
-00:00:19,000 --> 00:00:20,700
-Cậu có thể tập hợp mọi người làm một trận bóng chày không?"
+00:00:17,100 --> 00:00:18,200
+chắc chắn Shizuka cũng sẽ thích cho mà xem.
 
 15
-00:00:20,700 --> 00:00:21,366
-"Đồ ngốc này!
+00:00:18,200 --> 00:00:19,666
+Thế là hai anh em liền lập tức đi ra ngoài tìm cô bạn.
 
 16
-00:00:21,366 --> 00:00:22,733
-Ai cho cậu sự tự tin để nói câu đó thế?
+00:00:19,666 --> 00:00:20,666
+Khi đi ngang qua bãi đất trống quen thuộc,
 
 17
-00:00:22,733 --> 00:00:24,133
-Lần nào đội thua mà chẳng phải tại cậu hả?
+00:00:20,666 --> 00:00:22,600
+họ nhìn thấy Shizuka dường như đang gặp phải rắc rối gì đó.
 
 18
-00:00:24,133 --> 00:00:25,866
-Biến đi cho khuất mắt!" "Nhưng thôi hay là thôi đi Nobita.
+00:00:22,600 --> 00:00:24,333
+Một cô bé người nước ngoài đang khóc rất thảm thiết.
 
 19
-00:00:25,866 --> 00:00:26,966
-Không phải tớ không muốn cho cậu mượn bảo bối,
+00:00:24,333 --> 00:00:25,533
+"Cô bé có vẻ như đang gặp khó khăn gì đó,"
 
 20
-00:00:26,966 --> 00:00:28,666
-mà là trình độ đánh bóng của cậu tệ hại quá sức tưởng tượng,
+00:00:25,533 --> 00:00:26,933
+"nhưng tớ lại không hiểu cô bé đang nói gì cả."
 
 21
-00:00:28,666 --> 00:00:29,900
-làm gì có ai thèm chơi cùng cậu chứ."
+00:00:26,933 --> 00:00:27,666
+"Chuyện đó thì có gì khó chứ."
 
 22
-00:00:29,900 --> 00:00:31,133
-"Tớ khuyên cậu nên tập luyện chăm chỉ,
+00:00:27,666 --> 00:00:29,100
+"Hãy ăn thử miếng 'Bánh mì chuyển ngữ' này đi."
 
 23
-00:00:31,133 --> 00:00:32,166
-vận dụng bảo bối để chứng tỏ bản thân."
+00:00:29,100 --> 00:00:30,333
+Sau khi ba người nuốt miếng bánh mì dịch thuật vào bụng,
 
 24
-00:00:32,166 --> 00:00:33,066
-Lúc này mẹ Nobita bước vào phòng kiểm tra:
+00:00:30,333 --> 00:00:32,266
+cô bé đã có thể nghe và hiểu được những lời họ nói.
 
 25
-00:00:33,066 --> 00:00:34,366
-"Nobita, con đã làm xong bài tập về nhà chưa đấy?"
+00:00:32,266 --> 00:00:33,733
+Hóa ra cô bé đã bị lạc mất bố mẹ của mình.
 
 26
-00:00:34,366 --> 00:00:35,566
-"Chuyện bài tập tính sau đi ạ,
+00:00:33,733 --> 00:00:34,900
+Shizuka ân cần an ủi cô bé đừng lo lắng:
 
 27
-00:00:35,566 --> 00:00:36,700
-trước hết phải thử nghiệm với mẹ cái đã!"
+00:00:34,900 --> 00:00:35,966
+"Ba anh chị đều không phải người xấu đâu,
 
 28
-00:00:36,700 --> 00:00:38,500
-Nobita hứa hẹn: "Con đảm bảo sẽ bắt tay vào làm bài ngay!"
+00:00:35,966 --> 00:00:36,966
+chắc chắn sẽ giúp em tìm lại được người thân."
 
 29
-00:00:38,500 --> 00:00:39,466
-Mẹ làm sao tin nổi:
+00:00:36,966 --> 00:00:38,533
+Đúng lúc này, Doraemon chú ý thấy một chú chú chó nhỏ chạy qua.
 
 30
-00:00:39,466 --> 00:00:41,300
-Nobita dứt khoát bảo mẹ cứ việc vào kiểm tra bất cứ lúc nào,
+00:00:38,533 --> 00:00:39,866
+"Hãy xịt thử bình xịt biến hình vạn năng này trước xem sao."
 
 31
-00:00:41,300 --> 00:00:43,366
-nếu con không làm được thì tháng này con sẽ nhịn tiền tiêu vặt.
+00:00:39,866 --> 00:00:40,700
+"Chú chó nhỏ ơi xin chào nha,
 
 32
-00:00:43,366 --> 00:00:45,300
-Mẹ cứ cảm thấy hôm nay thằng bé này có gì đó bất thường.
+00:00:40,700 --> 00:00:41,666
+tớ muốn chạm mũi với cậu một chút."
 
 33
-00:00:45,300 --> 00:00:46,533
-Nobita vội vàng khép cửa phòng lại.
+00:00:41,666 --> 00:00:43,133
+Người ta thường nói chó với mèo ghét nhau xúc đất đổ đi,
 
 34
-00:00:46,533 --> 00:00:48,533
-Cậu phải thử xem chiếc "Nam châm khứ hồi" này nhạy đến cỡ nào.
+00:00:43,133 --> 00:00:44,666
+không ngờ hai đứa lại có thể kết đôi thân thiết đến thế.
 
 35
-00:00:48,533 --> 00:00:50,100
-Đầu tiên cậu đặt một đầu nam châm lên ghế ngồi,
+00:00:44,666 --> 00:00:46,300
+Doraemon biến hình thành một chú "Dora-Shiba" (chó Shiba Doraemon),
 
 36
-00:00:50,100 --> 00:00:51,533
-còn bản thân thì nằm bò ra sàn đọc truyện tranh.
+00:00:46,300 --> 00:00:47,866
+hơn nữa trong miệng còn ngậm một khúc xương.
 
 37
-00:00:51,533 --> 00:00:53,333
-Doraemon vội nhắc nhở cậu nằm như thế sẽ bị mắng đấy.
+00:00:47,866 --> 00:00:49,333
+Nhìn kỹ lại thì thấy hình dáng này chẳng có gì kỳ cục cả,
 
 38
-00:00:53,333 --> 00:00:55,566
-"Cứ chờ xem nhé!" Vừa lúc mẹ đột ngột đẩy cửa vào phòng kiểm tra,
+00:00:49,333 --> 00:00:50,733
+ngược lại trông cậu ấy còn vô cùng đáng yêu nữa chứ.
 
 39
-00:00:55,566 --> 00:00:56,733
-Nobita liền bấm công tắc một cái,
+00:00:50,733 --> 00:00:52,600
+Cô bé lấy từ trong túi áo ra chiếc khăn tay của mẹ,
 
 40
-00:00:56,733 --> 00:00:58,166
-cả người vèo một phát đã quay trở lại ngồi ngay ngắn trên ghế.
+00:00:52,600 --> 00:00:54,500
+đưa đến trước mũi Doraemon bảo cậu ngửi thử.
 
 41
-00:00:58,166 --> 00:01:00,066
-Mẹ vừa mới bước chân ra ngoài, cậu đã lại nằm xuống sàn.
+00:00:54,500 --> 00:00:55,566
+Doraemon sau khi biến thành chú chó nhỏ,
 
 42
-00:01:00,066 --> 00:01:02,000
-Liên tiếp hai lần như thế mẹ đều không phát hiện ra sơ hở nào.
+00:00:55,566 --> 00:00:56,266
+rất nhanh đã có thể
 
 43
-00:01:02,000 --> 00:01:03,066
-Đến cả Doraemon cũng phải khâm phục,
+00:00:56,266 --> 00:00:57,400
+ghi nhớ mùi hương đặc trưng
 
 44
-00:01:03,066 --> 00:01:04,533
-khen ngợi phản xạ của cậu đúng là đỉnh cao.
+00:00:57,400 --> 00:00:58,200
+của mẹ cô bé vào trong não bộ.
 
 45
-00:01:04,533 --> 00:01:06,166
-Nobita hỏi chiếc nam châm này có tác dụng trong phạm vi bao xa.
+00:00:58,200 --> 00:01:00,266
+Doraemon lần theo mùi hương đó chạy đi tìm kiếm,
 
 46
-00:01:06,166 --> 00:01:08,133
-Doraemon bảo trong bán kính 100 mét đều có hiệu lực.
+00:01:00,266 --> 00:01:01,966
+nhóm bạn Nobita cũng bước ngắn bước dài đuổi sát phía sau.
 
 47
-00:01:08,133 --> 00:01:09,933
-Cậu liền quyết định ra ngoài để thực nghiệm trực tiếp.
+00:01:01,966 --> 00:01:02,866
+Khi đi qua công viên,
 
 48
-00:01:09,933 --> 00:01:11,733
-Cậu tiến tới chỗ Chaien đá một phát rồi bấm nút chạy mất.
+00:01:02,866 --> 00:01:04,100
+họ nhìn thấy một đám đông đang vây kín xung quanh.
 
 49
-00:01:11,733 --> 00:01:13,066
-Chaien tức tối vung nắm đấm quay lại,
+00:01:04,100 --> 00:01:05,933
+Doraemon chẳng nói chẳng rằng liền len lỏi chui vào giữa đám đông.
 
 50
-00:01:13,066 --> 00:01:14,666
-nhưng phía sau chẳng có một bóng người.
+00:01:05,933 --> 00:01:07,000
+Ai ngờ do lao vào quá mạnh,
 
 51
-00:01:14,666 --> 00:01:16,500
-Nobita lúc này đã thò đầu ra từ cửa sổ tầng hai vẫy tay chào.
+00:01:07,000 --> 00:01:08,933
+đầu cậu đâm sầm trực tiếp vào mông một võ sĩ Sumo.
 
 52
-00:01:16,500 --> 00:01:18,266
-Chaien ngơ ngác cứ ngỡ đầu óc mình vừa gặp ảo giác.
+00:01:08,933 --> 00:01:09,500
+Chỉ trong chớp mắt,
 
 53
-00:01:18,266 --> 00:01:20,133
-Trêu chọc thành công khiến Nobita vô cùng ngứa ngáy chân tay,
+00:01:09,500 --> 00:01:10,700
+Doraemon đang ở hình dạng chú chó nhỏ
 
 54
-00:01:20,133 --> 00:01:21,266
-muốn tìm một cách sử dụng độc đáo hơn nữa.
+00:01:10,700 --> 00:01:12,300
+đã biến thành một võ sĩ Sumo béo ú.
 
 55
-00:01:21,266 --> 00:01:22,500
-Không ngờ đi được một đoạn lại đụng đầu thầy giáo chủ nhiệm,
+00:01:12,300 --> 00:01:13,733
+Cảnh tượng này không chỉ khiến người dẫn chương trình đứng hình kinh ngạc,
 
 56
-00:01:22,500 --> 00:01:24,266
-thầy liền giữ lại hỏi xem đã làm xong bài tập chưa.
+00:01:13,733 --> 00:01:15,000
+mà ngay cả Nobita và Shizuka
 
 57
-00:01:24,266 --> 00:01:25,700
-Nobita chột dạ thú nhận là mình chưa đụng bút.
+00:01:15,000 --> 00:01:16,133
+cũng há hốc mồm câm nín không nói nên lời.
 
 58
-00:01:25,700 --> 00:01:27,900
-Ngày nào cũng lơ là việc học nên cậu lại bị thầy giáo mắng cho một trận.
+00:01:16,133 --> 00:01:17,766
+Doraemon nhanh chóng nhập vai võ sĩ Sumo,
 
 59
-00:01:27,900 --> 00:01:29,733
-Nobita định bụng dùng nam châm để trốn ngay về phòng,
+00:01:17,766 --> 00:01:19,133
+giơ chân lên nện bộp bộp xuống đất để khởi động.
 
 60
-00:01:29,733 --> 00:01:31,700
-nhưng sờ túi mới tá hỏa khi thấy cả hai đầu nam châm đều mang theo người.
+00:01:19,133 --> 00:01:20,733
+Khán giả xung quanh vừa vỗ tay rào rào vừa reo hò cổ vũ.
 
 61
-00:01:31,700 --> 00:01:32,933
-May sao thầy giáo đang có việc bận phải đi gấp,
+00:01:20,733 --> 00:01:21,800
+Dáng vẻ này trông đáng yêu quá đi mất.
 
 62
-00:01:32,933 --> 00:01:34,800
-chỉ kịp buông lại một câu: "Ngày mai đi học cấm có đi muộn đấy!"
+00:01:21,800 --> 00:01:23,366
+"Màn biểu diễn lúc nãy thực sự quá xuất sắc!"
 
 63
-00:01:34,800 --> 00:01:36,533
-Lời nói đó của thầy bỗng gợi lên cho cậu một ý tưởng.
+00:01:23,366 --> 00:01:24,700
+"Ở đây chuẩn bị sẵn rất nhiều cơm nắm,
 
 64
-00:01:36,533 --> 00:01:38,066
-Nobita đặt một đầu nam châm ở chỗ ngồi trong lớp.
+00:01:24,700 --> 00:01:25,366
+mọi người cứ tự nhiên ăn thoải mái nha,
 
 65
-00:01:38,066 --> 00:01:39,066
-Sáng hôm sau cậu ngủ nướng dậy muộn,
+00:01:25,366 --> 00:01:27,366
+không phải khách sáo đâu!" Doraemon há to miệng chờ được đút ăn,
 
 66
-00:01:39,066 --> 00:01:40,733
-nhưng vẫn thong thả đi bộ đến trường không chút vội vã.
+00:01:27,366 --> 00:01:28,166
+hoàn toàn không từ chối chút nào.
 
 67
-00:01:40,733 --> 00:01:42,966
-Trong khi đó Shizuka hớt hải chạy vội qua người cậu,
+00:01:28,166 --> 00:01:28,900
+Chỉ trong một thoáng chốc,
 
 68
-00:01:42,966 --> 00:01:44,400
-hét lớn: "Còn không mau chạy đi kẻo muộn học mất!"
+00:01:28,900 --> 00:01:30,533
+miệng cậu đã nhét đầy cơm nắm đến mức phồng to không nhét thêm được nữa.
 
 69
-00:01:44,400 --> 00:01:45,666
-Nobita chẳng hề bận tâm,
+00:01:30,533 --> 00:01:31,700
+Doraemon nín thở một phát,
 
 70
-00:01:45,666 --> 00:01:46,933
-đắc ý bảo mình đã chuẩn bị sẵn đường lui rồi.
+00:01:31,700 --> 00:01:32,966
+dứt khoát nuốt chửng toàn bộ đống cơm nắm vào bụng.
 
 71
-00:01:46,933 --> 00:01:48,533
-Shizuka vừa chạy vừa kịp giờ bước vào lớp,
+00:01:32,966 --> 00:01:33,933
+Nhìn thân hình nhỏ bé thế kia
 
 72
-00:01:48,533 --> 00:01:50,133
-lo lắng Nobita sẽ đi muộn và bị thầy phạt đứng phạt hành lang.
+00:01:33,933 --> 00:01:34,933
+mà sức ăn thì đúng là không hề nhỏ chút nào.
 
 73
-00:01:50,133 --> 00:01:52,266
-Cô nhìn xuống thấy khối nam châm màu vàng trên bàn Nobita.
+00:01:34,933 --> 00:01:35,733
+Kết quả là có một hạt cơm
 
 74
-00:01:52,266 --> 00:01:52,900
-Đúng lúc này Nobita đang chuẩn bị
+00:01:35,733 --> 00:01:37,533
+voin tình dính vào ngay đầu mũi của Doraemon.
 
 75
-00:01:52,900 --> 00:01:54,566
-nhấn nút công tắc để dịch chuyển bản thân tới lớp.
+00:01:37,533 --> 00:01:38,533
+Doraemon lại biến hình một lần nữa,
 
 76
-00:01:54,566 --> 00:01:56,466
-But cậu nhìn lại mới phát hiện mình đang cầm khối màu bạc.
+00:01:38,533 --> 00:01:39,866
+lần này cậu hóa thành một quả cơm nắm Doraemon khổng lồ.
 
 77
-00:01:56,466 --> 00:01:57,400
-Hóa ra cậu đã cầm nhầm đầu nam châm.
+00:01:39,866 --> 00:01:40,500
+"Ôi trời đất ơi!"
 
 78
-00:01:57,400 --> 00:01:58,133
-Đúng là ngốc nghếch hết chỗ nói!
+00:01:40,500 --> 00:01:41,333
+"Đây rốt cuộc là cái quái gì thế này!"
 
 79
-00:01:58,133 --> 00:02:00,266
-Trong khi đó đầu nam châm màu vàng lại bị Shizuka tò mò bấm nút mất rồi.
+00:01:41,333 --> 00:01:42,733
+Võ sĩ Sumo sợ hãi nhảy dựng lên,
 
 80
-00:02:00,266 --> 00:02:00,700
-Giây tiếp theo,
+00:01:42,733 --> 00:01:43,100
+vung tay một phát
 
 81
-00:02:00,700 --> 00:02:02,566
-cả người Shizuka lập tức bị kéo văng tới cạnh Nobita.
+00:01:43,100 --> 00:01:45,133
+ném vèo quả cơm nắm Doraemon bay mất hút lên tận trời xanh.
 
 82
-00:02:02,566 --> 00:02:04,466
-Shizuka đứng hình kinh ngạc: "Thôi tiêu đời rồi!
+00:01:45,133 --> 00:01:46,366
+Doraemon cứ thế lăn lông lốc
 
 83
-00:02:04,466 --> 00:02:06,000
-Tự dưng lại bị lôi kéo đi học muộn cùng cậu rồi!"
+00:01:46,366 --> 00:01:47,133
+lăn lông lốc rơi xuống phía dưới.
 
 84
-00:02:06,000 --> 00:02:06,566
-Sau giờ học,
+00:01:47,133 --> 00:01:48,366
+Cuối cùng cậu rơi bịch vào giữa bồn hoa công viên,
 
 85
-00:02:06,566 --> 00:02:08,700
-Nobita năn nỉ Chaien cho mình vào sân chơi bóng chày một trận.
+00:01:48,366 --> 00:01:49,333
+đầu óc quay cuồng xây xẩm mặt mày,
 
 86
-00:02:08,700 --> 00:02:10,000
-"Tớ bảo này, tốt nhất cậu đừng có mơ mộng viển vông nữa!
+00:01:49,333 --> 00:01:51,166
+suýt chút nữa thì nôn hết đống cơm nắm vừa ăn ra ngoài.
 
 87
-00:02:10,000 --> 00:02:11,133
-Cho cậu vào sân là đội mình chắc chắn thua cuộc!"
+00:01:51,166 --> 00:01:53,066
+Đúng lúc này, Chaien đang thong thả đi ngang qua đó.
 
 88
-00:02:11,133 --> 00:02:13,000
-Nobita quả quyết hứa hẹn với hai cậu bạn:
+00:01:53,066 --> 00:01:54,600
+"Oa, một quả cơm nắm khổng lồ ngon lành không có chủ này!"
 
 89
-00:02:13,000 --> 00:02:14,566
-"Hôm nay tớ đã hoàn toàn khác xưa rồi!
+00:01:54,600 --> 00:01:56,366
+Chaien há to miệng ngoạm một miếng thật mạnh.
 
 90
-00:02:14,566 --> 00:02:16,400
-Nếu thua cuộc, các cậu muốn xử lý tớ thế nào cũng được!"
+00:01:56,366 --> 00:01:57,333
+Doraemon đau đớn la oai oái khóc thét lên,
 
 91
-00:02:16,400 --> 00:02:17,733
-Hai cậu bạn nghe vậy thấy cũng thú vị,
+00:01:57,333 --> 00:01:58,333
+vừa khóc vừa co giò chạy trốn mất dạng.
 
 92
-00:02:17,733 --> 00:02:19,066
-liền nhanh chóng sắp xếp tổ chức một trận đấu.
+00:01:58,333 --> 00:01:59,700
+Chaien ngơ ngác đứng hình không dám đuổi theo,
 
 93
-00:02:19,066 --> 00:02:20,666
-"Nobita, lần này tới lượt cậu thể hiện bản lĩnh thực sự rồi đấy!"
+00:01:59,700 --> 00:02:01,500
+vì sợ quả cơm nắm quái dị đó quay lại nuốt chửng mình.
 
 94
-00:02:20,666 --> 00:02:21,666
-"Hiểu rồi, cứ giao cho tớ!"
+00:02:01,500 --> 00:02:03,300
+Doraemon mệt lử tựa lưng vào tường rầu rĩ.
 
 95
-00:02:21,666 --> 00:02:23,666
-Nào ngờ vừa vào trận đội Chaien đã gặp bất lợi. Haruo
+00:02:03,300 --> 00:02:04,866
+Bỗng nhiên cậu nghe thấy tiếng nói chuyện của Suneo.
 
 96
-00:02:23,666 --> 00:02:24,400
-để thua lượt đấu đầu tiên.
+00:02:04,866 --> 00:02:06,200
+Suneo đang bắn tiếng Anh vô cùng trôi chảy
 
 97
-00:02:24,400 --> 00:02:25,700
-Chaien không nổi giận với Haruo,
+00:02:06,200 --> 00:02:07,166
+để trò chuyện trò chuyện với hai người nước ngoài.
 
 98
-00:02:25,700 --> 00:02:27,200
-mà quay sang hét lớn dọa Nobita: "Nếu lượt này mà thua
+00:02:07,166 --> 00:02:08,933
+Người mẹ trông có nét rất giống cô bé lúc nãy.
 
 99
-00:02:27,200 --> 00:02:27,733
-thì liệu thần hồn với tớ!"
+00:02:08,933 --> 00:02:10,700
+Đúng là buồn ngủ gặp chiếu manh, tìm kiếm mãi cuối cùng tự tìm đến tận nơi.
 
 100
-00:02:27,733 --> 00:02:29,566
-Kết quả là bóng ném trúng đầu Nobita làm cậu ngã sấp mặt.
+00:02:10,700 --> 00:02:12,600
+Quả cơm nắm Doraemon nhảy tưng tưng tiến lại gần họ.
 
 101
-00:02:29,566 --> 00:02:30,766
-Cả đám xung quanh đứng hình kinh ngạc.
+00:02:12,600 --> 00:02:14,066
+Ba người bọn họ sợ hãi mất hồn mất vía,
 
 102
-00:02:30,766 --> 00:02:32,366
-Ngay sau đó Nobita bật dậy chạy như bay.
+00:02:14,066 --> 00:02:14,966
+lập tức vắt chân lên cổ bỏ chạy.
 
 103
-00:02:32,366 --> 00:02:32,933
-Hóa ra,
+00:02:14,966 --> 00:02:15,966
+Quả cơm nắm lớn tiếng gọi giật giọng:
 
 104
-00:02:32,933 --> 00:02:34,700
-năng lực thực sự của cậu không phải ở cú đánh mà là chạy base.
+00:02:15,966 --> 00:02:16,766
+"Có phải cô chú đang đi tìm
 
 105
-00:02:34,700 --> 00:02:35,500
-Bởi vì cậu liên tục dùng dịch chuyển tức thời,
+00:02:16,766 --> 00:02:17,566
+một cô bé bị lạc đường không?"
 
 106
-00:02:35,500 --> 00:02:36,900
-ngay cả Flash đến cũng không chạy nhanh bằng cậu.
+00:02:17,566 --> 00:02:19,133
+Hai vợ chồng nghe thấy thế mới lập tức quay đầu chạy trở lại.
 
 107
-00:02:36,900 --> 00:02:38,200
-Lượt đánh bóng tiếp theo tới lượt Chaien đứng lên.
+00:02:19,133 --> 00:02:21,133
+Nhờ vậy, cô bé đã được đoàn tụ an toàn với bố mẹ của mình.
 
 108
-00:02:38,200 --> 00:02:39,600
-Nobita muốn tăng thêm độ khó cho game,
+00:02:21,133 --> 00:02:22,666
+Hiệu lực của bình xịt biến hình vừa vặn hết thời gian,
 
 109
-00:02:39,600 --> 00:02:40,900
-liền quay người đi bộ về hướng ngược lại.
+00:02:22,666 --> 00:02:24,566
+Doraemon cũng biến trở lại hình dạng bình thường.
 
 110
-00:02:40,900 --> 00:02:41,766
-Chaien nhìn thấy nổi đóa:
+00:02:24,566 --> 00:02:25,933
+Cô bé rối rít nói lời cảm ơn nhóm bạn,
 
 111
-00:02:41,766 --> 00:02:43,066
-"Tên nhóc này lại dở chứng điên khùng gì nữa đây?"
+00:02:25,933 --> 00:02:27,766
+nhưng cô bé vẫn muốn nhờ Doraemon giúp thêm một việc nữa.
 
 112
-00:02:43,066 --> 00:02:44,966
-Cầu thủ ném bóng thấy vậy liền ném bóng ra sau.
+00:02:27,766 --> 00:02:29,666
+Cô bé ghé tai nói nhỏ dự định của mình cho Doraemon nghe.
 
 113
-00:02:44,966 --> 00:02:46,933
-Nobita bấm nút một cái lập tức dịch chuyển về ngay chốt gôn nhà.
+00:02:29,666 --> 00:02:31,266
+Doraemon nghe xong liền vui vẻ gật đầu đồng ý ngay.
 
 114
-00:02:46,933 --> 00:02:48,466
-Đối thủ hoàn toàn bó tay bất lực với cậu,
+00:02:31,266 --> 00:02:32,733
+Để thực hiện được tâm nguyện này của cô bé,
 
 115
-00:02:48,466 --> 00:02:49,166
-không thể nào loại cậu ra được.
+00:02:32,733 --> 00:02:34,333
+cậu phải đi tìm bản thân mình ở vài tiếng sau đó
 
 116
-00:02:49,166 --> 00:02:50,966
-Cứ như thế cậu chạy loăng quăng giữa hai vạch base.
+00:02:34,333 --> 00:02:35,733
+để nhờ giúp sức một tay. Cậu dùng cỗ máy thời gian đi đến tương lai,
 
 117
-00:02:50,966 --> 00:02:52,166
-Loại thì không bị loại,
+00:02:35,733 --> 00:02:37,300
+đầu tiên tìm thấy chính mình ở một tiếng sau đó.
 
 118
-00:02:52,166 --> 00:02:53,100
-nhưng một điểm cậu cũng không ghi được.
+00:02:37,300 --> 00:02:38,800
+Tiếp đó tìm thấy chính mình ở hai tiếng sau,
 
 119
-00:02:53,100 --> 00:02:54,333
-Nhờ Doraemon đứng bên ngoài nhắc nhở,
+00:02:38,800 --> 00:02:40,100
+và ba tiếng sau đó.
 
 120
-00:02:54,333 --> 00:02:56,166
-cậu quyết định lần này sẽ dùng hết sức để chạy vọt về.
+00:02:40,100 --> 00:02:42,200
+Rồi lần lượt xịt bình xịt biến hình vạn năng lên người họ,
 
 121
-00:02:56,166 --> 00:02:57,933
-Không ngờ cú đánh tiếp theo của Chaien rất đẹp mắt.
+00:02:42,200 --> 00:02:43,500
+bắt một người biến thành chú chó nhỏ,
 
 122
-00:02:57,933 --> 00:02:59,966
-Nobita vắt chân lên cổ bắt đầu chạy base.
+00:02:43,500 --> 00:02:44,700
+một người biến thành võ sĩ Sumo,
 
 123
-00:02:59,966 --> 00:03:01,266
-Chaien nhanh chóng đuổi sát phía sau,
+00:02:44,700 --> 00:02:45,966
+và người cuối cùng biến thành quả cơm nắm khổng lồ.
 
 124
-00:03:01,266 --> 00:03:02,300
-giục cậu phải nhanh chân lên.
+00:02:45,966 --> 00:02:47,466
+Những lần biến hình trước đó của Doraemon
 
 125
-00:03:02,300 --> 00:03:03,700
-Đây chính là cơ hội lội ngược dòng tốt nhất.
+00:02:47,466 --> 00:02:48,733
+đều được tái hiện lại một lần nữa trước mắt họ.
 
 126
-00:03:03,700 --> 00:03:05,300
-Chỉ cần chạy về đến gôn nhà là thắng trận này.
+00:02:48,733 --> 00:02:49,000
+Hóa ra,
 
 127
-00:03:05,300 --> 00:03:07,400
-Nobita luống cuống chân trái tự giẫm chân phải,
+00:02:49,000 --> 00:02:50,866
+cô bé muốn cho bố mẹ mình cũng được chứng kiến
 
 128
-00:03:07,400 --> 00:03:08,666
-cú ngã sấp mặt vô tình đè trúng công tắc nam châm.
+00:02:50,866 --> 00:02:52,566
+những điều thú vị mà cô bé đã gặp trước đó.
 
 129
-00:03:08,666 --> 00:03:10,800
-Lôi tuột cả Chaien bay ngược trở lại chỗ khối nam châm màu bạc.
+00:02:52,566 --> 00:02:54,166
+Để lưu giữ khoảnh khắc kỷ niệm đáng nhớ này,
 
 130
-00:03:10,800 --> 00:03:12,300
-Thế là cơ hội lật ngược thế cờ trôi qua mất sạch.
+00:02:54,166 --> 00:02:55,900
+Doraemon đề xuất cả nhóm cùng chụp một bức ảnh chung.
 
 131
-00:03:12,300 --> 00:03:13,966
-Chaien và Suneo theo đúng như lời hẹn ước trước đó,
+00:02:55,900 --> 00:02:57,766
+Cậu lấy từ trong túi thần kỳ ra lọ "Bột hoa anh đào",
 
 132
-00:03:13,966 --> 00:03:15,233
-đã dành cho Nobita một trận đòn ra trò.
+00:02:57,766 --> 00:02:59,200
+chỉ cần rắc bột này lên nơi nào,
+
+133
+00:02:59,200 --> 00:03:00,566
+nơi đó sẽ nở ra những bông hoa anh đào tuyệt đẹp.
+
+134
+00:03:00,566 --> 00:03:02,400
+Chỉ trong chốc lát, cả bãi đất trống đã rợp bóng hoa anh đào bay lấp lánh.
+
+135
+00:03:02,400 --> 00:03:04,500
+Nobita giục mọi người tạo dáng chụp ảnh sao cho đẹp nhất.
+
+136
+00:03:04,500 --> 00:03:06,266
+Đúng lúc đó Doraemon vô tình trượt chân,
+
+137
+00:03:06,266 --> 00:03:07,666
+đầu đâm sầm vào ống cống xi măng ở bãi đất trống.
+
+138
+00:03:07,666 --> 00:03:08,500
+Thật là trùng hợp,
+
+139
+00:03:08,500 --> 00:03:09,766
+mũi cậu lại chạm ngay trúng một bông hoa anh đào rơi xuống.
+
+140
+00:03:09,766 --> 00:03:11,300
+Đúng khoảnh khắc đó máy ảnh bấm tách một cái vang lên.
+
+141
+00:03:11,300 --> 00:03:12,566
+Doraemon biến thành một quả bóng hoa anh đào Doraemon.
+
+142
+00:03:12,566 --> 00:03:14,466
+Dáng vẻ hồng hào đáng yêu trông cưng xỉu luôn.
