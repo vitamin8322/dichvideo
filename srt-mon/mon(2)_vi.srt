@@ -1,539 +1,623 @@
 1
-00:00:00,066 --> 00:00:01,500
-Nobita lật mở cuốn truyện tranh đính kèm tạp chí,
+00:00:00,133 --> 00:00:02,133
+Nếu bạn từng có trải nghiệm bị người khác giăng bẫy đổ vỏ oan uổng,
 
 2
-00:00:01,500 --> 00:00:03,500
-ngay giây sau cuốn truyện bỗng phóng to gấp 10 lần,
+00:00:02,133 --> 00:00:03,533
+thì tập phim Conan lần này bạn tuyệt đối không thể bỏ qua.
 
 3
-00:00:03,500 --> 00:00:04,733
-nội dung bên trong cũng bắt đầu chuyển động sống động.
+00:00:03,533 --> 00:00:04,500
+Chị Ran Mori với sức chiến đấu đỉnh cao
 
 4
-00:00:04,733 --> 00:00:06,533
-Giống như một bộ phim hoạt hình đang chiếu trên tivi,
+00:00:04,500 --> 00:00:05,833
+khó khăn lắm mới có cơ hội đứng lớp chỉ dạy võ thuật,
 
 5
-00:00:06,533 --> 00:00:08,366
-kể cho Nobita nghe câu chuyện trong cuốn truyện tranh.
+00:00:05,833 --> 00:00:07,533
+ngờ đâu ông chủ của phòng tập Karate lại bất ngờ
 
 6
-00:00:08,366 --> 00:00:09,966
-Hơn nữa mỗi một trang lại có một nội dung thú vị khác nhau.
+00:00:07,533 --> 00:00:08,466
+nằm bất động trong văn phòng làm việc.
 
 7
-00:00:09,966 --> 00:00:11,333
-Ngoài bộ truyện ăn khách "Doraemon"
+00:00:08,466 --> 00:00:09,533
+Chiếc két sắt mở toang hoác,
 
 8
-00:00:11,333 --> 00:00:12,900
-còn có bộ truyện mới "Bà mẹ siêu năng lực".
+00:00:09,533 --> 00:00:10,166
+người bất động đã bị di dời vị trí,
 
 9
-00:00:12,900 --> 00:00:14,133
-Chỉ cần bấm vào chiếc huy hiệu hình chú gà con,
+00:00:10,166 --> 00:00:11,366
+nhưng chiếc máy pha cà phê thì vẫn đang hoạt động.
 
 10
-00:00:14,133 --> 00:00:16,166
-người mẹ sẽ dùng siêu năng lực để dịch chuyển bản thân và con gái
+00:00:11,366 --> 00:00:11,866
+Điều cốt lõi là,
 
 11
-00:00:16,166 --> 00:00:17,000
-đến ngay trường học trong chớp mắt.
+00:00:11,866 --> 00:00:13,666
+kẻ thủ ác cứ nghĩ rằng thủ đoạn của mình vô cùng hoàn hảo,
 
 12
-00:00:17,000 --> 00:00:18,466
-Sau khi đọc xong và khép cuốn truyện lại,
+00:00:13,666 --> 00:00:15,666
+ai dè lại bị một cậu học sinh tiểu học lật tẩy không trượt phát nào.
 
 13
-00:00:18,466 --> 00:00:20,400
-cuốn truyện lập tức co nhỏ trở lại hình dạng ban đầu.
+00:00:15,666 --> 00:00:16,966
+Vụ án lần này chắc chắn sẽ vô cùng kịch tính,
 
 14
-00:00:20,400 --> 00:00:22,733
-Lúc này Nobita cầm phụ bản ông thầy dạy Toán ra,
+00:00:16,966 --> 00:00:18,033
+Conan sẽ trực tiếp ra tay
 
 15
-00:00:22,733 --> 00:00:24,466
-muốn nhờ thầy làm hộ bài tập về nhà cho mình.
+00:00:18,033 --> 00:00:19,566
+cho kẻ thủ ác biết thế nào là sự áp đảo tuyệt đối.
 
 16
-00:00:24,466 --> 00:00:26,533
-Nào ngờ ông thầy Toán bước ra từ phụ bản
+00:00:19,566 --> 00:00:21,266
+Hãy quay ngược bánh xe thời gian về thời điểm trước khi xảy ra vụ án.
 
 17
-00:00:26,533 --> 00:00:27,466
-lại nghiêm khắc yêu cầu Nobita
+00:00:21,266 --> 00:00:22,933
+Buổi học Karate đang diễn ra vô cùng sôi nổi,
 
 18
-00:00:27,466 --> 00:00:29,000
-phải bắt đầu học từ những bài toán cơ bản nhất.
+00:00:22,933 --> 00:00:24,366
+nhóm học viên nhí đang ra sức luyện tập hăng say.
 
 19
-00:00:29,000 --> 00:00:30,966
-Khiến Nobita hoảng sợ ném phăng cuốn phụ bản đi chỗ khác.
+00:00:24,366 --> 00:00:26,533
+Thầy Kouta vì cánh tay bị chấn thương nên chỉ có thể đứng ngoài xem,
 
 20
-00:00:30,966 --> 00:00:32,766
-Đúng lúc này Doraemon đang đọc cuốn phụ bản "Đại bách khoa trò chơi trí tuệ"
+00:00:26,533 --> 00:00:28,266
+đành phải nhờ chị Ran đứng lớp giảng dạy thay.
 
 21
-00:00:32,766 --> 00:00:34,100
-và cười nghiêng ngả bò lăn bò càng.
+00:00:28,266 --> 00:00:29,700
+Nhưng điều thầy tính không bằng trời tính
 
 22
-00:00:34,100 --> 00:00:36,000
-But khi nghe nói câu đố đó là một bài toán tính nhẩm,
+00:00:29,700 --> 00:00:30,900
+chính là Conan - hung thần xui xẻo đi đến đâu án mạng đến đó - cũng đi theo.
 
 23
-00:00:36,000 --> 00:00:37,466
-Nobita lập tức mất sạch hứng thú.
+00:00:30,900 --> 00:00:32,633
+Trong khi đám trẻ đang bàn tán ghép đôi
 
 24
-00:00:37,466 --> 00:00:39,566
-Thế là Doraemon rủ Nobita chơi phụ bản xếp giấy thủ công.
+00:00:32,633 --> 00:00:34,100
+thầy Kouta với chị Ran Mori,
 
 25
-00:00:39,566 --> 00:00:40,400
-折纸的复刊
+00:00:34,100 --> 00:00:35,666
+thì bỗng nhiên phụp một phát, toàn bộ tòa nhà bị mất điện.
 
 26
-00:00:40,466 --> 00:00:42,300
-Biết rằng những sản phẩm sau khi gấp xong sẽ biến thành đồ thật,
+00:00:35,666 --> 00:00:37,333
+Thầy Kouta thấy thế liền trấn an mọi người,
 
 27
-00:00:42,300 --> 00:00:44,100
-Nobita lập tức lựa chọn gấp chiếc máy bay phản lực.
+00:00:37,333 --> 00:00:39,266
+bảo rằng hệ thống điện ở đây thường xuyên bị chập mạch sập nguồn.
 
 28
-00:00:44,100 --> 00:00:45,866
-Tiếc là cậu vụng về làm hỏng mất chiếc máy bay.
+00:00:39,266 --> 00:00:39,900
+Thầy chỉ cần đi
 
 29
-00:00:45,866 --> 00:00:47,600
-May sao hai phụ bản khác lại vô cùng đơn giản,
+00:00:39,900 --> 00:00:41,133
+gạt lại cầu dao điện là xong thôi.
 
 30
-00:00:47,600 --> 00:00:49,866
-chỉ cần xé hai tờ giấy xếp theo đường nếp gấp sẵn
+00:00:41,133 --> 00:00:42,933
+Nào ngờ điện của võ đường vừa mới có lại chưa được bao lâu,
 
 31
-00:00:49,866 --> 00:00:51,566
-rồi ráp chúng lại với nhau là thành chiếc dù lượn.
+00:00:42,933 --> 00:00:44,633
+từ ngoài hành lang đột ngột vang lên tiếng hét thất thanh.
 
 32
-00:00:51,566 --> 00:00:53,866
-Đút nó vào túi áo rồi nhảy từ trên cao xuống là dù sẽ tự động mở ra.
+00:00:44,633 --> 00:00:46,033
+Mọi người vội vàng chạy qua văn phòng làm việc,
 
 33
-00:00:53,866 --> 00:00:55,766
-But vì chiếc máy bay phản lực của Nobita đã bị hỏng,
+00:00:46,033 --> 00:00:47,866
+thì thấy ông chủ nhà Hyakuhara đang nằm bò trên bàn máy tính,
 
 34
-00:00:55,766 --> 00:00:57,800
-nên Doraemon đành cho cậu mượn chiếc trực thăng giấy của mình.
+00:00:47,866 --> 00:00:49,100
+phía sau gáy có vết thương chảy rất nhiều chất lỏng màu đỏ.
 
 35
-00:00:57,800 --> 00:00:58,100
-直升机
+00:00:49,100 --> 00:00:50,700
+Rất nhanh sau đó thanh tra Megure đã dẫn đội tới hiện trường.
 
 36
-00:00:58,100 --> 00:01:00,300
-Chỉ thấy chiếc trực thăng giấy lập tức đưa Nobita bay lên không trung,
+00:00:50,700 --> 00:00:51,966
+Sau một hồi nghiệp vụ khẩn trương,
 
 37
-00:01:00,300 --> 00:01:01,600
-rồi bay thẳng ra ngoài cửa sổ,
+00:00:51,966 --> 00:00:53,066
+xác nhận người xấu số đã tử vong từ trước.
 
 38
-00:01:01,600 --> 00:01:03,066
-tự do bay lượn trên bầu trời bao la.
+00:00:53,066 --> 00:00:54,333
+Ông ấy chính là chủ nhân của tòa nhà này,
 
 39
-00:01:03,066 --> 00:01:05,333
-Đúng lúc đó Chaien và Suneo đang chơi máy bay điều khiển từ xa ở bãi đất trống,
+00:00:54,333 --> 00:00:56,033
+thời điểm tử vong xác định vào khoảng 3 giờ chiều.
 
 40
-00:01:05,333 --> 00:01:07,500
-bỗng thấy Nobita cưỡi máy bay trực thăng giấy bay qua.
+00:00:56,033 --> 00:00:57,033
+Chiếc két sắt trong văn phòng bị mở toang,
 
 41
-00:01:07,533 --> 00:01:09,100
-Khiến Chaien và Suneo tức tối vô cùng.
+00:00:57,033 --> 00:00:58,466
+nhìn qua rất giống một vụ cướp tài sản rồi ra tay hạ thủ.
 
 42
-00:01:09,100 --> 00:01:10,766
-But vì mải mê đắc ý không chú ý nhìn đường,
+00:00:58,466 --> 00:00:59,933
+Nhưng với đôi mắt tinh tường nhạy bén của Conan,
 
 43
-00:01:10,766 --> 00:01:12,666
-Nobita đã đâm sầm vào cành cây rồi rơi bịch xuống đất.
+00:00:59,933 --> 00:01:00,900
+đã nhanh chóng phát hiện ra manh mối bất thường.
 
 44
-00:01:12,666 --> 00:01:14,066
-Sau đó Nobita lết cái thân đầy thương tích về nhà,
+00:01:00,900 --> 00:01:02,133
+Trên mặt sàn có vết lôi kéo cọ xát,
 
 45
-00:01:14,066 --> 00:01:15,333
-phát hiện ra một cuốn phụ bản vô cùng thú vị.
+00:01:02,133 --> 00:01:03,900
+cho thấy người xấu số đã bị kẻ khác di dời vị trí.
 
 46
-00:01:15,333 --> 00:01:17,000
-But Doraemon đã vội ngăn cậu lại:
+00:01:03,900 --> 00:01:05,666
+Kế đó, phía cảnh sát tiến hành lấy lời khai của các nhân chứng.
 
 47
-00:01:17,000 --> 00:01:18,100
-Hóa ra phụ bản này
+00:01:05,666 --> 00:01:07,866
+Ông Tateyama khai rằng mình và nạn nhân Hyakuhara là bạn học cấp ba.
 
 48
-00:01:18,100 --> 00:01:19,366
-không được phép mở ra ở trong nhà.
+00:01:07,866 --> 00:01:09,300
+Nửa năm trước sau khi bố của nạn nhân qua đời,
 
 49
-00:01:19,366 --> 00:01:20,366
-Thế là hai đứa đi ra ngoài sân,
+00:01:09,300 --> 00:01:11,133
+nạn nhân Hyakuhara thừa kế lại văn phòng bất động sản này,
 
 50
-00:01:20,366 --> 00:01:22,133
-ba tờ giấy xếp khổng lồ lập tức xuất hiện.
+00:01:11,133 --> 00:01:12,466
+và ông Tateyama luôn phải làm việc quần quật cho ông ta.
 
 51
-00:01:22,133 --> 00:01:24,333
-Nobita dỡ chúng ra rồi ráp chúng lại với nhau.
+00:01:12,466 --> 00:01:14,066
+Ông Tateyama bảo lúc 5 giờ chiều mình quay lại văn phòng,
 
 52
-00:01:24,333 --> 00:01:25,933
-Tuy nội dung là một trò chơi đồ hàng dành cho con gái,
+00:01:14,066 --> 00:01:15,333
+thì phát hiện người xấu số nằm bất động.
 
 53
-00:01:25,933 --> 00:01:27,933
-nhưng Doraemon vẫn cùng Nobita hợp lực ráp xong,
+00:01:15,333 --> 00:01:16,333
+khiến ông hoảng sợ la toáng lên.
 
 54
-00:01:27,933 --> 00:01:29,766
-dựng thành công một ngôi nhà chơi đồ hàng xinh xắn.
+00:01:16,333 --> 00:01:17,633
+Lúc đó nhìn thấy két sắt đang mở sẵn,
 
 55
-00:01:29,766 --> 00:01:31,133
-Kế đó Doraemon lắc cuốn phụ bản,
+00:01:17,633 --> 00:01:18,833
+chìa khóa thì treo ở chỗ cũ.
 
 56
-00:01:31,133 --> 00:01:32,700
-rơi ra một bộ đồ chơi đồ hàng đầy đủ
+00:01:18,833 --> 00:01:20,866
+Nạn nhân Hyakuhara thường tích trữ tiền mặt ở trong đó hàng tháng.
 
 57
-00:01:32,700 --> 00:01:34,400
-cùng một cô bé búp bê vô cùng xinh đẹp.
+00:01:20,866 --> 00:01:22,133
+Lời khai của ông nghe qua thì có vẻ rất logic,
 
 58
-00:01:34,400 --> 00:01:36,466
-Danh tính cô bé là một nữ diễn viên trẻ tuổi rất được yêu thích ở tương lai,
+00:01:22,133 --> 00:01:24,166
+nhưng trong đầu Conan đã dấy lên sự hoài nghi.
 
 59
-00:01:36,466 --> 00:01:37,100
-tên là cô bé Ruri.
+00:01:24,166 --> 00:01:25,166
+Trong lúc tìm kiếm vật chứng gây án,
 
 60
-00:01:37,100 --> 00:01:38,166
-Chỉ cần cô bé chớp mắt một cái,
+00:01:25,166 --> 00:01:26,866
+một chiếc gậy đánh gôn đã được cảnh sát tìm thấy.
 
 61
-00:01:38,166 --> 00:01:39,566
-đã lập tức hớp hồn Nobita đờ đẫn.
+00:01:26,866 --> 00:01:28,100
+Nó được cắm ở trong chiếc túi đựng cạnh cửa ra vào.
 
 62
-00:01:39,566 --> 00:01:41,066
-Lúc này Suneo đi ngang qua nhà Nobita,
+00:01:28,100 --> 00:01:29,233
+But tại vị trí nạn nhân nằm gục,
 
 63
-00:01:41,066 --> 00:01:42,666
-nghe thấy tiếng cười nói vui vẻ vọng ra từ trong tường.
+00:01:29,233 --> 00:01:30,633
+hung thủ hoàn toàn không thể vung gậy tấn công được,
 
 64
-00:01:42,666 --> 00:01:44,066
-Suneo liền trèo lên tường để dòm vào xem sao,
+00:01:30,633 --> 00:01:32,466
+trừ phi nạn nhân bị tấn công lén từ phía sau ngay gần lối ra vào.
 
 65
-00:01:44,066 --> 00:01:46,400
-thấy Nobita không chỉ đang chơi đùa cùng một cô bé xinh xắn,
+00:01:32,466 --> 00:01:34,066
+Nhưng người xấu số lại bị di dời tới bàn làm việc,
 
 66
-00:01:46,400 --> 00:01:47,533
-mà còn đang giúp cô bé thay quần áo.
+00:01:34,066 --> 00:01:35,266
+kẻ thủ ác chắc chắn phải có mục đích khi làm vậy.
 
 67
-00:01:47,533 --> 00:01:49,266
-Suneo đỏ bừng mặt vì ngượng không chịu nổi,
+00:01:35,266 --> 00:01:36,366
+Theo kết quả kiểm tra của thám tử Takagi,
 
 68
-00:01:49,266 --> 00:01:51,066
-vội chạy ngay ra bãi đất trống mách lẻo với Shizuka
+00:01:36,366 --> 00:01:37,566
+những vết xước cọ xát trên mặt sàn gỗ
 
 69
-00:01:51,066 --> 00:01:53,000
-và Chaien: "Nobita đang lột đồ của một cô bé đấy!"
+00:01:37,566 --> 00:01:39,033
+chính là do đôi giày của nạn nhân ma sát tạo thành.
 
 70
-00:01:53,000 --> 00:01:54,300
-Thế là Chaien ghen tị đỏ mắt,
+00:01:39,033 --> 00:01:40,966
+Ngoài ra, trong két sắt có một bản hợp đồng thuê nhà,
 
 71
-00:01:54,300 --> 00:01:56,466
-cùng Suneo kéo Shizuka hùng hổ chạy tới nhà Nobita.
+00:01:40,966 --> 00:01:42,666
+trên gậy đánh gôn cũng thu thập được dấu vân tay của nghi phạm.
 
 72
-00:01:56,466 --> 00:01:58,066
-Nào ngờ cô bé búp bê lúc này đã biến hình thành một con khủng long,
+00:01:42,666 --> 00:01:43,566
+Hai manh mối quan trọng này
 
 73
-00:01:58,066 --> 00:02:00,400
-dọa ba đứa sợ mất mật chạy té khói rúc vào một góc.
+00:01:43,566 --> 00:01:44,666
+đã trực tiếp đưa thầy Kouta
 
 74
-00:02:00,400 --> 00:02:02,566
-Suneo và hai bạn thấy kỳ lạ liền quay lại xem thử,
+00:01:44,666 --> 00:01:46,033
+trở thành nghi can số một của vụ án.
 
 75
-00:02:02,566 --> 00:02:04,400
-thì thấy khủng long lại biến thành một chiếc tàu vũ trụ,
+00:01:46,033 --> 00:01:47,733
+Cộng thêm việc Conan nhớ lại lúc mất điện,
 
 76
-00:02:04,400 --> 00:02:06,200
-rồi con tàu bỗng chốc biến mất tăm.
+00:01:47,733 --> 00:01:49,466
+thầy Kouta đã chủ động lên gác để gạt lại cầu dao điện.
 
 77
-00:02:06,200 --> 00:02:07,566
-Hóa ra Nobita liên tục thay đổi
+00:01:49,466 --> 00:01:50,533
+Điều này càng khiến người ta nghi ngờ.
 
 78
-00:02:07,566 --> 00:02:09,566
-các phụ bản khác để biến ra một con dực thủ long khổng lồ bay lên.
+00:01:50,533 --> 00:01:52,466
+Phía cảnh sát nhanh chóng dựng lên một kịch bản hoàn chỉnh:
 
 79
-00:02:09,566 --> 00:02:11,366
-Khiến Shizuka và hai bạn kinh ngạc đứng hình.
+00:01:52,466 --> 00:01:53,733
+Thầy Kouta vì vấn đề tranh chấp tiền thuê võ đường
 
 80
-00:02:11,366 --> 00:02:12,766
-Thấy các bạn đều đã đến đông đủ,
+00:01:53,733 --> 00:01:54,966
+với nạn nhân Hyakuhara mà xảy ra mâu thuẫn,
 
 81
-00:02:12,766 --> 00:02:14,766
-Doraemon liền lấy ra một tấm bản đồ nước Nhật,
+00:01:54,966 --> 00:01:56,233
+trong lúc giận dữ đã ra tay tiễn nạn nhân bay màu,
 
 82
-00:02:14,766 --> 00:02:16,600
-lối chơi trò này rất giống với cờ tỷ phú.
+00:01:56,233 --> 00:01:57,466
+rồi dời người xấu số đi chỗ khác
 
 83
-00:02:16,600 --> 00:02:18,466
-Oẳn tù tì để quyết định thứ tự xuất phát.
+00:01:57,466 --> 00:01:58,766
+để ngụy trang thành một vụ cướp của.
 
 84
-00:02:18,466 --> 00:02:20,066
-Sau đó, dựa vào số điểm tung được của xúc xắc,
+00:01:58,766 --> 00:01:59,766
+Thầy Kouta đương nhiên chối bay chối biến,
 
 85
-00:02:20,066 --> 00:02:21,666
-Nobita lập tức biến mất tại chỗ
+00:01:59,766 --> 00:02:01,233
+cánh tay thầy đang chấn thương thì làm sao lôi kéo nổi vật nặng.
 
 86
-00:02:21,666 --> 00:02:22,900
-và được dịch chuyển tới vùng Kyoto của Nhật Bản.
+00:02:01,233 --> 00:02:03,066
+Nhưng thanh tra Chiba đã trực tiếp làm mẫu thực nghiệm:
 
 87
-00:02:22,900 --> 00:02:24,200
-Nobita nhặt quân xúc xắc lên,
+00:02:03,066 --> 00:02:05,033
+Chỉ cần tháo chiếc khăn vải tam giác băng bó tay ra,
 
 88
-00:02:24,200 --> 00:02:25,966
-thông qua xúc xắc có thể trò chuyện với mọi người ở nhà.
+00:02:05,033 --> 00:02:06,500
+quấn quanh cổ người xấu số,
 
 89
-00:02:25,966 --> 00:02:26,466
-Thế là Nobita
+00:02:06,500 --> 00:02:07,900
+rồi dùng tay trái phối hợp với răng để thắt nút,
 
 90
-00:02:26,466 --> 00:02:28,333
-tiếp tục tung xúc xắc để tiến lên phía trước.
+00:02:07,900 --> 00:02:09,866
+là có thể dùng một tay kéo người xấu số lên bàn làm việc.
 
 91
-00:02:28,333 --> 00:02:30,500
-Nếu gặp phải nguy hiểm có thể lập tức quay trở lại sân nhà bất cứ lúc nào.
+00:02:09,866 --> 00:02:11,900
+Mục đích là dùng khuôn mặt nạn nhân để mở khóa máy tính,
 
 92
-00:02:30,500 --> 00:02:32,100
-Lúc này Shizuka tung được xúc xắc 6 điểm,
+00:02:11,900 --> 00:02:12,833
+tiến hành chỉnh sửa nội dung bản hợp đồng thuê nhà.
 
 93
-00:02:32,133 --> 00:02:33,366
-lập tức được dịch chuyển từ quận Nerima ở Tokyo
+00:02:12,833 --> 00:02:14,300
+Bản hợp đồng cất ở trong két sắt đó
 
 94
-00:02:33,366 --> 00:02:34,566
-vèo một cái tới vùng Hokkaido lạnh giá.
+00:02:14,300 --> 00:02:15,433
+đã bị thay đổi một vài điều khoản,
 
 95
-00:02:34,566 --> 00:02:36,100
-Thấy các bạn lần lượt xuất phát,
+00:02:15,433 --> 00:02:16,466
+và thời gian máy in hoạt động
 
 96
-00:02:36,100 --> 00:02:37,733
-Chaien cũng tung được xúc xắc dịch chuyển tới vùng Osaka,
+00:02:16,466 --> 00:02:18,066
+lại trùng khớp ngay sau khi nạn nhân qua đời.
 
 97
-00:02:37,733 --> 00:02:38,800
-nhận được phần thưởng điểm số
+00:02:18,066 --> 00:02:19,300
+Trước những chứng cứ đanh thép chống lại mình,
 
 98
-00:02:38,800 --> 00:02:40,333
-là một đĩa bánh khọt bạch tuộc Takoyaki thơm ngon ăn nóng hổi.
+00:02:19,300 --> 00:02:20,566
+thầy Kouta đành phải thú nhận sự thật:
 
 99
-00:02:40,333 --> 00:02:42,333
-Suneo thì được dịch chuyển tới cổng Yomeimon của đền Nikko Toshogu,
+00:02:20,566 --> 00:02:22,100
+Thầy thừa nhận mình đã sửa hợp đồng,
 
 100
-00:02:42,333 --> 00:02:44,533
-nhưng chờ đón cậu ta lại là một đàn khỉ hoang tấn công.
+00:02:22,100 --> 00:02:23,100
+nhưng tuyệt đối không hề hạ thủ sát hại nạn nhân.
 
 101
-00:02:44,533 --> 00:02:45,966
-Hóa ra Suneo đã giẫm phải ô bẫy
+00:02:23,100 --> 00:02:24,966
+Tuy trên gậy đánh gôn có dấu vân tay của thầy,
 
 102
-00:02:45,966 --> 00:02:46,700
-bị tạm dừng một lượt chơi.
+00:02:24,966 --> 00:02:26,466
+nhưng đó là do trước kia thầy dùng gậy để gạt
 
 103
-00:02:46,700 --> 00:02:48,933
-Lúc này Nobita thông qua xúc xắc biết được tình hình của mọi người,
+00:02:26,466 --> 00:02:27,233
+cầu dao điện mà có.
 
 104
-00:02:48,933 --> 00:02:50,166
-liền dứt khoát tung xúc xắc của mình.
+00:02:27,233 --> 00:02:28,366
+Nghĩa là sau khi gạt cầu dao điện xong,
 
 105
-00:02:50,166 --> 00:02:52,200
-Theo số điểm 3 tung được, cậu dịch chuyển tới tỉnh Gifu.
+00:02:28,366 --> 00:02:29,966
+thầy mới phát hiện ra nạn nhân Hyakuhara nằm đó,
 
 106
-00:02:52,200 --> 00:02:53,933
-Nào ngờ một con heo rừng hung tợn đột nhiên xuất hiện,
+00:02:29,966 --> 00:02:31,300
+vì lòng tham nên mới làm chuyện sửa hợp đồng.
 
 107
-00:02:53,933 --> 00:02:55,600
-rượt đuổi Nobita chạy trối chết chui vào một túp lều cỏ.
+00:02:31,300 --> 00:02:32,733
+Trong lúc thầy Kouta không cách nào tự minh oan,
 
 108
-00:02:55,600 --> 00:02:57,200
-But ngay khi con heo rừng húc đầu lao vào lều,
+00:02:32,733 --> 00:02:34,333
+Conan mượn giọng của bác tiến sĩ Agasa
 
 109
-00:02:57,200 --> 00:02:59,333
-từ trong quân xúc xắc vang lên tiếng Doraemon giục cậu mau tung xúc xắc.
+00:02:34,333 --> 00:02:35,333
+để bắt đầu màn lập luận phá án.
 
 110
-00:02:59,333 --> 00:03:01,133
-Thế là ngay khoảnh khắc con heo rừng lao tới húc,
+00:02:35,333 --> 00:02:36,466
+Kẻ thủ ác thực sự không phải thầy Kouta,
 
 111
-00:03:01,133 --> 00:03:02,500
-Nobita đã kịp thời dịch chuyển tới địa điểm mới.
+00:02:36,466 --> 00:02:38,266
+mà chính là ông Tateyama - người đầu tiên báo án.
 
 112
-00:03:02,500 --> 00:03:03,933
-Thấy cảnh sắc phía trước vô cùng xinh đẹp,
+00:02:38,266 --> 00:02:39,433
+Hung thủ đã lợi dụng việc mất điện
 
 113
-00:03:03,933 --> 00:03:05,366
-Nobita liền bò ra ngoài ngắm nghía.
+00:02:39,433 --> 00:02:41,066
+và thói quen dùng gậy đánh gôn gạt cầu dao của thầy Kouta,
 
 114
-00:03:05,366 --> 00:03:06,666
-Nào ngờ sẩy chân trượt ngã nhào xuống dưới.
+00:02:41,066 --> 00:02:42,533
+để dàn dựng một kế hoạch đổ tội hoàn hảo.
 
 115
-00:03:06,666 --> 00:03:07,966
-May mắn là phần mái hiên đã kịp thời giữ cậu lại.
+00:02:42,533 --> 00:02:44,300
+Hắn đã hẹn giờ cho chiếc máy pha cà phê hoạt động trước,
 
 116
-00:03:07,966 --> 00:03:09,800
-But chiếc quần đùi của Nobita bỗng nhiên bị rách toạc,
+00:02:44,300 --> 00:02:45,066
+thiết lập chế độ tự động bật.
 
 117
-00:03:09,800 --> 00:03:11,066
-khiến cậu rơi tự do xuống mặt đất phía dưới.
+00:02:45,066 --> 00:02:46,900
+Sau khi hạ thủ nạn nhân xong liền lập tức chuồn khỏi hiện trường,
 
 118
-00:03:11,066 --> 00:03:12,566
-May sao chiếc dù lượn xếp giấy trong túi áo bung ra nâng cậu lên,
+00:02:46,900 --> 00:02:48,266
+để tạo ra bằng chứng ngoại phạm hoàn hảo.
 
 119
-00:03:12,566 --> 00:03:14,066
-giúp Nobita tiếp đất một cách an toàn.
+00:02:48,266 --> 00:02:48,933
+Đến giờ hẹn,
 
 120
-00:03:14,066 --> 00:03:16,266
-Lúc này Shizuka đang ở núi Phú Sĩ tung xúc xắc,
+00:02:48,933 --> 00:02:50,833
+máy pha cà phê bật làm hệ thống điện quá tải,
 
 121
-00:03:16,266 --> 00:03:17,366
-không may giẫm trúng ô bẫy,
+00:02:50,833 --> 00:02:51,533
+dẫn đến sập nguồn mất điện.
 
 122
-00:03:17,366 --> 00:03:19,066
-bị dịch chuyển ngược trở lại sân xuất phát ban đầu.
+00:02:51,533 --> 00:02:53,833
+Thầy Kouta theo phản xạ tự nhiên lấy gậy gạt cầu dao,
 
 123
-00:03:19,066 --> 00:03:20,766
-Còn Suneo vì muốn lấy lại đống phụ bản của mình
+00:02:53,833 --> 00:02:55,266
+vônt tình biến thành kẻ chịu tội thay hoàn hảo.
 
 124
-00:03:20,766 --> 00:03:22,766
-đã chạy tới sân nhà Nobita để thu hồi toàn bộ phụ bản tạp chí.
+00:02:55,266 --> 00:02:56,033
+Kế hoạch ban đầu của hung thủ
 
 125
-00:03:22,766 --> 00:03:23,666
-Hóa ra Doraemon
+00:02:56,033 --> 00:02:58,066
+là để thầy Kouta phát hiện thi thể rồi báo cảnh sát,
 
 126
-00:03:23,666 --> 00:03:25,133
-đã tự ý lấy đống phụ bản của Suneo về chơi.
+00:02:58,066 --> 00:02:59,433
+ngờ đâu thầy lại tự ý dời thi thể để sửa hợp đồng,
 
 127
-00:03:25,133 --> 00:03:26,366
-Shizuka trông thấy vậy định lên tiếng ngăn cản Suneo,
+00:02:59,433 --> 00:03:01,133
+khiến kịch bản của hung thủ bị chệch hướng.
 
 128
-00:03:26,366 --> 00:03:28,166
-nhưng Suneo đã nhanh chân nhảy tót vào ngăn kéo bàn học để về tương lai,
+00:03:01,133 --> 00:03:02,366
+Làm cho kế hoạch ban đầu đổ bể.
 
 129
-00:03:28,166 --> 00:03:30,333
-làm Shizuka không kịp giải thích ngọn ngành câu chuyện cho cậu ta biết.
+00:03:02,366 --> 00:03:03,766
+Hung thủ cứ ngỡ thi thể chưa bị ai phát hiện,
 
 130
-00:03:30,333 --> 00:03:32,666
-Lúc này nhóm Doraemon 4 người kinh ngạc dáo dác nhìn quanh.
+00:03:03,766 --> 00:03:04,833
+liền vội vàng chạy lên tầng hai,
 
 131
-00:03:32,666 --> 00:03:34,333
-Họ đang bị kẹt lại tại các địa điểm khác nhau trên khắp nước Nhật,
+00:03:04,833 --> 00:03:06,233
+thì hoảng hốt thấy thi thể đã bị dời đi chỗ khác.
 
 132
-00:03:34,333 --> 00:03:35,566
-và không có quân xúc xắc thì không cách nào tìm được đường quay về nhà.
+00:03:06,233 --> 00:03:06,566
+Hắn lầm tưởng rằng
 
 133
-00:03:35,566 --> 00:03:37,266
-Đúng lúc này mẹ lên gác gọi Nobita xuống ăn cơm,
+00:03:06,566 --> 00:03:08,233
+là nạn nhân trước khi nhắm mắt đã cố bò lên bàn
 
 134
-00:03:37,266 --> 00:03:39,166
-Shizuka đành ái ngại bảo mẹ lùi giờ ăn cơm lại một chút,
+00:03:08,233 --> 00:03:09,433
+để viết mật thư tố cáo tội ác của hắn.
 
 135
-00:03:39,166 --> 00:03:41,466
-có lẽ phải đợi Nobita đi bộ từ tỉnh khác về đến Tokyo mới ăn được.
+00:03:09,433 --> 00:03:11,066
+Thế là hắn luống cuống lục lọi tìm kiếm khắp phòng,
+
+136
+00:03:11,066 --> 00:03:12,300
+sau khi chắc chắn không để lại dấu vết gì,
+
+137
+00:03:12,300 --> 00:03:14,266
+mới vội vàng mở két sắt ra để ngụy tạo hiện trường giả.
+
+138
+00:03:14,266 --> 00:03:15,866
+Hắn vốn biết rõ két sắt không có gì bên trong,
+
+139
+00:03:15,866 --> 00:03:16,666
+nên chỉ mở toang cửa tủ ra
+
+140
+00:03:16,666 --> 00:03:18,066
+mà chẳng thèm ngó ngàng đến bản hợp đồng trong đó.
+
+141
+00:03:18,066 --> 00:03:19,766
+Hơn nữa, trên bàn làm việc xếp gọn gàng ngăn nắp,
+
+142
+00:03:19,766 --> 00:03:21,033
+nhưng các ngăn kéo lại xáo trộn lung tung.
+
+143
+00:03:21,033 --> 00:03:22,900
+Đó là vì sau khi chắc chắn không có lời tố cáo nào,
+
+144
+00:03:22,900 --> 00:03:23,900
+hắn đã thuận tay thu dọn lại mặt bàn.
+
+145
+00:03:23,900 --> 00:03:25,333
+Nếu là một vụ cướp tài sản thật sự,
+
+146
+00:03:25,366 --> 00:03:26,500
+thì hung thủ không thể rảnh rỗi dọn dẹp bàn làm việc ngăn nắp như thế được.
+
+147
+00:03:26,500 --> 00:03:27,266
+Còn về bằng chứng thép,
+
+148
+00:03:27,266 --> 00:03:28,966
+chính là đôi tất sặc sỡ mà ông đang đi dưới chân kia.
+
+149
+00:03:28,966 --> 00:03:31,333
+Lúc ra tay, hung thủ đã bị nạn nhân ghì chặt lấy cổ chân,
+
+150
+00:03:31,333 --> 00:03:32,266
+để lại vết hằn bàn tay của nạn nhân.
+
+151
+00:03:32,266 --> 00:03:33,866
+Hắn đành phải mua đôi tất dài để che đậy vết hằn đó.
+
+152
+00:03:33,866 --> 00:03:34,766
+Trước những bằng chứng đanh thép không thể chối cãi,
+
+153
+00:03:34,766 --> 00:03:35,766
+ông Tateyama chỉ biết cúi đầu nhận tội.
+
+154
+00:03:35,766 --> 00:03:37,533
+Hóa ra, hắn luôn bị nạn nhân đối xử tệ bạc và coi thường suốt thời gian dài,
+
+155
+00:03:37,533 --> 00:03:39,300
+mọi việc nặng nhọc vất vả đều trút hết lên đầu hắn.
+
+156
+00:03:39,300 --> 00:03:41,200
+Nạn nhân bất tài đến mức tập hồ sơ cũng không xếp nổi, mà chỉ biết đè đầu cưỡi cổ hắn...

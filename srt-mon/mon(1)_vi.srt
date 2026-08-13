@@ -1,583 +1,703 @@
 1
-00:00:00,100 --> 00:00:00,800
-Trong kỳ nghỉ hè,
+00:00:00,033 --> 00:00:01,800
+Bố con Nobita và Doraemon ăn được ở một
 
 2
-00:00:00,800 --> 00:00:02,400
-gia gia đình Nobita đến cắm trại tại núi Takakage.
+00:00:01,800 --> 00:00:02,533
+cửa hàng mì Ramen vô cùng thơm ngon.
 
 3
-00:00:02,400 --> 00:00:04,533
-Tuy nhiên, vừa đặt chân đến营địa đã phải nhận cú đúp đả kích lớn:
+00:00:02,533 --> 00:00:04,533
+Nhưng ông chủ vì vắng khách quá nên định đóng cửa tiệm.
 
 4
-00:00:04,533 --> 00:00:06,600
-Bố Nobita quên béng chiếc lều cắm trại cực kỳ quan trọng ở nhà,
+00:00:04,533 --> 00:00:06,533
+Thế là để giúp ông chủ cứu vớt xe mì Ramen,
 
 5
-00:00:06,600 --> 00:00:08,300
-còn mẹ thì cũng bỏ quên toàn bộ nguyên liệu làm đồ nướng ở trong bếp.
+00:00:06,533 --> 00:00:08,233
+Doraemon lấy ra chiếc "Kèn gọi khách",
 
 6
-00:00:08,300 --> 00:00:09,400
-Thế là xong đời!
+00:00:08,300 --> 00:00:09,500
+bảo ông chủ thổi vang nó lên.
 
 7
-00:00:09,400 --> 00:00:11,200
-Vừa không có chỗ ở, vừa không có gì để ăn cả.
+00:00:09,500 --> 00:00:10,133
+Giây tiếp theo,
 
 8
-00:00:11,200 --> 00:00:12,300
-Doraemon nghe xong chỉ biết kêu trời:
+00:00:10,133 --> 00:00:12,200
+những người nghe thấy tiếng kèn đều nườm nượp kéo đến từ hai phía.
 
 9
-00:00:12,300 --> 00:00:13,300
-"Đúng là bố mẹ nào
+00:00:12,200 --> 00:00:13,800
+Ai nấy đều gọi một bát mì Ramen thương hiệu của quán,
 
 10
-00:00:13,300 --> 00:00:14,333
-thì con nấy mà!"
+00:00:13,800 --> 00:00:15,600
+và lượng khách hàng vẫn tiếp tục tăng lên không ngừng.
 
 11
-00:00:14,333 --> 00:00:15,833
-Cả gia đình đã phải ngồi xe buýt ròng rã suốt 4 tiếng đồng hồ
+00:00:15,600 --> 00:00:17,133
+Thế chấn còn xuất hiện tình trạng đứng xếp hàng chờ ăn,
 
 12
-00:00:15,833 --> 00:00:16,733
-mới đến được núi Takakage này.
+00:00:17,133 --> 00:00:18,500
+và dòng người đông đúc chen chúc xếp hàng đợi bàn.
 
 13
-00:00:16,733 --> 00:00:18,200
-Nếu bây giờ quay về nhà lấy đồ,
+00:00:18,500 --> 00:00:20,166
+Lúc này nhóm Nobita ba người vô cùng vui sướng.
 
 14
-00:00:18,200 --> 00:00:19,466
-lúc quay lại đây chắc chắn trời đã tối mịt rồi.
+00:00:20,166 --> 00:00:22,033
+Đột nhiên Chaien cũng chạy thục mạng tới không thể kiểm soát,
 
 15
-00:00:19,466 --> 00:00:21,666
-Nobita vội vàng đề xuất sử dụng "Cánh cửa thần kỳ" để giải quyết rắc rối.
+00:00:22,033 --> 00:00:23,400
+gọi mua một bát mì Ramen của ông chủ.
 
 16
-00:00:21,666 --> 00:00:23,066
-Thế nhưng Doraemon lại ngán ngẩm thông báo:
+00:00:23,400 --> 00:00:24,766
+Nào ngờ cơn ác mộng cũng bắt đầu từ đây.
 
 17
-00:00:23,066 --> 00:00:24,333
-Cánh cửa thần kỳ vừa mới đem đi bảo trì sửa chữa rồi,
+00:00:24,766 --> 00:00:25,433
+Chỉ thấy Chaien
 
 18
-00:00:24,333 --> 00:00:25,733
-chiếc khăn trải bàn ẩm thực cũng đem đi giặt,
+00:00:25,433 --> 00:00:27,533
+ngay hôm sau đã tụ tập rủ rê mọi người qua nhà mình chơi,
 
 19
-00:00:25,733 --> 00:00:27,066
-đến cả chong chóng tre cũng quên mang theo người.
+00:00:27,533 --> 00:00:29,033
+rồi chui vào bếp loay hoay nấu nướng điên cuồng.
 
 20
-00:00:27,066 --> 00:00:29,333
-Ngay khi cả nhà sắp phải ngủ bờ ngủ bụi ngoài hoang dã hít khí trời,
+00:00:29,033 --> 00:00:31,100
+Cậu ta ném tất cả các loại đồ ăn thu hoạch theo mùa vào nồi,
 
 21
-00:00:29,333 --> 00:00:30,833
-Doraemon lấy ra chiếc "Bút vẽ nổi 3D".
+00:00:31,100 --> 00:00:32,933
+khuấy đều đun sùng sục thành một nồi nước dùng đỏ lòm cay xè.
 
 22
-00:00:30,833 --> 00:00:32,233
-Chỉ cần dùng nó vẽ vào không trung,
+00:00:32,933 --> 00:00:34,633
+Kế đó, để thay thế cho miếng thịt xá xíu không mua được,
 
 23
-00:00:32,233 --> 00:00:34,066
-những thứ được vẽ ra sẽ biến thành đồ vật 3D ngoài đời thực.
+00:00:34,633 --> 00:00:36,433
+Chaien quyết định ném thêm sầu riêng vào nồi!
 
 24
-00:00:34,066 --> 00:00:35,700
-Rất nhanh, một chiếc võng đu đưa đã được vẽ xong.
+00:00:36,433 --> 00:00:38,300
+Làm mọi người sợ hãi mặt mũi biến sắc.
 
 25
-00:00:35,700 --> 00:00:37,200
-Nobita hào hứng giật lấy chiếc bút vẽ nổi 3D,
+00:00:38,300 --> 00:00:39,700
+Lúc Chaien từ trong bếp bê mì bước ra,
 
 26
-00:00:37,200 --> 00:00:38,300
-vẽ ngay ra một chiếc ghế tựa.
+00:00:39,700 --> 00:00:41,166
+món "Mì Ramen Chaien" độc lạ chính thức trình làng.
 
 27
-00:00:38,300 --> 00:00:40,033
-But hoa tay hội họa của Nobita thì đúng là không dám khen ngợi chút nào.
+00:00:41,166 --> 00:00:42,933
+Khiến đám bạn học hoảng sợ lùi bước về phía sau.
 
 28
-00:00:40,033 --> 00:00:41,500
-Chiếc ghế méo mó xiêu vẹo vừa mới định hình xong,
+00:00:42,933 --> 00:00:44,566
+Sợi mì ngập ngụa trong nước dùng màu sắc kinh dị,
 
 29
-00:00:41,500 --> 00:00:43,100
-Nobita đã vội vàng hí hửng ngồi thụp lên đó.
+00:00:44,566 --> 00:00:46,566
+bên trong bát mì chan đầy nước súp cay xè lại ngọt lừ.
 
 30
-00:00:43,100 --> 00:00:45,066
-Giây tiếp theo, chiếc ghế vỡ vụn thành từng mảnh vụn tơi tả.
+00:00:46,566 --> 00:00:48,633
+Đến cả cà chua và bánh nếp cũng bị đun chín nhừ nát bét.
 
 31
-00:00:45,066 --> 00:00:45,933
-Nobita quả thực không đáng tin cậy chút nào,
+00:00:48,633 --> 00:00:49,700
+Và đó chính là bí quyết nấu ăn
 
 32
-00:00:45,933 --> 00:00:47,466
-những lúc mấu chốt thế này vẫn phải trông cậy vào tay nghề của bố.
+00:00:49,700 --> 00:00:51,200
+mà ông chủ tiệm mì Ramen truyền dạy cho Chaien:
 
 33
-00:00:47,466 --> 00:00:48,733
-Dù sao thời trẻ của bố
+00:00:51,200 --> 00:00:53,400
+Chỉ cần nấu bằng cả trái tim thì sẽ ra được bát mì Ramen thơm ngon.
 
 34
-00:00:48,733 --> 00:00:50,666
-cũng suýt chút nữa trở thành họa sĩ đại tài vẽ như thật mà.
+00:00:53,400 --> 00:00:54,433
+Lại một ngày nữa trôi qua,
 
 35
-00:00:50,666 --> 00:00:52,266
-Chỉ thấy bố vung bút múa may một hồi trên không trung,
+00:00:54,433 --> 00:00:56,600
+Chaien tiếp tục rủ mọi người qua nhà ăn thử mì Ramen.
 
 36
-00:00:52,266 --> 00:00:53,600
-loáng một cái đã vẽ xong một chiếc lều cắm trại
+00:00:56,600 --> 00:00:58,433
+Và cậu ta bắt Nobita phải đi truyền đạt thông tin cho từng người một.
 
 37
-00:00:53,600 --> 00:00:54,733
-vô cùng rộng rãi sang trọng và đẹp đẽ,
+00:00:58,433 --> 00:01:00,966
+Nhưng Suneo ban ngày vẫn bình thường bỗng giả bộ đau đầu,
 
 38
-00:00:54,833 --> 00:00:56,533
-cùng chiếc bàn tinh xảo và 4 chiếc ghế tựa thư giãn.
+00:01:00,966 --> 00:01:02,700
+Haruo đang nhai kem nhom nhoém cũng giả vờ bị đau bụng,
 
 39
-00:00:56,533 --> 00:00:57,600
-Giải quyết xong vấn đề chỗ ở tạm thời,
+00:01:02,700 --> 00:01:04,133
+còn Yasuo đang chuẩn bị vác gậy đi chơi bóng
 
 40
-00:00:57,600 --> 00:00:59,300
-cả nhà bắt đầu chuẩn bị lo cho bữa tối.
+00:01:04,133 --> 00:01:05,300
+thì vờ vịt bảo mình đang bị cảm cúm mất rồi.
 
 41
-00:00:59,300 --> 00:01:01,000
-Bố cầm cần câu ra bờ suối câu cá,
+00:01:05,300 --> 00:01:06,633
+Đến lượt đi tìm Shizuka,
 
 42
-00:01:01,000 --> 00:01:02,700
-Mẹ thì đi vào rừng tìm hái nấm dại.
+00:01:06,633 --> 00:01:07,933
+Nobita khẽ mỉm cười dịu dàng,
 
 43
-00:01:02,700 --> 00:01:04,600
-Còn Nobita và Doraemon thong thả đi dạo xung quanh营địa.
+00:01:07,933 --> 00:01:10,033
+vì không nỡ đẩy cô bạn vào hố lửa đau khổ nên cậu quay người bỏ đi luôn.
 
 44
-00:01:04,600 --> 00:01:06,833
-Đột nhiên họ ngửi thấy một mùi thịt nướng thơm nức mũi bay tới.
+00:01:10,033 --> 00:01:11,633
+Rồi một mình lủi thủi đi tới nhà Chaien.
 
 45
-00:01:06,833 --> 00:01:08,666
-Hai đứa như quỷ đói lần theo mùi hương đi tìm,
+00:01:11,633 --> 00:01:12,833
+Nhưng ngay khoảnh khắc Chaien mở cửa ra,
 
 46
-00:01:08,666 --> 00:01:09,633
-không ngờ lại gần mới phát hiện ra
+00:01:12,833 --> 00:01:14,200
+từ trong nhà bốc ra làn khói màu tím kỳ dị
 
 47
-00:01:09,633 --> 00:01:11,533
-hóa ra Suneo cũng đang cắm trại ở núi Takakage này.
+00:01:14,200 --> 00:01:15,633
+làm Nobita ngột ngạt không dám thở.
 
 48
-00:01:11,533 --> 00:01:12,933
-Suneo trông thấy hai đứa xuất hiện,
+00:01:15,633 --> 00:01:17,800
+Biết tin các bạn đều có việc bận không thể tới ăn mì,
 
 49
-00:01:12,933 --> 00:01:14,266
-lập tức bật chế độ khoe khoang khoác lác:
+00:01:17,800 --> 00:01:19,100
+Chaien liền túm lấy Nobita,
 
 50
-00:01:14,266 --> 00:01:16,233
-Cậu ta trưng ra bộ trang thiết bị cắm trại nhập khẩu từ Thụy Sĩ,
+00:01:19,100 --> 00:01:20,766
+tuyên bố sẽ đem toàn bộ số mì Ramen nấu cho cả nhóm
 
 51
-00:01:16,233 --> 00:01:18,200
-cùng miếng thịt bò Wagyu cao cấp đang xèo xèo bốc khói trên chảo gang.
+00:01:20,766 --> 00:01:21,966
+múc hết vào một tô khổng lồ để Nobita thưởng thức.
 
 52
-00:01:18,200 --> 00:01:19,733
-和牛如此豪华的配置
+00:01:21,966 --> 00:01:23,533
+Thế là Nobita vốn dĩ chỉ định ăn một bát
 
 53
-00:01:19,733 --> 00:01:21,633
-khiến Nobita và Doraemon thèm thuồng nhìn trân trối.
+00:01:23,533 --> 00:01:24,533
+vội vàng bịa lý do lủi trốn ra ngoài ngay.
 
 54
-00:01:21,633 --> 00:01:21,900
-Sau đó,
+00:01:24,533 --> 00:01:26,733
+Nhưng Chaien lại tin sái cổ lời Nobita nói,
 
 55
-00:01:21,900 --> 00:01:23,833
-Suneo xua đuổi hai kẻ đang chảy nước miếng ròng ròng kia đi chỗ khác.
+00:01:26,733 --> 00:01:28,566
+thế nên để cho những người bận không tới ăn mì được,
 
 56
-00:01:23,833 --> 00:01:25,233
-Nobita trong lòng vô cùng ấm ức bực bội.
+00:01:28,566 --> 00:01:30,333
+Chaien nảy ra một ý tưởng vô cùng tuyệt vời.
 
 57
-00:01:25,233 --> 00:01:25,866
-Không chịu thua, Nobita
+00:01:30,333 --> 00:01:31,166
+Thời gian trôi về đêm muộn,
 
 58
-00:01:25,866 --> 00:01:27,333
-dùng chiếc bút vẽ nổi 3D vẽ một miếng thịt bít tết lớn.
+00:01:31,166 --> 00:01:33,000
+một chiếc xe đẩy mì Ramen án ngữ ngay trước cổng nhà Nobita.
 
 59
-00:01:27,333 --> 00:01:28,900
-Doraemon đứng bên cạnh lập tức nhận ra điểm không ổn,
+00:01:33,000 --> 00:01:35,100
+Nobita và Doraemon nghe thấy tiếng kèn
 
 60
-00:01:28,900 --> 00:01:30,266
-đang định lên tiếng can ngăn
+00:01:35,100 --> 00:01:35,766
+gọi khách đặc trưng của xe mì Ramen,
 
 61
-00:01:30,266 --> 00:01:31,800
-thì Nobita đã cắn ngoạm một miếng thật mạnh.
+00:01:35,766 --> 00:01:37,766
+liền chạy vội ra ngoài cổng để mua mì.
 
 62
-00:01:31,800 --> 00:01:33,500
-Không hề có hương vị thịt nướng thơm ngon như tưởng tượng,
+00:01:37,766 --> 00:01:40,033
+Nào ngờ ông chủ tiệm mì nay đã biến thành Chaien, ôi trời đất ơi!
 
 63
-00:01:33,500 --> 00:01:35,400
-ngược lại nước sơn màu xanh dương phụt bắn tung tóe
+00:01:40,033 --> 00:01:41,166
+Cậu cố tình nằm vùng phục kích tụi tớ đấy à!
 
 64
-00:01:35,400 --> 00:01:36,733
-làm Nobita lấm lem đầy người đầy mặt.
+00:01:41,166 --> 00:01:41,400
+Hóa ra
 
 65
-00:01:36,733 --> 00:01:38,633
-Bởi vì đồ ăn vẽ ra thì bản chất vẫn chỉ là mực vẽ,
+00:01:41,400 --> 00:01:43,400
+ý tưởng của Chaien là mở một xe mì Ramen di động,
 
 66
-00:01:38,633 --> 00:01:39,600
-làm sao có thể ăn vào bụng được chứ.
+00:01:43,400 --> 00:01:45,200
+như thế có thể giúp các bạn bận không tới nhà ăn được
 
 67
-00:01:39,600 --> 00:01:41,433
-Kế đó Nobita và Doraemon đi ra bờ suối chơi,
+00:01:45,200 --> 00:01:46,033
+đều được phục vụ tận nơi
 
 68
-00:01:41,433 --> 00:01:42,400
-đúng lúc bắt gặp Suneo
+00:01:46,033 --> 00:01:47,933
+bát mì Ramen Chaien vừa mới ra lò nóng hổi.
 
 69
-00:01:42,400 --> 00:01:43,800
-đang thong thả chèo chiếc thuyền Kayak đơn.
+00:01:47,933 --> 00:01:49,800
+Lúc này Nobita và Doraemon mặt mũi xanh mét,
 
 70
-00:01:43,800 --> 00:01:45,033
-Nhìn thấy Nobita lại bén mảng tới gần,
+00:01:49,800 --> 00:01:52,033
+nhìn bát nước dùng nấu từ đầu cá thu đao độc lạ của Chaien.
 
 71
-00:01:45,033 --> 00:01:46,300
-Suneo đương nhiên không bỏ qua cơ hội để
+00:01:52,033 --> 00:01:53,533
+Nhưng đã lỡ sa chân vào bẫy của Chaien,
 
 72
-00:01:46,300 --> 00:01:47,333
-mỉa mai châm chọc Nobita vài câu:
+00:01:53,533 --> 00:01:55,100
+hai đứa chẳng tìm đâu ra cớ để chuồn,
 
 73
-00:01:47,333 --> 00:01:48,600
-"Cùng đi cắm trại như nhau,"
+00:01:55,100 --> 00:01:56,633
+đành phải cắn răng húp cạn bát mì.
 
 74
-00:01:48,600 --> 00:01:50,233
-"mà có người chỉ biết đứng ngơ ngác trên bờ suối,"
+00:01:56,633 --> 00:01:58,633
+Nào ngờ Doraemon ăn phải quả hạt dẻ còn nguyên gai nhọn,
 
 75
-00:01:50,233 --> 00:01:51,033
-"trông đáng thương quá đi mất!"
+00:01:58,633 --> 00:02:00,533
+đau đớn buốt nhói cả lưỡi lăn quay ra ngất xỉu.
 
 76
-00:01:51,033 --> 00:01:52,533
-Nobita với tính tình nóng nảy làm sao chịu đựng nổi,
+00:02:00,533 --> 00:02:01,166
+Còn Nobita
 
 77
-00:01:52,533 --> 00:01:54,433
-liền dùng bút vẽ lập thể vẽ ngay một chiếc xuồng Kayak.
+00:02:01,166 --> 00:02:03,133
+sau khi ăn xong tô mì cũng mặt mũi tím tái rồi ngã gục xuống sàn.
 
 78
-00:01:54,433 --> 00:01:55,666
-Doraemon còn chưa kịp ngăn cản,
+00:02:03,133 --> 00:02:04,600
+Kế đó Chaien đẩy xe mì tới nhà Yasuo.
 
 79
-00:01:55,666 --> 00:01:57,300
-Nobita đã nhảy tót lên chiếc thuyền vừa mới vẽ xong.
+00:02:04,600 --> 00:02:06,233
+Thấy Yasuo đang bị cảm cúm ho sù sụ,
 
 80
-00:01:57,300 --> 00:01:58,900
-Ngay giây tiếp theo Nobita rơi tỏm xuống nước,
+00:02:06,233 --> 00:02:07,800
+Chaien vì muốn làm ấm người cậu bạn
 
 81
-00:01:58,900 --> 00:02:00,466
-bởi vì mực vẽ của chiếc bút này là loại màu nước,
+00:02:07,800 --> 00:02:09,766
+đã nấu ngay một nồi mì Ramen đỏ rực như dung nham núi lửa.
 
 82
-00:02:00,466 --> 00:02:01,800
-cứ gặp nước là sẽ bị hòa tan biến mất ngay.
+00:02:09,766 --> 00:02:11,333
+Rồi bảo Yasuo cứ tự nhiên ăn thoải mái,
 
 83
-00:02:01,800 --> 00:02:03,033
-Dáng vẻ ướt như chuột lột của Nobita
+00:02:11,333 --> 00:02:13,133
+dù có ngon đến mức ngất xỉu cậu cũng không lấy tiền đâu.
 
 84
-00:02:03,033 --> 00:02:04,300
-lại tiếp tục làm trò cười cho Suneo chế giễu.
+00:02:13,133 --> 00:02:14,400
+Lúc này Suneo đi dạo ra ngoài đường,
 
 85
-00:02:04,300 --> 00:02:06,300
-Thất bại liên tiếp hai lần khiến Nobita hoàn toàn không phục.
+00:02:14,400 --> 00:02:16,333
+thấy nhóm bạn học đều đang nằm la liệt khắp nơi,
 
 86
-00:02:06,300 --> 00:02:08,066
-Thấy trên bờ và dưới nước đều không sơ múi được gì,
+00:02:16,333 --> 00:02:17,966
+trên tay mỗi người vẫn ôm khư khư bát mì Ramen.
 
 87
-00:02:08,066 --> 00:02:10,033
-Nobita dứt khoát hướng tầm mắt lên trời cao.
+00:02:17,966 --> 00:02:19,233
+Suneo lập tức nhận ra điều bất thường,
 
 88
-00:02:10,033 --> 00:02:11,800
-Cậu dùng bút vẽ nổi 3D vẽ một chiếc khinh khí cầu.
+00:02:19,233 --> 00:02:21,133
+but tiếng kèn của xe mì Ramen đã vang lên sát bên tai.
 
 89
-00:02:11,800 --> 00:02:12,733
-Hai đứa trèo vào trong giỏ treo,
+00:02:21,133 --> 00:02:23,300
+Trông thấy bóng dáng đáng sợ của Chaien lù lù xuất hiện,
 
 90
-00:02:12,733 --> 00:02:13,833
-chiếc khinh khí cầu từ từ bay lên bầu trời.
+00:02:23,300 --> 00:02:25,000
+Suneo vắt chân lên cổ chạy thục mạng theo hướng ngược lại.
 
 91
-00:02:13,833 --> 00:02:16,266
-Không chỉ dễ dàng vượt mặt chiếc xuồng Kayak của Suneo phía dưới,
+00:02:25,000 --> 00:02:25,300
+Nào ngờ
 
 92
-00:02:16,266 --> 00:02:17,700
-Nobita còn thò đầu ra làm mặt quỷ trêu chọc Suneo,
+00:02:25,300 --> 00:02:27,300
+trên mọi ngóc ngách của các con đường đều đã có người nằm xỉu la liệt.
 
 93
-00:02:17,700 --> 00:02:18,733
-trong lòng vô cùng hả hê trút giận.
+00:02:27,300 --> 00:02:29,166
+May mà xe mì của Chaien luôn phát ra tiếng kèn báo trước,
 
 94
-00:02:18,733 --> 00:02:20,333
-Tuy nhiên, thời tiết trong núi thay đổi thất thường,
+00:02:29,166 --> 00:02:30,566
+giúp Suneo kịp thời né tránh đường đi của cậu ta
 
 95
-00:02:20,333 --> 00:02:21,666
-một cơn gió lớn bỗng rít lên thổi qua dữ dội.
+00:02:30,566 --> 00:02:31,833
+để chạy thoát về đến nhà mình.
 
 96
-00:02:21,666 --> 00:02:23,400
-Do khinh khí cầu tự chế không có thiết bị điều khiển hướng đi,
+00:02:31,833 --> 00:02:33,400
+But ngay khi Suneo chuẩn bị đi du lịch nước ngoài để trốn nạn,
 
 97
-00:02:23,400 --> 00:02:25,700
-hai đứa bị gió mạnh cuốn bay thẳng vào sâu trong rừng rậm hoang vu.
+00:02:33,400 --> 00:02:35,500
+vừa khóa chặt cửa nhà và thở phào tưởng đã an toàn,
 
 98
-00:02:25,700 --> 00:02:27,100
-May mắn thay chiếc khinh khí cầu bị mắc kẹt trên cành cây cổ thụ,
+00:02:35,500 --> 00:02:37,033
+thì Chaien bỗng lù lù đứng sừng sững ngay phía sau lưng.
 
 99
-00:02:27,100 --> 00:02:28,700
-hai đứa nhờ thế mới may mắn thoát nạn.
+00:02:37,033 --> 00:02:38,566
+Kế đó, để chữa dứt điểm bệnh đau đầu của Suneo,
 
 100
-00:02:28,700 --> 00:02:29,500
-Trong lúc Nobita và Doraemon
+00:02:38,566 --> 00:02:40,566
+Chaien dứt khoát bưng ra tô mì Ramen hầm thuốc bắc,
 
 101
-00:02:29,500 --> 00:02:30,933
-đang loay hoay tìm đường quay trở lại营địa,
+00:02:40,566 --> 00:02:42,033
+ân cần bảo Suneo ăn nóng cho khỏe.
 
 102
-00:02:30,933 --> 00:02:32,300
-thì đột nhiên chạm trán một con gấu đen hoang dã.
+00:02:42,033 --> 00:02:44,233
+Một lát sau Suneo ngã gục ngay trước thềm nhà mình.
 
 103
-00:02:32,300 --> 00:02:33,533
-Hai đứa sợ hãi vắt chân lên cổ chạy thục mạng.
+00:02:44,233 --> 00:02:46,233
+Khắp hang cùng ngõ hẻm trong thị trấn đều vang vọng tiếng kèn của Chaien
 
 104
-00:02:33,533 --> 00:02:35,500
-Khổ nỗi trước mặt lại là một bờ vực sâu không thấy đáy.
+00:02:46,233 --> 00:02:47,966
+cùng tiếng la oai oái khóc thét của đám bạn nhỏ.
 
 105
-00:02:35,500 --> 00:02:36,100
-Trong cái khó ló cái khôn, Nobita
+00:02:47,966 --> 00:02:48,600
+Một tuần sau đó,
 
 106
-00:02:36,100 --> 00:02:37,933
-dùng bút vẽ nổi 3D vội vàng vẽ một chiếc cầu treo.
+00:02:48,600 --> 00:02:50,433
+nhóm bạn tụ tập ngoài bãi đất trống bàn phương án đối phó.
 
 107
-00:02:37,933 --> 00:02:39,300
-Nhìn con gấu đen đang lừng lững tiến lại gần,
+00:02:50,433 --> 00:02:51,566
+Ngay cả Shizuka cũng tủi thân đến mức
 
 108
-00:02:39,300 --> 00:02:40,800
-Doraemon lo lắng đến mức mồ hôi đầm đìa,
+00:02:51,566 --> 00:02:53,633
+rơi nước mắt, Nobita và Doraemon vẫn chưa nghĩ ra cách gì.
 
 109
-00:02:40,800 --> 00:02:42,533
-không màng đến việc cầu treo đã vẽ xong hay chưa,
+00:02:53,633 --> 00:02:55,366
+Đúng lúc tiếng kèn quen thuộc lại réo rắt vang lên.
 
 110
-00:02:42,533 --> 00:02:44,100
-liền giục giã Nobita lao nhanh qua vực thẳm.
+00:02:55,366 --> 00:02:57,433
+Lúc này Nobita và Doraemon biết Chaien sắp sửa đi tới.
 
 111
-00:02:44,100 --> 00:02:46,200
-Vào khoảnh khắc nghìn cân treo sợi tóc, cầu treo định hình kịp thời đỡ lấy hai đứa.
+00:02:57,433 --> 00:02:59,200
+But khi Chaien đẩy xe mì tới bãi đất trống,
 
 112
-00:02:46,200 --> 00:02:48,133
-Nhưng con gấu đen cũng bắt đầu bò theo cầu treo qua bờ bên kia.
+00:02:59,200 --> 00:03:00,800
+thì nhóm bạn đều đã biến mất không còn một bóng người.
 
 113
-00:02:48,133 --> 00:02:49,900
-Đầu cầu bên kia do không chịu nổi sức nặng khổng lồ
+00:03:00,800 --> 00:03:02,400
+Hóa ra mọi người đã lập mưu kế:
 
 114
-00:02:49,900 --> 00:02:50,933
-đã lập tức đứt phăng ra làm đôi.
+00:03:02,400 --> 00:03:04,133
+chỉ cần nghe thấy tiếng kèn là lập tức tìm chỗ trốn,
 
 115
-00:02:50,933 --> 00:02:52,500
-Nobita và Doraemon vội vàng bám vào dây cầu
+00:03:04,133 --> 00:03:05,366
+nhờ vậy sẽ tránh được việc đụng mặt Chaien.
 
 116
-00:02:52,500 --> 00:02:53,533
-trèo lên vách đá bên kia vực thẳm.
+00:03:05,366 --> 00:03:07,233
+Thế là Chaien không tìm thấy ai nên vô cùng ỉu xìu thất vọng.
 
 117
-00:02:53,533 --> 00:02:54,933
-But chưa kịp thở phào nhẹ nhõm,
+00:03:07,233 --> 00:03:08,800
+Nhưng ngay khi cậu ta nản chí định dẹp xe mì đi về,
 
 118
-00:02:54,933 --> 00:02:56,633
-con gấu đen cũng bám theo leo được lên đỉnh vách đá,
+00:03:08,800 --> 00:03:10,233
+thì ông chủ tiệm mì Ramen năm xưa bỗng nhiên đi tới.
 
 119
-00:02:56,633 --> 00:02:58,066
-tiếp tục rượt đuổi hai đứa không buông.
+00:03:10,233 --> 00:03:11,700
+Biết Chaien đang rầu rĩ vì xe mì không có khách,
 
 120
-00:02:58,066 --> 00:03:00,133
-Hai đứa sợ hãi rúc sâu vào một khe nứt đá hẹp để lánh nạn.
+00:03:11,700 --> 00:03:13,133
+ông chủ lại ân cần truyền dạy kinh nghiệm bán hàng.
 
 121
-00:03:00,133 --> 00:03:02,000
-Con gấu đen ở ngoài khe đá điên cuồng cào cấu gầm rú giận dữ.
+00:03:13,133 --> 00:03:14,733
+Tức thì làm Chaien hiểu ra nguyên nhân thất bại.
 
 122
-00:03:02,000 --> 00:03:03,233
-Nobita bỗng nhiên nảy ra một ý tưởng lóe sáng:
+00:03:14,733 --> 00:03:16,633
+Hơn nữa nhờ cửa tiệm của mình giờ đã đông khách trở lại,
 
 123
-00:03:03,233 --> 00:03:03,633
-Cậu dùng chiếc
+00:03:16,633 --> 00:03:18,633
+ông chủ liền tặng luôn chiếc kèn gọi khách cho Chaien.
 
 124
-00:03:03,633 --> 00:03:05,666
-bút vẽ nổi 3D vẽ một chú khỉ đột có khuôn mặt giống hệt Chaien.
+00:03:18,633 --> 00:03:20,833
+Lúc này Nobita đang rủ Doraemon trốn đi nước ngoài giống Suneo,
 
 125
-00:03:05,666 --> 00:03:07,500
-Phải nói là chú khỉ đột Chaien này có sức chiến đấu cực kỳ dũng mãnh,
+00:03:20,833 --> 00:03:22,800
+ai dè nửa đường đụng độ trực diện xe mì của Chaien.
 
 126
-00:03:07,500 --> 00:03:09,333
-vừa xuất hiện đã gầm lên một tiếng vang dội chấn động núi rừng,
+00:03:22,800 --> 00:03:24,433
+Chấy hai đứa vừa thấy mình đã quay đầu bỏ chạy,
 
 127
-00:03:09,333 --> 00:03:11,233
-vung tay tẩn cho con gấu đen vài phát làm nó co giò chạy mất dép.
+00:03:24,433 --> 00:03:26,133
+Chaien dứt khoát đưa kèn lên miệng thổi vang.
 
 128
-00:03:11,233 --> 00:03:12,333
-Nhờ có chú khỉ đột hộ vệ che chở,
+00:03:26,133 --> 00:03:27,800
+Tiếng kèn ép buộc khống chế cơ thể hai đứa
 
 129
-00:03:12,333 --> 00:03:13,633
-hai đứa cuối cùng cũng thoát chết trong gang tấc.
+00:03:27,800 --> 00:03:29,166
+tự động bước giật lùi quay trở lại xe mì.
 
 130
-00:03:13,633 --> 00:03:14,800
-Họ đi men theo dòng suối nhỏ để quay trở lại营địa.
+00:03:29,166 --> 00:03:30,200
+Khi bát mì Ramen được dâng lên bàn,
 
 131
-00:03:14,800 --> 00:03:16,500
-Lúc này bố đã câu được mấy con cá lớn,
+00:03:30,200 --> 00:03:31,533
+Chaien để tuân thủ bài học của ông chủ
 
 132
-00:03:16,500 --> 00:03:18,266
-mẹ cũng hái được một giỏ đầy nấm dại tươi ngon.
+00:03:31,533 --> 00:03:32,766
+rằng bán hàng không được ép buộc khách hàng,
 
 133
-00:03:18,266 --> 00:03:18,533
-Tuy nhiên,
+00:03:32,766 --> 00:03:34,800
+liền nở một nụ cười tươi roi rói mời Nobita thưởng thức.
 
 134
-00:03:18,533 --> 00:03:20,466
-ngay khi cả nhà chuẩn bị nhóm lửa để nấu nướng,
+00:03:34,800 --> 00:03:36,233
+Nobita run rẩy khẽ bảo: "Nét mặt cậu ta làm sao thế kia?"
 
 135
-00:03:20,466 --> 00:03:23,033
-Suneo nhân lúc mọi người không chú ý đã âm thầm giật lấy chiếc bút vẽ lập thể.
+00:03:36,233 --> 00:03:37,766
+Cứ nhìn chằm chằm vào tụi mình thế này trông đáng sợ quá đi mất!"
 
 136
-00:03:23,033 --> 00:03:23,833
-Cậu ta tự tin thể hiện kỹ năng hội họa của mình,
+00:03:37,766 --> 00:03:39,400
+Đúng lúc Chaien lại thổi kèn gọi khách một phát,
 
 137
-00:03:23,833 --> 00:03:25,633
-vẽ ngay trên bãi đất trống một ngôi nhà trên cây vô cùng sang chảnh.
+00:03:39,400 --> 00:03:41,666
+lôi tuột Haruo đang bị đau bụng chưa khỏi đến xe mì,
 
 138
-00:03:25,633 --> 00:03:27,033
-Nào ngờ thời tiết lại trêu đùa con người,
+00:03:41,700 --> 00:03:43,500
+bê ra bát mì Ramen đặc chế trị đau bụng,
 
 139
-00:03:27,033 --> 00:03:28,733
-bầu trời bỗng đổ một trận mưa rào như trút nước.
+00:03:43,500 --> 00:03:45,000
+ân cần bảo Haruo ăn nhanh cho nóng.
 
 140
-00:03:28,733 --> 00:03:31,100
-Gia đình Nobita nhờ dựng lều dưới tán cây cổ thụ rậm rạp
+00:03:45,000 --> 00:03:46,300
+Lúc này Nobita mới chợt nhận ra sự thật đáng sợ:
 
 141
-00:03:31,100 --> 00:03:32,700
-nên vẫn bình an vô sự ngồi thưởng thức món cá nướng thơm phức.
+00:03:46,300 --> 00:03:46,933
+Chiếc kèn gọi khách này
 
 142
-00:03:32,700 --> 00:03:34,033
-Còn Suneo thì thảm hại hết chỗ nói:
+00:03:46,933 --> 00:03:48,600
+sẽ bắt những người trong tương lai phải làm khách hàng đúng không?
 
 143
-00:03:34,033 --> 00:03:35,466
-Ngôi nhà trên cây bằng mực vẽ bắt đầu tan chảy dần trong cơn mưa bão,
+00:03:48,600 --> 00:03:50,533
+Đúng vậy, thế nên số phận của tụi mình
 
 144
-00:03:35,466 --> 00:03:37,300
-cả nhà ba người Suneo phải bấu víu vào cành cây gào khóc cầu cứu thảm thiết.
+00:03:50,533 --> 00:03:51,633
+là ngày nào cũng phải ăn mì Ramen Chaien nấu rồi!
 
 145
-00:03:37,300 --> 00:03:39,133
-Trong khi đó, chú khỉ đột khuôn mặt Chaien thì đang trú mưa trong chiếc lều Thụy Sĩ sang trọng của Suneo
+00:03:51,633 --> 00:03:52,766
+Thấy Suneo chạy vụt qua trước mặt,
 
 146
-00:03:39,133 --> 00:03:39,733
-và thưởng thức bữa tiệc đồ nướng ngon lành của cậu ta.
+00:03:52,766 --> 00:03:54,600
+Nobita và Doraemon nhận ra cậu ta
+
+147
+00:03:54,600 --> 00:03:55,133
+vẫn luôn đóng chặt cửa trốn ở trong nhà.
+
+148
+00:03:55,133 --> 00:03:57,100
+But Chaien lại tưởng Suneo vừa đi nước ngoài về,
+
+149
+00:03:57,100 --> 00:03:58,333
+liền đặc biệt nấu một tô mì Ramen
+
+150
+00:03:58,333 --> 00:03:59,700
+đặc sản Natto đậu nành lên men siêu thối của Nhật Bản.
+
+151
+00:03:59,700 --> 00:04:01,800
+Làn khói thối hoắc lập tức làm mặt ba đứa xám ngoét lại.
+
+152
+00:04:01,800 --> 00:04:03,633
+Nhưng cũng chỉ biết ngậm ngùi ăn hết sạch không còn một cọng.
+
+153
+00:04:03,633 --> 00:04:04,333
+Hai tuần sau đó,
+
+154
+00:04:04,333 --> 00:04:06,333
+nhóm bạn lại tụ tập ngoài bãi đất trống bàn cách đối phó.
+
+155
+00:04:06,333 --> 00:04:07,733
+Doraemon lấy ra bảo bối "Huy hiệu bốn mùa",
+
+156
+00:04:07,733 --> 00:04:09,366
+điều chỉnh thời tiết khu vực sang mùa hè nóng nực.
+
+157
+00:04:09,366 --> 00:04:10,733
+Như vậy giữa mùa hè nắng nóng oi bức,
+
+158
+00:04:10,733 --> 00:04:12,500
+đến cả Chaien cũng không thể đứng bên bếp nóng nấu mì được.
+
+159
+00:04:12,500 --> 00:04:14,533
+Thế là để Chaien không tiếp tục hành hạ mọi người nữa,
+
+160
+00:04:14,533 --> 00:04:16,400
+nhóm Doraemon bốn người quyết định dẫu trời nắng cháy da
+
+161
+00:04:16,400 --> 00:04:17,133
+cũng phải rải các huy hiệu bốn mùa
+
+162
+00:04:17,133 --> 00:04:18,733
+phủ kín khắp hang cùng ngõ hẻm trong thị trấn.
+
+163
+00:04:18,733 --> 00:04:20,133
+Từ đó mùa hè nhân tạo oi ả đã ngập tràn khắp nơi,
+
+164
+00:04:20,133 --> 00:04:21,366
+ai nấy đều mồ hôi đầm đìa nóng nực,
+
+165
+00:04:21,366 --> 00:04:22,700
+đến cả Chaien cũng không chịu nổi cái nóng.
+
+166
+00:04:22,700 --> 00:04:24,933
+Cậu ta đành tuyên bố xe mì Ramen di động
+
+167
+00:04:24,933 --> 00:04:25,600
+chính thức đóng cửa nghỉ bán.
+
+168
+00:04:25,600 --> 00:04:25,800
+But
+
+169
+00:04:25,800 --> 00:04:27,833
+ngay khi nhóm bạn đang hí hửng tưởng mưu kế thành công,
+
+170
+00:04:27,833 --> 00:04:29,333
+tiếng kèn gọi khách đột nhiên lại thổi vang.
+
+171
+00:04:29,333 --> 00:04:31,200
+Ép buộc nhóm Nobita bốn người phải đi tới xe đẩy.
+
+172
+00:04:31,200 --> 00:04:33,200
+Hóa ra Chaien thực sự đã bỏ nấu mì Ramen nóng,
+
+173
+00:04:33,200 --> 00:04:34,200
+nhưng cậu ta lại chuyển sang làm
+
+174
+00:04:34,200 --> 00:04:35,433
+món "Mì lạnh Trung Hoa" siêu hợp với mùa hè!
+
+175
+00:04:35,433 --> 00:04:36,033
+Và đặc biệt chuẩn bị
+
+176
+00:04:36,033 --> 00:04:37,666
+chiêu đãi những người bạn thân thiết của mình ăn thử.

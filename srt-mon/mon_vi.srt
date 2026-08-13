@@ -1,567 +1,727 @@
 1
-00:00:00,066 --> 00:00:01,766
-Một con mèo ú màu vàng tròn trùng trục bay vào phòng,
+00:00:00,100 --> 00:00:02,100
+Doraemon đặt chú búp bê Tướng quân lẩu lên cạnh nồi,
 
 2
-00:00:01,766 --> 00:00:03,100
-khiến Nobita sợ hãi đơ người tại chỗ.
+00:00:02,100 --> 00:00:04,066
+chú búp bê lập tức ngăn cản ông giám đốc đang định bỏ thịt vào nồi.
 
 3
-00:00:03,100 --> 00:00:04,566
-"Thằng nhóc ngốc nghếch này, ngay cả tớ mà cậu cũng không nhận ra sao?"
+00:00:04,066 --> 00:00:05,733
+Vậy chiếc Tướng quân lẩu này rốt cuộc là có tác dụng gì?
 
 4
-00:00:04,566 --> 00:00:06,300
-"Cậu... chẳng lẽ cậu là Doraemon bị đột biến gen đấy chứ?"
+00:00:05,733 --> 00:00:07,666
+Nói một cách đơn giản, nó chuyên trị những kẻ
 
 5
-00:00:06,300 --> 00:00:07,000
-"Chờ tớ một chút."
+00:00:07,666 --> 00:00:09,300
+cứ hễ ăn lẩu là lại thích chỉ tay năm ngón dạy bảo người khác.
 
 6
-00:00:07,000 --> 00:00:08,600
-Con mèo ú màu vàng ngay lập tức biến trở lại thành Doraemon xanh lè.
+00:00:09,300 --> 00:00:10,733
+Ví dụ như ông giám đốc đang tới làm khách kia.
 
 7
-00:00:08,600 --> 00:00:09,533
-Nobita trong lòng vô cùng tò mò thèm thuồng,
+00:00:10,733 --> 00:00:12,066
+Tướng quân lẩu lập tức tuyên bố
 
 8
-00:00:09,533 --> 00:00:10,666
-gặng hỏi cậu ấy làm cách nào mà có bản lĩnh đó.
+00:00:12,066 --> 00:00:14,133
+bữa lẩu Sukiyaki nhà Nobita từ giờ sẽ do nó quản lý.
 
 9
-00:00:10,666 --> 00:00:11,666
-"Cho cậu xem món bảo bối này."
+00:00:14,133 --> 00:00:15,866
+Chỉ thấy nó dùng đũa gắp một miếng thịt bỏ vào nồi,
 
 10
-00:00:11,666 --> 00:00:13,000
-"Đây là lọ 'Bình xịt biến hình vạn năng'."
+00:00:15,866 --> 00:00:17,800
+chờ đến khi thịt xèo xèo bốc khói thì rắc thêm chút đường,
 
 11
-00:00:13,000 --> 00:00:14,000
-"Chỉ cần xịt nó lên người,"
+00:00:17,800 --> 00:00:19,333
+tiếp đó rưới thêm nước tương và rượu trắng,
 
 12
-00:00:14,000 --> 00:00:15,566
-"bạn sẽ lập tức biến thành vật thể đầu tiên mà mũi bạn chạm vào."
+00:00:19,333 --> 00:00:20,266
+nói rằng làm như thế mới thưởng thức được
 
 13
-00:00:15,566 --> 00:00:17,100
-Nobita cảm thấy món bảo bối này quá đỗi thú vị,
+00:00:20,266 --> 00:00:21,733
+môn thịt nướng chuẩn vị Kansai chính tông nhất.
 
 14
-00:00:17,100 --> 00:00:18,200
-chắc chắn Shizuka cũng sẽ thích cho mà xem.
+00:00:21,733 --> 00:00:23,666
+Mọi người đầy mong đợi gắp thịt bỏ vào miệng,
 
 15
-00:00:18,200 --> 00:00:19,666
-Thế là hai anh em liền lập tức đi ra ngoài tìm cô bạn.
+00:00:23,666 --> 00:00:25,333
+hương vị thơm ngon khiến ai nấy đều sáng mắt ra.
 
 16
-00:00:19,666 --> 00:00:20,666
-Khi đi ngang qua bãi đất trống quen thuộc,
+00:00:25,333 --> 00:00:27,066
+Ngay cả ông giám đốc vừa rồi còn săm soi đủ thứ,
 
 17
-00:00:20,666 --> 00:00:22,600
-họ nhìn thấy Shizuka dường như đang gặp phải rắc rối gì đó.
+00:00:27,066 --> 00:00:28,800
+lần này cũng chẳng thể tìm ra được điểm nào để chê.
 
 18
-00:00:22,600 --> 00:00:24,333
-Một cô bé người nước ngoài đang khóc rất thảm thiết.
+00:00:28,800 --> 00:00:31,133
+Sau đó, Tướng quân lẩu bỏ toàn bộ phần thịt còn lại vào nồi,
 
 19
-00:00:24,333 --> 00:00:25,533
-"Cô bé có vẻ như đang gặp khó khăn gì đó,"
+00:00:31,133 --> 00:00:33,166
+rồi xếp thêm những cọng rau tươi xanh mơn mởn vào,
 
 20
-00:00:25,533 --> 00:00:26,933
-"nhưng tớ lại không hiểu cô bé đang nói gì cả."
+00:00:33,166 --> 00:00:34,300
+nêm nếm các loại gia vị,
 
 21
-00:00:26,933 --> 00:00:27,666
-"Chuyện đó thì có gì khó chứ."
+00:00:34,300 --> 00:00:34,800
+Một nồi lẩu
 
 22
-00:00:27,666 --> 00:00:29,100
-"Hãy ăn thử miếng 'Bánh mì chuyển ngữ' này đi."
+00:00:34,800 --> 00:00:35,566
+trông hấp dẫn đến mức
 
 23
-00:00:29,100 --> 00:00:30,333
-Sau khi ba người nuốt miếng bánh mì dịch thuật vào bụng,
+00:00:35,566 --> 00:00:37,200
+chảy nước miếng đã hoàn thành mỹ mãn.
 
 24
-00:00:30,333 --> 00:00:32,266
-cô bé đã có thể nghe và hiểu được những lời họ nói.
+00:00:37,200 --> 00:00:38,866
+Gia đình Nobita đánh chén vô cùng ngon lành,
 
 25
-00:00:32,266 --> 00:00:33,733
-Hóa ra cô bé đã bị lạc mất bố mẹ của mình.
+00:00:38,866 --> 00:00:40,200
+miệng liên tục khen ngợi ngon quá.
 
 26
-00:00:33,733 --> 00:00:34,900
-Shizuka ân cần an ủi cô bé đừng lo lắng:
+00:00:40,200 --> 00:00:42,333
+Ông giám đốc vẻ mặt rõ ràng vẫn còn vẻ không phục,
 
 27
-00:00:34,900 --> 00:00:35,966
-"Ba anh chị đều không phải người xấu đâu,
+00:00:42,333 --> 00:00:43,500
+nhưng khi gắp thêm một miếng thịt nữa
 
 28
-00:00:35,966 --> 00:00:36,966
-chắc chắn sẽ giúp em tìm lại được người thân."
+00:00:43,500 --> 00:00:44,866
+và ăn kèm một miếng rau xanh,
 
 29
-00:00:36,966 --> 00:00:38,533
-Đúng lúc này, Doraemon chú ý thấy một chú chú chó nhỏ chạy qua.
+00:00:44,866 --> 00:00:46,800
+lập tức bị hương vị ấm áp lan tỏa từ đầu lưỡi vào tim này
 
 30
-00:00:38,533 --> 00:00:39,866
-"Hãy xịt thử bình xịt biến hình vạn năng này trước xem sao."
+00:00:46,800 --> 00:00:47,866
+chinh phục hoàn toàn.
 
 31
-00:00:39,866 --> 00:00:40,700
-"Chú chó nhỏ ơi xin chào nha,
+00:00:47,866 --> 00:00:49,466
+Lần này thì ông giám đốc hoàn toàn tâm phục khẩu phục.
 
 32
-00:00:40,700 --> 00:00:41,666
-tớ muốn chạm mũi với cậu một chút."
+00:00:49,466 --> 00:00:50,866
+Nobita nghe nói Tướng quân lẩu
 
 33
-00:00:41,666 --> 00:00:43,133
-Người ta thường nói chó với mèo ghét nhau xúc đất đổ đi,
+00:00:50,866 --> 00:00:52,266
+có thể biến bất kỳ nồi lẩu nào trở nên ngon lành,
 
 34
-00:00:43,133 --> 00:00:44,666
-không ngờ hai đứa lại có thể kết đôi thân thiết đến thế.
+00:00:52,266 --> 00:00:53,066
+lập tức nhớ ngay đến
 
 35
-00:00:44,666 --> 00:00:46,300
-Doraemon biến hình thành một chú "Dora-Shiba" (chó Shiba Doraemon),
+00:00:53,066 --> 00:00:54,400
+bữa lẩu hôm qua ăn ở nhà Chaien.
 
 36
-00:00:46,300 --> 00:00:47,866
-hơn nữa trong miệng còn ngậm một khúc xương.
+00:00:54,400 --> 00:00:56,366
+Nồi lẩu đó dở tệ đến mức muốn nôn ra ngoài.
 
 37
-00:00:47,866 --> 00:00:49,333
-Nhìn kỹ lại thì thấy hình dáng này chẳng có gì kỳ cục cả,
+00:00:56,366 --> 00:00:57,733
+Lúc đó bọn họ chơi trò lẩu bóng đêm,
 
 38
-00:00:49,333 --> 00:00:50,733
-ngược lại trông cậu ấy còn vô cùng đáng yêu nữa chứ.
+00:00:57,733 --> 00:00:58,500
+tức là tắt đèn rồi tự ý ném
 
 39
-00:00:50,733 --> 00:00:52,600
-Cô bé lấy từ trong túi áo ra chiếc khăn tay của mẹ,
+00:00:58,500 --> 00:01:00,400
+đủ thứ linh tinh mình mang tới vào trong nồi,
 
 40
-00:00:52,600 --> 00:00:54,500
-đưa đến trước mũi Doraemon bảo cậu ngửi thử.
+00:01:00,400 --> 00:01:02,266
+sau đó cứ mò mẫm gắp trúng cái gì thì phải ăn cái đó.
 
 41
-00:00:54,500 --> 00:00:55,566
-Doraemon sau khi biến thành chú chó nhỏ,
+00:01:02,266 --> 00:01:03,000
+Kết quả là ai nấy đều
 
 42
-00:00:55,566 --> 00:00:56,266
-rất nhanh đã có thể
+00:01:03,000 --> 00:01:04,466
+ăn phải những thứ quái dị không thể nhận dạng nổi.
 
 43
-00:00:56,266 --> 00:00:57,400
-ghi nhớ mùi hương đặc trưng
+00:01:04,466 --> 00:01:06,400
+Nobita thậm chí còn cảm giác như mình đang nhai một khúc gỗ.
 
 44
-00:00:57,400 --> 00:00:58,200
-của mẹ cô bé vào trong não bộ.
+00:01:06,400 --> 00:01:07,666
+Đến khi Doraemon bật đèn lên,
 
 45
-00:00:58,200 --> 00:01:00,266
-Doraemon lần theo mùi hương đó chạy đi tìm kiếm,
+00:01:07,666 --> 00:01:08,800
+tất cả mọi người đều ngớ người đứng hình:
 
 46
-00:01:00,266 --> 00:01:01,966
-nhóm bạn Nobita cũng bước ngắn bước dài đuổi sát phía sau.
+00:01:08,800 --> 00:01:10,933
+Trong nồi tự dưng có một con gà gỗ và cả thanh sô-cô-la,
 
 47
-00:01:01,966 --> 00:01:02,866
-Khi đi qua công viên,
+00:01:10,933 --> 00:01:12,200
+chẳng biết là do kẻ nào ném vào nữa.
 
 48
-00:01:02,866 --> 00:01:04,100
-họ nhìn thấy một đám đông đang vây kín xung quanh.
+00:01:12,200 --> 00:01:13,766
+Bao nhiêu nguyên liệu ngon lành đều bị hủy hoại sạch.
 
 49
-00:01:04,100 --> 00:01:05,933
-Doraemon chẳng nói chẳng rằng liền len lỏi chui vào giữa đám đông.
+00:01:13,766 --> 00:01:15,733
+Đã thế Chaien còn ép buộc mọi người phải ăn sạch
 
 50
-00:01:05,933 --> 00:01:07,000
-Ai ngờ do lao vào quá mạnh,
+00:01:15,733 --> 00:01:16,333
+đống đồ đó vào bụng,
 
 51
-00:01:07,000 --> 00:01:08,933
-đầu cậu đâm sầm trực tiếp vào mông một võ sĩ Sumo.
+00:01:16,333 --> 00:01:17,366
+đúng là vô lý hết sức.
 
 52
-00:01:08,933 --> 00:01:09,500
-Chỉ trong chớp mắt,
+00:01:17,366 --> 00:01:18,533
+Thế nên Nobita mới định bụng rằng
 
 53
-00:01:09,500 --> 00:01:10,700
-Doraemon đang ở hình dạng chú chó nhỏ
+00:01:18,533 --> 00:01:19,400
+lần này sẽ mang chiếc Tướng quân
 
 54
-00:01:10,700 --> 00:01:12,300
-đã biến thành một võ sĩ Sumo béo ú.
+00:01:19,400 --> 00:01:20,800
+lẩu theo để chơi lại trò lẩu bóng đêm.
 
 55
-00:01:12,300 --> 00:01:13,733
-Cảnh tượng này không chỉ khiến người dẫn chương trình đứng hình kinh ngạc,
+00:01:20,800 --> 00:01:22,666
+Hôm sau, nhóm bạn lại tụ tập qua nhà Chaien.
 
 56
-00:01:13,733 --> 00:01:15,000
-mà ngay cả Nobita và Shizuka
+00:01:22,666 --> 00:01:24,600
+Ngờ đâu Nobita vừa đi đến cổng đã bị sẩy chân ngã oạch,
 
 57
-00:01:15,000 --> 00:01:16,133
-cũng há hốc mồm câm nín không nói nên lời.
+00:01:24,600 --> 00:01:26,733
+chú búp bê Tướng quân lẩu rơi xuống đội chặt ngay trên đầu cậu,
 
 58
-00:01:16,133 --> 00:01:17,766
-Doraemon nhanh chóng nhập vai võ sĩ Sumo,
+00:01:26,733 --> 00:01:27,766
+cố gỡ thế nào cũng không chịu ra.
 
 59
-00:01:17,766 --> 00:01:19,133
-giơ chân lên nện bộp bộp xuống đất để khởi động.
+00:01:27,766 --> 00:01:29,133
+Lúc này Chaien ở trong nhà hét vọng ra:
 
 60
-00:01:19,133 --> 00:01:20,733
-Khán giả xung quanh vừa vỗ tay rào rào vừa reo hò cổ vũ.
+00:01:29,133 --> 00:01:30,133
+"Lề mề cái gì thế hả?
 
 61
-00:01:20,733 --> 00:01:21,800
-Dáng vẻ này trông đáng yêu quá đi mất.
+00:01:30,133 --> 00:01:31,266
+Mau vào đây chuẩn bị ăn lẩu đi!"
 
 62
-00:01:21,800 --> 00:01:23,366
-"Màn biểu diễn lúc nãy thực sự quá xuất sắc!"
+00:01:31,266 --> 00:01:32,466
+Vừa nghe thấy từ "ăn lẩu",
 
 63
-00:01:23,366 --> 00:01:24,700
-"Ở đây chuẩn bị sẵn rất nhiều cơm nắm,
+00:01:32,466 --> 00:01:33,800
+Tướng quân lẩu lập tức kích hoạt,
 
 64
-00:01:24,700 --> 00:01:25,366
-mọi người cứ tự nhiên ăn thoải mái nha,
+00:01:33,800 --> 00:01:35,766
+điều khiển cơ thể Nobita đẩy Chaien đứng dẹp sang một bên.
 
 65
-00:01:25,366 --> 00:01:27,366
-không phải khách sáo đâu!" Doraemon há to miệng chờ được đút ăn,
+00:01:35,766 --> 00:01:36,800
+Chaien đời nào chịu lép vế,
 
 66
-00:01:27,366 --> 00:01:28,166
-hoàn toàn không từ chối chút nào.
+00:01:36,800 --> 00:01:38,900
+kết quả bị Tướng quân lẩu vung quạt cốc vào đầu một phát,
 
 67
-00:01:28,166 --> 00:01:28,900
-Chỉ trong một thoáng chốc,
+00:01:38,900 --> 00:01:40,966
+tuyên bố: "Nồi lẩu bóng đêm từ giờ do ta cai quản!"
 
 68
-00:01:28,900 --> 00:01:30,533
-miệng cậu đã nhét đầy cơm nắm đến mức phồng to không nhét thêm được nữa.
+00:01:40,966 --> 00:01:42,366
+Tướng quân lẩu bắn tia sáng quét từ mắt ra,
 
 69
-00:01:30,533 --> 00:01:31,700
-Doraemon nín thở một phát,
+00:01:42,366 --> 00:01:43,966
+lần lượt kiểm tra nguyên liệu mọi người mang tới.
 
 70
-00:01:31,700 --> 00:01:32,966
-dứt khoát nuốt chửng toàn bộ đống cơm nắm vào bụng.
+00:01:43,966 --> 00:01:46,366
+Quả nhiên phát hiện ra một con gà gỗ từ chỗ Chaien.
 
 71
-00:01:32,966 --> 00:01:33,933
-Nhìn thân hình nhỏ bé thế kia
+00:01:46,366 --> 00:01:47,900
+Hóa ra thủ phạm phá hoại lần trước chính là cậu ta.
 
 72
-00:01:33,933 --> 00:01:34,933
-mà sức ăn thì đúng là không hề nhỏ chút nào.
+00:01:47,900 --> 00:01:49,366
+Tiếp đó, Tướng quân lẩu điều khiển Nobita
 
 73
-00:01:34,933 --> 00:01:35,733
-Kết quả là có một hạt cơm
+00:01:49,366 --> 00:01:50,333
+nêm nếm gia vị vào nồi lẩu.
 
 74
-00:01:35,733 --> 00:01:37,533
-voin tình dính vào ngay đầu mũi của Doraemon.
+00:01:50,333 --> 00:01:51,566
+Doraemon tắt đèn đi,
 
 75
-00:01:37,533 --> 00:01:38,533
-Doraemon lại biến hình một lần nữa,
+00:01:51,566 --> 00:01:53,400
+mọi người bắt đầu ném đồ của mình mang theo vào.
 
 76
-00:01:38,533 --> 00:01:39,866
-lần này cậu hóa thành một quả cơm nắm Doraemon khổng lồ.
+00:01:53,400 --> 00:01:55,566
+Chỉ một lúc sau, Tướng quân lẩu tuyên bố có thể thưởng thức.
 
 77
-00:01:39,866 --> 00:01:40,500
-"Ôi trời đất ơi!"
+00:01:55,566 --> 00:01:57,166
+Shizuka và Suneo tuy trong lòng vô cùng lo lắng chột dạ,
 
 78
-00:01:40,500 --> 00:01:41,333
-"Đây rốt cuộc là cái quái gì thế này!"
+00:01:57,166 --> 00:01:58,933
+nhưng vẫn cắn răng gắp thử đồ ăn bỏ vào miệng.
 
 79
-00:01:41,333 --> 00:01:42,733
-Võ sĩ Sumo sợ hãi nhảy dựng lên,
+00:01:58,933 --> 00:02:01,066
+Không ngờ hương vị lại ngon lành vượt xa
 
 80
-00:01:42,733 --> 00:01:43,100
-vung tay một phát
+00:02:01,066 --> 00:02:01,266
+mong đợi.
 
 81
-00:01:43,100 --> 00:01:45,133
-ném vèo quả cơm nắm Doraemon bay mất hút lên tận trời xanh.
+00:02:01,266 --> 00:02:03,400
+Ngay cả Chaien lần này cũng chẳng tìm ra được điểm gì để chê.
 
 82
-00:01:45,133 --> 00:01:46,366
-Doraemon cứ thế lăn lông lốc
+00:02:03,500 --> 00:02:04,533
+Doraemon bật đèn lên,
 
 83
-00:01:46,366 --> 00:01:47,133
-lăn lông lốc rơi xuống phía dưới.
+00:02:04,533 --> 00:02:04,900
+thì thấy
 
 84
-00:01:47,133 --> 00:01:48,366
-Cuối cùng cậu rơi bịch vào giữa bồn hoa công viên,
+00:02:04,900 --> 00:02:06,666
+Tướng quân lẩu đã dùng vỏ sủi dảo gói chặt
 
 85
-00:01:48,366 --> 00:01:49,333
-đầu óc quay cuồng xây xẩm mặt mày,
+00:02:06,666 --> 00:02:07,700
+những thứ dễ bị nát nhừ lại.
 
 86
-00:01:49,333 --> 00:01:51,166
-suýt chút nữa thì nôn hết đống cơm nắm vừa ăn ra ngoài.
+00:02:07,700 --> 00:02:08,400
+Nhờ thế,
 
 87
-00:01:51,166 --> 00:01:53,066
-Đúng lúc này, Chaien đang thong thả đi ngang qua đó.
+00:02:08,400 --> 00:02:09,333
+vị ngọt đậm đà của nước lẩu
 
 88
-00:01:53,066 --> 00:01:54,600
-"Oa, một quả cơm nắm khổng lồ ngon lành không có chủ này!"
+00:02:09,333 --> 00:02:10,600
+và vị ngọt tự nhiên của rau củ hòa quyện hoàn hảo
 
 89
-00:01:54,600 --> 00:01:56,366
-Chaien há to miệng ngoạm một miếng thật mạnh.
+00:02:10,600 --> 00:02:11,766
+vừa vặn với nhau.
 
 90
-00:01:56,366 --> 00:01:57,333
-Doraemon đau đớn la oai oái khóc thét lên,
+00:02:11,766 --> 00:02:12,766
+Lần trước có đứa ném sô-cô-la,
 
 91
-00:01:57,333 --> 00:01:58,333
-vừa khóc vừa co giò chạy trốn mất dạng.
+00:02:12,766 --> 00:02:14,066
+lần này lại có đứa ném khoai tây chiên vào.
 
 92
-00:01:58,333 --> 00:01:59,700
-Chaien ngơ ngác đứng hình không dám đuổi theo,
+00:02:14,066 --> 00:02:15,366
+Nhưng may mà có Tướng quân lẩu ở đây,
 
 93
-00:01:59,700 --> 00:02:01,500
-vì sợ quả cơm nắm quái dị đó quay lại nuốt chửng mình.
+00:02:15,366 --> 00:02:16,500
+chỉ cần là đồ ăn được
 
 94
-00:02:01,500 --> 00:02:03,300
-Doraemon mệt lử tựa lưng vào tường rầu rĩ.
+00:02:16,500 --> 00:02:18,100
+thì nó đều chế biến ngon lành hết sức.
 
 95
-00:02:03,300 --> 00:02:04,866
-Bỗng nhiên cậu nghe thấy tiếng nói chuyện của Suneo.
+00:02:18,100 --> 00:02:19,600
+Chaien lần này chẳng mang theo nguyên liệu gì,
 
 96
-00:02:04,866 --> 00:02:06,200
-Suneo đang bắn tiếng Anh vô cùng trôi chảy
+00:02:19,600 --> 00:02:20,766
+đã ăn chực thì chớ
 
 97
-00:02:06,200 --> 00:02:07,166
-để trò chuyện trò chuyện với hai người nước ngoài.
+00:02:20,766 --> 00:02:21,933
+lại còn đứng bên cạnh lầm bầm:
 
 98
-00:02:07,166 --> 00:02:08,933
-Người mẹ trông có nét rất giống cô bé lúc nãy.
+00:02:21,933 --> 00:02:23,200
+"Nồi lẩu hòa nhã êm đẹp thế này
 
 99
-00:02:08,933 --> 00:02:10,700
-Đúng là buồn ngủ gặp chiếu manh, tìm kiếm mãi cuối cùng tự tìm đến tận nơi.
+00:02:23,200 --> 00:02:24,266
+thì làm sao gọi là lẩu bóng đêm được."
 
 100
-00:02:10,700 --> 00:02:12,600
-Quả cơm nắm Doraemon nhảy tưng tưng tiến lại gần họ.
+00:02:24,266 --> 00:02:25,600
+Nhưng kết quả chính cậu ta lại là kẻ ăn nhiều nhất.
 
 101
-00:02:12,600 --> 00:02:14,066
-Ba người bọn họ sợ hãi mất hồn mất vía,
+00:02:25,600 --> 00:02:26,933
+Nobita và Doraemon đi về nhà,
 
 102
-00:02:14,066 --> 00:02:14,966
-lập tức vắt chân lên cổ bỏ chạy.
+00:02:26,933 --> 00:02:27,966
+nhưng chú búp bê Tướng quân lẩu
 
 103
-00:02:14,966 --> 00:02:15,966
-Quả cơm nắm lớn tiếng gọi giật giọng:
+00:02:27,966 --> 00:02:29,400
+vẫn cứ đội chặt trên đầu Nobita không chịu xuống.
 
 104
-00:02:15,966 --> 00:02:16,766
-"Có phải cô chú đang đi tìm
+00:02:29,400 --> 00:02:30,766
+Đúng lúc mẹ bảo có chuẩn bị
 
 105
-00:02:16,766 --> 00:02:17,566
-một cô bé bị lạc đường không?"
+00:02:30,766 --> 00:02:32,266
+bánh kem bơ để sẵn trong tủ lạnh cho hai đứa.
 
 106
-00:02:17,566 --> 00:02:19,133
-Hai vợ chồng nghe thấy thế mới lập tức quay đầu chạy trở lại.
+00:02:32,266 --> 00:02:33,966
+Khổ nỗi Nobita nói chuyện vô tình đệm phải từ "cái nồi",
 
 107
-00:02:19,133 --> 00:02:21,133
-Nhờ vậy, cô bé đã được đoàn tụ an toàn với bố mẹ của mình.
+00:02:33,966 --> 00:02:35,700
+Tướng quân lẩu lập tức mở bừng mắt ra.
 
 108
-00:02:21,133 --> 00:02:22,666
-Hiệu lực của bình xịt biến hình vừa vặn hết thời gian,
+00:02:35,700 --> 00:02:37,333
+Đầu tiên nó chỉ huy Doraemon đặt chiếc nồi lên bếp,
 
 109
-00:02:22,666 --> 00:02:24,566
-Doraemon cũng biến trở lại hình dạng bình thường.
+00:02:37,333 --> 00:02:39,533
+rồi điều khiển Nobita đổ sữa tươi và nước cốt dừa vào,
 
 110
-00:02:24,566 --> 00:02:25,933
-Cô bé rối rít nói lời cảm ơn nhóm bạn,
+00:02:39,533 --> 00:02:41,366
+tiếp đó ném nguyên cả chiếc bánh kem bơ vào trong.
 
 111
-00:02:25,933 --> 00:02:27,766
-nhưng cô bé vẫn muốn nhờ Doraemon giúp thêm một việc nữa.
+00:02:41,366 --> 00:02:42,866
+Thế là một nồi "lẩu kem sữa dừa" độc lạ
 
 112
-00:02:27,766 --> 00:02:29,666
-Cô bé ghé tai nói nhỏ dự định của mình cho Doraemon nghe.
+00:02:42,866 --> 00:02:43,700
+đã được hoàn thành.
 
 113
-00:02:29,666 --> 00:02:31,266
-Doraemon nghe xong liền vui vẻ gật đầu đồng ý ngay.
+00:02:43,700 --> 00:02:44,966
+Tuy rằng mùi vị ăn thử cũng rất khá,
 
 114
-00:02:31,266 --> 00:02:32,733
-Để thực hiện được tâm nguyện này của cô bé,
+00:02:44,966 --> 00:02:45,766
+nhưng hai đứa Nobita
 
 115
-00:02:32,733 --> 00:02:34,333
-cậu phải đi tìm bản thân mình ở vài tiếng sau đó
+00:02:45,766 --> 00:02:47,533
+đã ăn lẩu no căng bụng đến mức không thở nổi,
 
 116
-00:02:34,333 --> 00:02:35,733
-để nhờ giúp sức một tay. Cậu dùng cỗ máy thời gian đi đến tương lai,
+00:02:47,533 --> 00:02:48,900
+đành phải rủ nhau đi bộ ra ngoài cho tiêu bớt cơm.
 
 117
-00:02:35,733 --> 00:02:37,300
-đầu tiên tìm thấy chính mình ở một tiếng sau đó.
+00:02:48,900 --> 00:02:49,666
+Ngờ đâu đi giữa đường
 
 118
-00:02:37,300 --> 00:02:38,800
-Tiếp đó tìm thấy chính mình ở hai tiếng sau,
+00:02:49,666 --> 00:02:51,200
+lại đụng ngay một hàng bán Oden.
 
 119
-00:02:38,800 --> 00:02:40,100
-và ba tiếng sau đó.
+00:02:51,200 --> 00:02:52,100
+Nobita phấn khích
 
 120
-00:02:40,100 --> 00:02:42,200
-Rồi lần lượt xịt bình xịt biến hình vạn năng lên người họ,
+00:02:52,100 --> 00:02:53,566
+miệng lỡ thốt ra ba từ "món Oden",
 
 121
-00:02:42,200 --> 00:02:43,500
-bắt một người biến thành chú chó nhỏ,
+00:02:53,566 --> 00:02:55,133
+lại đánh thức Tướng quân lẩu dậy.
 
 122
-00:02:43,500 --> 00:02:44,700
-một người biến thành võ sĩ Sumo,
+00:02:55,133 --> 00:02:57,133
+Chủ nhân của xe đẩy Oden đó chính là mẹ Chaien.
 
 123
-00:02:44,700 --> 00:02:45,966
-và người cuối cùng biến thành quả cơm nắm khổng lồ.
+00:02:57,133 --> 00:02:58,866
+Tướng quân lẩu gạt phắt mẹ Chaien đứng tránh ra,
 
 124
-00:02:45,966 --> 00:02:47,466
-Những lần biến hình trước đó của Doraemon
+00:02:58,866 --> 00:03:01,000
+bảo ta phải nếm thử mùi vị món Oden này xem thế nào.
 
 125
-00:02:47,466 --> 00:02:48,733
-đều được tái hiện lại một lần nữa trước mắt họ.
+00:03:01,000 --> 00:03:02,566
+Nào ngờ Tướng quân lẩu mới húp thử một ngụm nước dùng
 
 126
-00:02:48,733 --> 00:02:49,000
-Hóa ra,
+00:03:02,566 --> 00:03:03,100
+đã lập tức lắc đầu bảo không đúng,
 
 127
-00:02:49,000 --> 00:02:50,866
-cô bé muốn cho bố mẹ mình cũng được chứng kiến
+00:03:03,100 --> 00:03:05,133
+vị này hoàn toàn không phải là vị chuẩn của món Oden.
 
 128
-00:02:50,866 --> 00:02:52,566
-những điều thú vị mà cô bé đã gặp trước đó.
+00:03:05,133 --> 00:03:06,100
+Mẹ Chaien lấy làm lạ bảo:
 
 129
-00:02:52,566 --> 00:02:54,166
-Để lưu giữ khoảnh khắc kỷ niệm đáng nhớ này,
+00:03:06,100 --> 00:03:07,400
+"Mấy năm nay tôi đều nấu như thế này mà."
 
 130
-00:02:54,166 --> 00:02:55,900
-Doraemon đề xuất cả nhóm cùng chụp một bức ảnh chung.
+00:03:07,400 --> 00:03:08,600
+Tướng quân lẩu không chịu thỏa hiệp:
 
 131
-00:02:55,900 --> 00:02:57,766
-Cậu lấy từ trong túi thần kỳ ra lọ "Bột hoa anh đào",
+00:03:08,600 --> 00:03:09,266
+"Đưa nồi đây cho ta,
 
 132
-00:02:57,766 --> 00:02:59,200
-chỉ cần rắc bột này lên nơi nào,
+00:03:09,266 --> 00:03:10,266
+ta nấu lại một nồi khác."
 
 133
-00:02:59,200 --> 00:03:00,566
-nơi đó sẽ nở ra những bông hoa anh đào tuyệt đẹp.
+00:03:10,266 --> 00:03:11,266
+"Hôm nay phải cho nhà ngươi mở mang tầm mắt
 
 134
-00:03:00,566 --> 00:03:02,400
-Chỉ trong chốc lát, cả bãi đất trống đã rợp bóng hoa anh đào bay lấp lánh.
+00:03:11,266 --> 00:03:12,533
+thế nào mới là Oden chuẩn vị chính tông."
 
 135
-00:03:02,400 --> 00:03:04,500
-Nobita giục mọi người tạo dáng chụp ảnh sao cho đẹp nhất.
+00:03:12,533 --> 00:03:13,666
+Mẹ Chaien cũng lười tranh cãi với nó,
 
 136
-00:03:04,500 --> 00:03:06,266
-Đúng lúc đó Doraemon vô tình trượt chân,
+00:03:13,666 --> 00:03:14,766
+buông một câu: "Muốn làm gì thì tùy ngươi."
 
 137
-00:03:06,266 --> 00:03:07,666
-đầu đâm sầm vào ống cống xi măng ở bãi đất trống.
+00:03:14,766 --> 00:03:16,366
+Tướng quân lẩu lập tức sai bảo Doraemon:
 
 138
-00:03:07,666 --> 00:03:08,500
-Thật là trùng hợp,
+00:03:16,366 --> 00:03:17,333
+"Mau lấy gia vị lại đây mau lên!"
 
 139
-00:03:08,500 --> 00:03:09,766
-mũi cậu lại chạm ngay trúng một bông hoa anh đào rơi xuống.
+00:03:17,333 --> 00:03:18,866
+Doraemon bất lực chẳng biết làm sao đành nghe theo.
 
 140
-00:03:09,766 --> 00:03:11,300
-Đúng khoảnh khắc đó máy ảnh bấm tách một cái vang lên.
+00:03:18,866 --> 00:03:20,666
+Kế đó nó điều khiển Nobita rắc gia vị vào nồi,
 
 141
-00:03:11,300 --> 00:03:12,566
-Doraemon biến thành một quả bóng hoa anh đào Doraemon.
+00:03:20,666 --> 00:03:22,266
+lại bắt Doraemon cầm muôi khuấy đều.
 
 142
-00:03:12,566 --> 00:03:14,466
-Dáng vẻ hồng hào đáng yêu trông cưng xỉu luôn.
+00:03:22,266 --> 00:03:23,533
+Doraemon dù trong lòng vô cùng bực bội
+
+143
+00:03:23,533 --> 00:03:24,766
+nhưng vẫn phải cắn răng chịu đựng làm theo.
+
+144
+00:03:24,766 --> 00:03:25,266
+Rất nhanh sau đó,
+
+145
+00:03:25,266 --> 00:03:27,333
+đám hàng xóm đi tập thể dục buổi tối đã quay trở về.
+
+146
+00:03:27,333 --> 00:03:29,200
+Nồi Oden của Tướng quân lẩu cũng vừa vặn nấu xong.
+
+147
+00:03:29,200 --> 00:03:30,533
+Rất đông người vây quanh chiếc xe đẩy.
+
+148
+00:03:30,533 --> 00:03:32,600
+Mẹ Chaien mời gọi mọi người qua ăn thử món Oden do bà nấu.
+
+149
+00:03:32,600 --> 00:03:34,066
+Cả đám người rầm rầm kéo nhau vây kín bên đó.
+
+150
+00:03:34,066 --> 00:03:35,733
+Đương nhiên phía bên Doraemon người ăn thử cũng không hề ít,
+
+151
+00:03:35,733 --> 00:03:37,100
+ai nấy đều thưởng thức rất ngon lành.
+
+152
+00:03:37,100 --> 00:03:38,566
+Cuối cùng, Tướng quân lẩu cất tiếng hỏi mọi người:
+
+153
+00:03:38,566 --> 00:03:39,700
+"Thấy nồi Oden bên trái ngon hơn
+
+154
+00:03:39,700 --> 00:03:40,800
+hay là nồi bên phải ngon hơn?"
+
+155
+00:03:40,800 --> 00:03:42,133
+Kết quả toàn bộ những người có mặt đều đồng thanh nói:
+
+156
+00:03:42,133 --> 00:03:43,666
+"Nồi lẩu của mẹ Chaien ngon hơn hẳn!"
+
+157
+00:03:43,700 --> 00:03:45,100
+Tướng quân lẩu đứng hình ngơ ngác tại chỗ.
+
+158
+00:03:45,100 --> 00:03:46,400
+Nó chạy lại gần một đứa trẻ hỏi:
+
+159
+00:03:46,400 --> 00:03:47,700
+"Tại sọc cháu lại thấy bên kia ngon hơn?"
+
+160
+00:03:47,700 --> 00:03:48,933
+Đứa bé bảo cháu cũng không biết,
+
+161
+00:03:48,933 --> 00:03:50,566
+nhưng cảm giác mùi vị bên kia ăn đúng vị và sướng miệng hơn.
+
+162
+00:03:50,566 --> 00:03:51,933
+Tướng quân lẩu nằm mơ cũng không ngờ tới
+
+163
+00:03:51,933 --> 00:03:53,700
+bản thân lại bị bại trận thảm hại trước món Oden.
+
+164
+00:03:53,700 --> 00:03:54,700
+Nó nhất quyết không tin vào thực tế,
+
+165
+00:03:54,700 --> 00:03:56,733
+liền cắn thử một miếng Oden do mẹ Chaien nấu để thẩm định.
+
+166
+00:03:56,733 --> 00:03:58,566
+Nhưng mùi vị nồng đậm đó đối với nó vẫn là quá gắt.
+
+167
+00:03:58,566 --> 00:03:59,366
+Nó vò đầu bứt tai không hiểu nổi
+
+168
+00:03:59,366 --> 00:04:00,766
+tại sao mình lại có thể thua trước hương vị tầm thường này.
+
+169
+00:04:00,766 --> 00:04:01,966
+Thực chất nguyên nhân vô cùng đơn giản:
+
+170
+00:04:01,966 --> 00:04:03,166
+Mọi người vừa mới đi tập thể thao mệt lử về,
+
+171
+00:04:03,166 --> 00:04:04,466
+lúc này cơ thể thèm nhất
+
+172
+00:04:04,466 --> 00:04:05,666
+là những món ăn có hương vị đậm đà và mặn mà chút.
+
+173
+00:04:05,666 --> 00:04:06,400
+Trong khi Tướng quân lẩu
+
+174
+00:04:06,400 --> 00:04:08,400
+chỉ chăm chăm muốn đưa hương vị thanh tao tự nhiên của món ăn lên mức tối đa,
+
+175
+00:04:08,400 --> 00:04:10,566
+mà hoàn toàn bỏ qua nhu cầu thực tế của người ăn lúc bấy giờ.
+
+176
+00:04:10,566 --> 00:04:12,266
+Một cô gái bên cạnh khẽ bảo với Tướng quân lẩu:
+
+177
+00:04:12,266 --> 00:04:14,166
+"Người phụ nữ sắt đá kia có biệt danh là 'Tướng quân lẩu',
+
+178
+00:04:14,166 --> 00:04:15,900
+chính là cấp trên trực tiếp của Tướng quân lẩu đấy."
+
+179
+00:04:15,900 --> 00:04:16,666
+Thế là xong,
+
+180
+00:04:16,666 --> 00:04:17,933
+sự áp đảo tuyệt đối về mặt cấp bậc và thực tế
+
+181
+00:04:17,933 --> 00:04:19,766
+đã khiến Tướng quân lẩu hoàn toàn tâm phục khẩu phục.
+
+182
+00:04:19,766 --> 00:04:21,366
+Giây tiếp theo nó lập tức bị sập nguồn rồi rơi bịch xuống đất.
